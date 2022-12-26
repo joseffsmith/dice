@@ -6,12 +6,11 @@ function App() {
   const [numRolls, setNumRolls] = useState(0);
 
   const roll = () => {
-    const rand = Math.random();
-    const mult = rand * 12;
-    const roun = Math.floor(mult);
-    console.log(rand, mult, roun);
     setNumRolls(numRolls + 1);
-    setCount(roun);
+    setCount(getRandomArbitrary(1, 12));
+  };
+  const getRandomArbitrary = (min: number, max: number): number => {
+    return Math.ceil(Math.random() * (max - min) + min);
   };
   return (
     <div
