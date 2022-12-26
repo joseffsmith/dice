@@ -2,12 +2,15 @@ import { useState } from "react";
 import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0);
+  const [dice1, setDice1] = useState(0);
+  const [dice2, setDice2] = useState(0);
+
   const [numRolls, setNumRolls] = useState(0);
 
   const roll = () => {
     setNumRolls(numRolls + 1);
-    setCount(getRandomArbitrary(1, 12));
+    setDice1(getRandomArbitrary(1, 6));
+    setDice2(getRandomArbitrary(1, 6));
   };
   const getRandomArbitrary = (min: number, max: number): number => {
     return Math.ceil(Math.random() * (max - min) + min);
@@ -28,7 +31,8 @@ function App() {
       onClick={roll}
     >
       <div>
-        <h1>{count}</h1>
+        <h1>{dice1 + dice2}</h1>
+        {dice1 === dice2 && <h2>Double!</h2>}
         <div className="card">
           <button>Roll</button>
         </div>
