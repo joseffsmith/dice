@@ -27,6 +27,7 @@ function App() {
         justifyContent: "center",
         display: "flex",
         alignItems: "center",
+        margin: "0 auto",
       }}
       onClick={roll}
     >
