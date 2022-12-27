@@ -9,6 +9,12 @@ import {
 import { useState } from "react";
 import "./App.css";
 
+type Round = { id: number; scores: PlayerScore[] };
+type PlayerScore = {
+  score1: number[];
+  score2?: number[];
+  score3?: number[];
+};
 function App() {
   const [_players, setPlayers] = useState<Player[]>([
     { name: "player1", id: 1, orderThrow: null },
@@ -24,20 +30,47 @@ function App() {
     if (!b.orderThrow && a.orderThrow) {
       return -1;
     }
-    return a.orderThrow! - b.orderThrow!;
+    return b.orderThrow! - a.orderThrow!;
   });
 
-  const [scores, setScores] = useState([]);
-
-  const [dice1, setDice1] = useState(0);
-  const [dice2, setDice2] = useState(0);
+  const [scores, setScores] = useState<Round[]>([{ id: 0, scores: [] }]);
 
   const [numRolls, setNumRolls] = useState(0);
 
   const roll = () => {
+    let sc = [...scores];
+    let [currRound] = sc.slice(-1);
+    console.log(currRound.scores.length, players.length);
+    if (!currRound || currRound.scores.length === players.length) {
+      currRound = { id: sc.length, scores: [] };
+      sc = [...sc, currRound];
+    }
+
     setNumRolls(numRolls + 1);
-    setDice1(getRandomArbitrary(0, 6));
-    setDice2(getRandomArbitrary(0, 6));
+
+    const score1 = getRoll();
+    let score2 = undefined;
+    let score3 = undefined;
+    if (score1[0] === score1[1]) {
+      score2 = getRoll();
+    }
+    if (score2 && score2[0] === score2[1]) {
+      score3 = getRoll();
+    }
+    const ps = {
+      score1,
+      score2,
+      score3,
+    };
+
+    setScores([
+      ...sc.slice(0, -1),
+      { ...currRound, scores: [...currRound.scores.slice(-1), ps] },
+    ]);
+  };
+
+  const getRoll = () => {
+    return [getRandomArbitrary(0, 6), getRandomArbitrary(0, 6)];
   };
   const getRandomArbitrary = (min: number, max: number): number => {
     return Math.ceil(Math.random() * (max - min) + min);
@@ -64,12 +97,10 @@ function App() {
   const handleDeletePlayer = (id: number) => {
     setPlayers((ps) => ps.filter((p) => p.id !== id));
   };
-  console.log(players);
+
   const currPlayer = players.find((p) => p.orderThrow === null);
 
   const rollInitial = (playerId: number) => {
-    // TODO: warning it will clear current scores
-    setScores([]);
     setPlayers((ps) =>
       ps.map((p) => {
         if (p.id !== playerId) {
@@ -82,12 +113,16 @@ function App() {
       })
     );
   };
+
+  const latestScore = scores.at(-1)?.scores.at(-1);
+
   return (
     <>
       <div style={{ width: "95%", overflowX: "auto" }}>
         <table>
           <thead>
             <tr>
+              <td>Round no.</td>
               {players.map((p) => (
                 <td key={p.id}>
                   <button onClick={() => setEditingPlayer(p)}>{p.name}</button>
@@ -100,18 +135,33 @@ function App() {
           </thead>
           <tbody>
             <tr>
+              <td>play order</td>
               {players.map((p) => (
                 <td key={p.id}>{p.orderThrow}</td>
               ))}
             </tr>
-            {scores.map((s, idx) => {
+            {[...scores].reverse().map((s, idx) => {
               if (idx > 3) {
                 return null;
               }
               return (
-                <tr key={idx}>
-                  {players.map((p) => {
-                    return <td key={p.id}>s[p.order]</td>;
+                <tr key={s.id}>
+                  <td>{s.id}</td>
+                  {players.map((p, jdx) => {
+                    const score = s.scores[jdx];
+                    if (!score) {
+                      return null;
+                    }
+
+                    return (
+                      <td key={p.id}>
+                        {score.score1[0]},{score.score1[1]}
+                        {score.score2 &&
+                          ` - ${score.score2[0]},${score.score2[1]}`}
+                        {score.score3 &&
+                          ` - ${score.score3[0]},${score.score3[1]}`}
+                      </td>
+                    );
                   })}
                 </tr>
               );
@@ -128,8 +178,6 @@ function App() {
         </div>
       ) : (
         <div className="App" onClick={roll}>
-          <h1>{dice1 + dice2}</h1>
-          {dice1 === dice2 && <h2>Double!</h2>}
           <div className="card">
             <button>Roll</button>
           </div>
