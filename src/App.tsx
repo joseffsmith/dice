@@ -9,8 +9,8 @@ function App() {
 
   const roll = () => {
     setNumRolls(numRolls + 1);
-    setDice1(getRandomArbitrary(1, 6));
-    setDice2(getRandomArbitrary(1, 6));
+    setDice1(getRandomArbitrary(0, 6));
+    setDice2(getRandomArbitrary(0, 6));
   };
   const getRandomArbitrary = (min: number, max: number): number => {
     return Math.ceil(Math.random() * (max - min) + min);
