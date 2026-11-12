@@ -33,10 +33,17 @@ the tide has been coming in wrong.
 - Studied the note (Investigation 14): it's Tib's real handwriting, but shaky and seawater-damp, and
   **missing the fox doodle**, their sign that a message is genuine. Tib wrote it under duress.
   The paper feels oddly ridged, but it's too dark to see why.
+- At **Brask's Chandlery**, the second look failed (Investigation 7). Hettie: tides are wrong all week,
+  coming in early and twice as low, "something's pulling at the sea".
+- The grey-coats came out of the Lamb and started looking down the street.
+- Asked Hettie for a back way: **NATURAL 20** Persuasion. She took a liking to Sable, rubbed charcoal over
+  the note and revealed Tib's scratched-out line: **"DON'T COME. UNDER IT—"**. Then she showed Sable
+  her old smuggling tunnel from the cellar, which comes out at the fishing slips near Pier Nine.
 
 ## NPCs
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Missing.
 - **Pip**: a halfling street kid (she/her), messenger, sharp and mercenary. Paid 1 gp for a distraction.
+- **Old Hettie Brask**: dwarf chandler, gruff, hates the Lantern Guild. Now **friendly** to Sable (nat 20).
 - **Grey-coats**: Lantern Guild enforcers with brass lantern pins. Two of them were searching the Drowned Lamb.
 
 - **The Choir**: street name for the crusted, humming people who come out of the drains.
@@ -45,6 +52,7 @@ the tide has been coming in wrong.
 - **The Drowned Lamb**: a dockside tavern in the Saltreach district. Sable's bolt-hole and the meeting spot.
 - **Fish market drain grate**: where the humming man came up from.
 - **Gull Canal**: where the empty carriage was found.
+- **Brask's Chandlery**: at the end of the Drowned Lamb's alley. Has a cellar smuggling tunnel to the fishing slips.
 - **Pier Nine**: a half-wrecked pier at the far end of the harbour. Midnight meeting.
 - **The Lantern Quarter**: the guild district, rich and well-lit. Scene of the botched job.
 

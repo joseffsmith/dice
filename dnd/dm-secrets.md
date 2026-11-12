@@ -45,4 +45,4 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - DC 10: genuine handwriting but shaky; the paper is damp with seawater; there's **no fox doodle** (their agreed
   sign that a message is genuine and freely written), so it was written under duress.
 - DC 15: faint indentations from an earlier line Tib scratched out: **"DON'T COME. UNDER IT—"**
-  - Rolled 14: missed it. Under a proper lantern (a change of circumstance) Sable can try again.
+  - Rolled 14: missed it. Retried in lamplight: 7. Then a nat 20 Persuasion made Hettie friendly enough to do a charcoal rubbing, which revealed it.
