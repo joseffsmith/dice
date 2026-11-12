@@ -156,6 +156,13 @@ the tide has been coming in wrong.
   (a drowned woman with a lamprey mouth), and it seems to stir as dusk approaches.
 - Watched a 4th Choir member arrive and learned their new **greeting**: a hummed call answered with a **descending three-note reply**.
   The newcomer warned that "the false brother" who stole the Eye may come disguised, so they test everyone now. (Gannet survived.)
+- Council of war, then **Tib's plan**: Sable (still disguised; Disguise Self can't be ended early by RAW), sang the password and told the acolytes
+  "the false brother has been felt in the harbour drains with the Eye". Deception 14 vs 7: **all four acolytes left.**
+- The party came in to carry the children out, but the group Stealth failed (Marta rolled a nat 1 and fell with two kids). **The Nurse woke**,
+  sensed the Eye, and went for Sable.
+- **Combat vs the Nurse.** Initiative: Pip 22, Nurse 19, Ossian 19, Marta 18, Tib 17, Sable 14.
+  - R1: Pip grabbed **Moss** and ran for the exit. Marta's opportunity attack missed. The Nurse clawed Sable twice for 9 (**Sable at 3/12**); he saved vs drowning touch.
+    Ossian cast **Sanctuary** on Sable and grabbed a child. Marta missed twice. Tib's thrown knife hit for 6 (**Nurse 30/36**).
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 

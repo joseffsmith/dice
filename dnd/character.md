@@ -7,7 +7,7 @@ _"Sable" is a working name. Nobody in Saltmarrow knows the real one._
 ## Core
 | AC | HP | Hit Dice | Speed | Initiative | Proficiency |
 |---|---|---|---|---|---|
-| 15 (leather) | **12 / 12** | 1d8 (1/1) | 30 ft | +4 | +2 |
+| 15 (leather) | **3 / 12** | 1d8 (1/1) | 30 ft | +4 | +2 |
 
 Passive Perception **14** · Darkvision 60 ft
 
@@ -72,4 +72,5 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 
 ## Conditions / notes
 - **Disguise Self** active (cast late afternoon on day 2, 1 hour): Choir member.
-- **The reliquary is with Tib.**
+- **Sanctuary** (from Ossian): the Nurse must pass a DC 12 Wis save to attack Sable. It ends if Sable attacks or casts on an enemy.
+- Carrying a dazed child (Hollis, about 8).
