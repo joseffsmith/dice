@@ -182,3 +182,15 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   One way it climbs to the **wine vaults beneath the Lantern Spire** (barred door, 2 grey-coat guards). The other way it slopes down into
   **the drowned temple complex**, joining it at a flooded gallery near the Mouth's shaft. That's how Crane means to reach the Sleeper at the spring tide.
 - Crane's diggers were mostly paid off and sent away. **Two of Pell's people** who went exploring were caught by Crane's men (they're held in the Spire vaults: a future hook).
+
+## Morning, day 3 (set before narrating)
+- Pell's eyes report:
+  - **The Choir is hunting**: dozens of hummers in the drains overnight, and the Gutterwick had to collapse a tunnel to keep them out. The Cantor knows
+    the children are gone and the Nurse is dead. The Choir now prioritises getting the Eye by force.
+  - **Crane** raised the bounty to **200 gp** and added Tib's face to the posters. The grey-coats are working with the **Watch** now: Hesk's men are searching houses in the Saltreach.
+  - **Hettie Brask's** shop was visited again by the Watch. She's fine, but they're watching it.
+- **Ossian** must go back to the temple today or be declared missing, which Vey would use as an excuse to search for him.
+- **Admiral Grane**: Marta knows the Navy holds a shore office at the **Admiralty Steps**, but it's watched by Hesk's men. The alternative is to row out to the
+  *Aurelian Dawn* at night. A watch of marines is on deck. Grane is a stern, hard old woman who respects nerve.
+- Sable's dream: the Cantor's face in green water: "You took our little ones, false brother. We will take yours."
+  (A threat: the Choir may target Pip or Hettie. Not immediately.)
