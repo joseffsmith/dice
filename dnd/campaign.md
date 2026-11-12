@@ -130,6 +130,8 @@ the tide has been coming in wrong.
   *"What was taken from the deep may be unmade only in the deep. Give it to the Mouth not whole but broken, and sing the Litany
   to its end, and the Sleeper shall sleep without dreaming, for ever."*
   So: **break the Eye inside the Mouth while the full Litany is sung, and the Sleeper sleeps for ever.**
+- Sable **told Marta everything** and showed her his real face under Penhallow's whiskers.
+- About 1am: **boots on the steps.** Four Lantern Guild grey-coats came down into the Leaky Bucket. The party heard them a moment early.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
