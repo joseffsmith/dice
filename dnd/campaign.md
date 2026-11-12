@@ -188,6 +188,12 @@ the tide has been coming in wrong.
 - **Night:** Sable, Marta and Tib rowed out (**the Eye left with Mother Pell**). No trouble on the way. They hailed the *Aurelian Dawn* openly.
   Persuasion with Lt **Abel Fross** failed (11): he wouldn't wake the Admiral, and called the officer of the watch instead: **Commander Voss**.
   Sable recognised the name from copying the ledger: ***"Cmdr. Voss, for harbour soundings: 40 cr."*** **Crane's man on the flagship.**
+- Sable **exposed Voss** in front of the marines, holding up the page by lantern-light (Persuasion 14 vs Voss's Deception 11). The uproar woke
+  **Admiral Thessaly Grane**. She read the page and had **Voss confined to quarters** under guard. The party was brought to her stern cabin.
+- **Grane** (60s, peg leg, iron-grey braid, cannon voice): furious about Voss. She took the **ledger** into her keeping. But the Admiralty has ordered
+  her to stay out of civic affairs, and to declare **martial law** she needs proof of a threat to the city *and* the fleet "from someone who isn't a thief".
+  → **Ossian's tide charts.** If she gets them, she'll declare martial law on the eve of the spring tide, arrest Hesk (with Marta present),
+  and lend **marines** against Crane.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -200,8 +206,8 @@ the tide has been coming in wrong.
 - **Marta Kell**: ex-Watch sergeant, honest, framed and sacked by Hesk. Bitter and sharp. **Ally** (her price: to be there when Hesk falls).
 - **Sergeant Dunmore**: Marta's old partner. Paid 30 cr. to testify against her (it's in the ledger).
 - **Lt Abel Fross**: young marine officer on the *Aurelian Dawn*. By the book.
-- **Commander Voss**: the fleet's purser, on the *Aurelian Dawn*. **In Crane's ledger** (selling harbour soundings).
-- **Admiral Thessaly Grane** (not yet met): commands the rotting imperial fleet from the *Aurelian Dawn*. Hates Crane.
+- **Commander Voss**: the fleet's purser. **In Crane's ledger.** Exposed and confined to quarters.
+- **Admiral Thessaly Grane**: commands the imperial fleet from the *Aurelian Dawn*. Peg leg, iron will. Holding the ledger. Needs proof of the threat.
 - **Mother Pell**: head of the Gutterwick. Huge, elderly half-orc woman, always knitting, on a pulpit throne. Knows Pip.
 - **Needle**: one-armed tiefling, a Gutterwick lookout leader. Dry and careful.
 - **Inky Mabb**: ancient gnome forger in the Gutterwick. Has forged the Emperor's seal. Saw through Sable's copy.
@@ -238,7 +244,8 @@ the tide has been coming in wrong.
 - [x] ~~Retrieve the ledger.~~ Got it... then lost it to Mother Pell.
 - [x] ~~**Rescue Pell's six missing children**~~ Done. Got the original ledger back and learned about the diggers' tunnel.
 - [ ] Pell's two people held by Crane (probably in the Spire vaults?).
-- [ ] Get the ledger to **Admiral Grane** on the *Aurelian Dawn*.
+- [x] ~~Get the ledger to Admiral Grane.~~ Done. Voss confined.
+- [ ] Bring **Ossian's tide charts** (or Ossian) to Grane, so she can declare martial law.
 - [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
 - [ ] Crane's binding at the **Lantern Spire** at the spring tide (**day 10**).
 - [ ] The Choir's threat against Sable's people (Pip? Hettie?).
@@ -250,4 +257,4 @@ the tide has been coming in wrong.
 ## Loot & gold
 - 7 gp, 6 sp
 - Brass reliquary (locked)
-- **Crane's ledger** (the ORIGINAL, back from Pell)
+- ~~Crane's ledger~~ given to **Admiral Grane**
