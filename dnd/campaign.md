@@ -110,6 +110,10 @@ the tide has been coming in wrong.
   Legend: Saint Aurel took one of the **Sleeper's** eyes, which blinded it into sleep. "While the Eye is held from the deep, the Sleeper dreams.
   Return the Eye and it wakes. One who holds the Eye and sings the Litany at the high spring tide shall bend the Sleeper's will."
   So the **Choir wants to wake it** and **Crane wants to control it**.
+- Sable told Ossian the truth and showed him the box. Ossian is terrified but **wants to help**. He'll sneak the full Litany
+  scroll out of the locked **archive** tonight after vespers (via the lamp cupboard).
+- The Tidewarden came over asking about "the disturbance in the pool". Penhallow claimed he'd tripped and splashed it.
+  Deception 24 vs Vey's Insight 24: **a tie**, so she's neither fooled nor certain. She ordered Ossian to see her **after vespers**.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -121,8 +125,9 @@ the tide has been coming in wrong.
 - **Captain Hesk**: City Watch captain. On Crane's payroll (according to the ledger).
 - **Marta Kell** (not yet met): ex-Watch sergeant, honest, sacked by Hesk. The Leaky Bucket.
 - **Mother Pell** (not yet met): head of the Gutterwick thieves' guild.
-- **Brother Ossian**: young, nervous tide-priest. Charts the tides, and nobody listens to him. Knows the Litany of Saint Aurel.
-- **High Tidewarden Cassia Vey**: head of the Temple of the Tides. Smooth, political, funded by Crane.
+- **Brother Ossian**: young, nervous tide-priest. Charts the tides, and nobody listens to him. Knows the Litany of Saint Aurel. **Knows Sable's secret and wants to help.**
+- **High Tidewarden Cassia Vey**: head of the Temple of the Tides. Smooth, political, funded by Crane. **Suspicious of Penhallow.**
+- **Brother Tamsin**: older priest, sour, Vey's yes-man.
 - **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
 - **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.
 - **Old Hettie Brask**: dwarf chandler, gruff, hates the Lantern Guild. Now **friendly** to Sable (nat 20).
