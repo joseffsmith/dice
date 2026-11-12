@@ -194,3 +194,18 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   *Aurelian Dawn* at night. A watch of marines is on deck. Grane is a stern, hard old woman who respects nerve.
 - Sable's dream: the Cantor's face in green water: "You took our little ones, false brother. We will take yours."
   (A threat: the Choir may target Pip or Hettie. Not immediately.)
+
+## Night, day 3: the Aurelian Dawn (set before rolling)
+- The Eye is left with Mother Pell at St Ebb's. Secret 1d6: on a 1, the Choir finds St Ebb's tonight (drawn by the Eye) and attacks. Otherwise not yet.
+- Rowing out: encounter check 1d6, 1 = trouble (Watch harbour patrol boat).
+- **Admiral Thessaly Grane**: in her 60s, with a peg leg (lost the leg to pirates), iron-grey braid and a voice like a cannon. Stern and fair, and she **respects nerve**.
+  - She has been ordered by the Imperial Admiralty to stay out of civic matters. To act inside the city she needs **grounds for martial law**:
+    proof that the city's authorities are corrupt AND a threat to imperial assets.
+  - The ledger also contains payments to **Commander Voss**, her own fleet purser ("for harbour soundings"), which means Crane has been buying
+    information on the fleet. She'll be **furious**, and that's enough on the corruption side.
+  - She still needs the "threat" part. A sea monster tale won't move her, but **Ossian's tide charts** (a flood threatening the fleet's anchorage and the city)
+    would. She'll ask for "proof that the sea's gone mad, from someone who isn't a thief".
+  - Her offer: bring her the charts (or Ossian himself) and she will declare martial law on the eve of the spring tide and arrest Hesk. Marta can be there.
+    She'll also lend marines for the Spire (a squad of 6) if convinced Crane is behind the flood.
+- Approaching openly: the marines challenge. **Lieutenant Abel Fross** (young, by-the-book). Persuasion/Deception DC 13 to be brought aboard to the admiral,
+  or advantage if Marta vouches as an ex-sergeant (Fross knew her by reputation).

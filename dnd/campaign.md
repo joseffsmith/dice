@@ -184,6 +184,10 @@ the tide has been coming in wrong.
   face. Grey-coats and **Hesk's Watch** are searching houses together. The Watch visited **Hettie's** shop again.
 - **Ossian** has to go back to the temple today, or Vey will report him missing.
 - Marta: to reach **Admiral Grane**, either go to the **Admiralty Steps** shore office (watched by Hesk's men) or row out to the *Aurelian Dawn* at night.
+- Ossian went back to the temple. The party lay low at St Ebb's. Needle lent a muffled **Gutterwick skiff**.
+- **Night:** Sable, Marta and Tib rowed out (**the Eye left with Mother Pell**). No trouble on the way. They hailed the *Aurelian Dawn* openly.
+  Persuasion with Lt **Abel Fross** failed (11): he wouldn't wake the Admiral, and called the officer of the watch instead: **Commander Voss**.
+  Sable recognised the name from copying the ledger: ***"Cmdr. Voss, for harbour soundings: 40 cr."*** **Crane's man on the flagship.**
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -195,6 +199,8 @@ the tide has been coming in wrong.
 - **Captain Hesk**: City Watch captain. On Crane's payroll (according to the ledger).
 - **Marta Kell**: ex-Watch sergeant, honest, framed and sacked by Hesk. Bitter and sharp. **Ally** (her price: to be there when Hesk falls).
 - **Sergeant Dunmore**: Marta's old partner. Paid 30 cr. to testify against her (it's in the ledger).
+- **Lt Abel Fross**: young marine officer on the *Aurelian Dawn*. By the book.
+- **Commander Voss**: the fleet's purser, on the *Aurelian Dawn*. **In Crane's ledger** (selling harbour soundings).
 - **Admiral Thessaly Grane** (not yet met): commands the rotting imperial fleet from the *Aurelian Dawn*. Hates Crane.
 - **Mother Pell**: head of the Gutterwick. Huge, elderly half-orc woman, always knitting, on a pulpit throne. Knows Pip.
 - **Needle**: one-armed tiefling, a Gutterwick lookout leader. Dry and careful.
