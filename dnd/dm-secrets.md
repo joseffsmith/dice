@@ -102,3 +102,8 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   - The Litany also says the Eye "was made in the deep and may be unmade only there", which is vague. It's a potential route to
     destroying it, but dangerous (it would have to be done in the Sleeper's presence).
 - If Ossian is shown the box, he's terrified and awed. He'd want to help, and he'd become an ally (a healer).
+- (Clarifying the lock, written before Sable says the words) The reliquary opens when **the person holding it, with a hand on it**,
+  speaks "vael thessa morun". If it's only spoken nearby (like the Cantor did, or Sable now with his hand off it), it just flares hot and hums, and
+  nearby seawater stirs.
+- Ossian recalls the gist of the Litany legend from memory. The line "made in the deep, may be unmade only there" is only in the archive scroll,
+  which is kept in the locked **Tidewarden's archive** under the temple. Ossian can get in after vespers.

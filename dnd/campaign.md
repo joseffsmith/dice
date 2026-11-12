@@ -100,6 +100,16 @@ the tide has been coming in wrong.
   - **Marta Kell**: ex-Watch sergeant, sacked for refusing Hesk's bribes. Drinks at **The Leaky Bucket**.
   - **Mother Pell** of the **Gutterwick** (thieves): Hettie's dad smuggled for her. She'd buy the ledger or trade favours.
   - **Brother Ossian**, at the **Temple of the Tides**: might read Old Aurelian.
+- **Temple of the Tides**: High Tidewarden **Cassia Vey** is preaching "it's natural". There's a Lantern Guild plaque for the new roof,
+  and Crane's men dined with her. Met **Brother Ossian** (as Penhallow). His tide charts show:
+  - The tides went wrong **8 days ago** (the same day as the diggers' "broken through" entry).
+  - Every low tide is lower than the last. The water's being pulled **down**, and the pull centres on **Pier Nine**.
+  - At the **spring tide (9 days)** the sea will go out further than ever, then return all at once and **flood the lower city**.
+- Told Ossian the words. **"Vael thessa morun" = "The tide remembers"**, the first line of the *Litany of Saint Aurel*.
+  When Sable said it aloud, the box flared hot and the tidal pool rippled.
+  Legend: Saint Aurel took one of the **Sleeper's** eyes, which blinded it into sleep. "While the Eye is held from the deep, the Sleeper dreams.
+  Return the Eye and it wakes. One who holds the Eye and sings the Litany at the high spring tide shall bend the Sleeper's will."
+  So the **Choir wants to wake it** and **Crane wants to control it**.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -111,7 +121,8 @@ the tide has been coming in wrong.
 - **Captain Hesk**: City Watch captain. On Crane's payroll (according to the ledger).
 - **Marta Kell** (not yet met): ex-Watch sergeant, honest, sacked by Hesk. The Leaky Bucket.
 - **Mother Pell** (not yet met): head of the Gutterwick thieves' guild.
-- **Brother Ossian** (not yet met): Temple of the Tides; might translate Old Aurelian.
+- **Brother Ossian**: young, nervous tide-priest. Charts the tides, and nobody listens to him. Knows the Litany of Saint Aurel.
+- **High Tidewarden Cassia Vey**: head of the Temple of the Tides. Smooth, political, funded by Crane.
 - **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
 - **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.
 - **Old Hettie Brask**: dwarf chandler, gruff, hates the Lantern Guild. Now **friendly** to Sable (nat 20).
