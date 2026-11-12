@@ -124,6 +124,12 @@ the tide has been coming in wrong.
   Her plan: take the ledger to **Admiral Thessaly Grane** of the imperial fleet (flagship *Aurelian Dawn*, anchored in the harbour).
   The Navy is the one power Crane doesn't own, and Grane hates him: he's been buying up her sailors' debts.
   Her price: **she wants to be there when Hesk falls.**
+- **Shook on it. Marta Kell has joined.**
+- About 12:30am, **Ossian arrived** with the **full Litany scroll** from the archive. He was rattled: the Tidewarden questioned him hard after vespers,
+  and he *thinks* he convinced her. The extra verse:
+  *"What was taken from the deep may be unmade only in the deep. Give it to the Mouth not whole but broken, and sing the Litany
+  to its end, and the Sleeper shall sleep without dreaming, for ever."*
+  So: **break the Eye inside the Mouth while the full Litany is sung, and the Sleeper sleeps for ever.**
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -133,7 +139,7 @@ the tide has been coming in wrong.
 - **Ottavio Crane**: merchant prince, head of the Lantern Guild. Charming and polite, with a hammer in his desk drawer. His house is full of clocks.
 - **Mags Corrow**: foreman at Old Wendle's rope-walk. Loud, red-faced, overworked. Believes Sable is insurance assessor Penhallow.
 - **Captain Hesk**: City Watch captain. On Crane's payroll (according to the ledger).
-- **Marta Kell**: ex-Watch sergeant, honest, framed and sacked by Hesk. Bitter and sharp. The Leaky Bucket.
+- **Marta Kell**: ex-Watch sergeant, honest, framed and sacked by Hesk. Bitter and sharp. **Ally** (her price: to be there when Hesk falls).
 - **Sergeant Dunmore**: Marta's old partner. Paid 30 cr. to testify against her (it's in the ledger).
 - **Admiral Thessaly Grane** (not yet met): commands the rotting imperial fleet from the *Aurelian Dawn*. Hates Crane.
 - **Mother Pell** (not yet met): head of the Gutterwick thieves' guild.
@@ -165,6 +171,8 @@ the tide has been coming in wrong.
 - [x] ~~Find out what happened to Tib.~~ Rescued from the Drowned Chapel.
 - [x] ~~What is Tib hiding?~~ He gave up the Lamb under threat. Forgiven.
 - [x] ~~Retrieve the ledger.~~ Got it!
+- [ ] Get the ledger to **Admiral Grane** on the *Aurelian Dawn*.
+- [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
 - [ ] Crane's binding at the **Lantern Spire** at the spring tide: **9 days**.
 - [x] ~~Return Hettie's lantern.~~
 - [ ] Sable owes Pip **two favours**.
