@@ -216,7 +216,14 @@ the tide has been coming in wrong.
   **She's convinced.** Plan: **martial law at dusk on day 9** (the eve of the spring tide). Marines take the Watch house and **arrest Hesk** (Marta present).
   The fleet moves to deeper water.
 - Sable asked for **marines to raid the Spire vaults early** through the diggers' tunnel (Persuasion 25). Grane agreed: **Lt Fross and 6 marines,
-  out of uniform** ("If you're caught, I never heard of you"). She also gave **2 potions of healing**.
+  out of uniform** ("If you're caught, I never heard of you"). She also gave **2 potions of healing**. Grane kept Ossian's charts as evidence.
+
+### Day 5: 5 days to the spring tide
+- Rested at St Ebb's. News: Vey reported Ossian as a **thief**, and Watch posters for him went up by noon.
+- **Night: the vault raid.** Fross and 6 marines came ashore in plain clothes. Team: Sable, Tib, Marta, Ossian, Needle (guide), Fross and 6 marines.
+  Pip stayed at St Ebb's with Pell and the Eye.
+- In the diggers' tunnel: a **fork** halfway up. One branch goes up to the vaults; the other is a steep shaft **down toward the drowned temple**, with faint humming below.
+- The advance team (Sable, Tib, Needle) crept to the **vault door** unseen (23/15/9). There are **four** voices behind it, playing cards. The guard has been doubled.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
