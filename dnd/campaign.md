@@ -163,6 +163,9 @@ the tide has been coming in wrong.
 - **Combat vs the Nurse.** Initiative: Pip 22, Nurse 19, Ossian 19, Marta 18, Tib 17, Sable 14.
   - R1: Pip grabbed **Moss** and ran for the exit. Marta's opportunity attack missed. The Nurse clawed Sable twice for 9 (**Sable at 3/12**); he saved vs drowning touch.
     Ossian cast **Sanctuary** on Sable and grabbed a child. Marta missed twice. Tib's thrown knife hit for 6 (**Nurse 30/36**).
+    Sable cast **Healing Word** on himself (+6, **9/12**, last slot) and dashed out through the gap with a child (Hollis). The Nurse's opportunity attack missed.
+  - R2: Pip set Moss down beside Sable. The Nurse charged the gap and got **wedged** squeezing her bulk through (advantage against her, disadvantage on her attacks).
+    Ossian's Sacred Flame hit for 2. Marta hit twice with advantage for 4 + 5. **Nurse 19/36.** Tib gathered the two remaining children behind Marta.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
