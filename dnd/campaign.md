@@ -55,9 +55,16 @@ the tide has been coming in wrong.
   The guard (milky fish-eyes) sensed the box humming and assumed Sable had brought "the Eye" to "the Mouth" below.
   He mentioned "the thief's partner swore he didn't know where it was" and that "the Sleeper will see".
 - Sable dodged his embrace: "Lead the way, brother" (Deception 11 vs his Insight 1, a nat 1). He led Sable down the kelp ladder.
+- **The Drowned Chapel**: a vast flooded temple. In the centre, **the Mouth**: a stone maw leading down into a black shaft.
+  Above it, a carved face with one black stone eye and **one empty socket**. 8 Choir acolytes in a ring.
+  The **Cantor, Sister Ilse**, has gills, webbed hands and a coral staff. **Tib** is chained to a pillar on the east side, badly beaten.
+  He shook his head at the "stranger": don't hand it over.
+- Sable cast **Charm Person** on the Cantor, hidden in the hum (Performance 19, nobody noticed), but she **saved with a nat 20**.
+  The spell fizzled unnoticed. Last spell slot spent.
 
 ## NPCs
-- **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Missing.
+- **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Chained in the Drowned Chapel.
+- **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
 - **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.
 - **Old Hettie Brask**: dwarf chandler, gruff, hates the Lantern Guild. Now **friendly** to Sable (nat 20).
 - **Grey-coats**: Lantern Guild enforcers with brass lantern pins. Two of them were searching the Drowned Lamb.
