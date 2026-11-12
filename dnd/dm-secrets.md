@@ -156,3 +156,10 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   - Possible solution: Sable could **forge a copy** (forgery kit). A good forgery could satisfy Pell (she'd test it: Investigation +3).
 - Pell knows where Crane's diggers broke through: a sealed tunnel under the **Lantern Spire's** foundations that connects to the drowned
   temple complex. That's a back way in for Crane at the spring tide, and maybe for Sable.
+
+## Pell's terms for a copy & the missing children (set day 2, ~2am)
+- Pell's terms: (1) the copy is made **here, tonight, under her eye**, and it must pass her own forger, **Inky Mabb** (Investigation +5).
+  (2) Sable helps find her **missing children**. (3) In return: weapons back, the safe house, her people's eyes, and the location of the diggers' breakthrough.
+- **The missing children** (Moss and five others) are alive in the Choir's **"Cradle"**: tidal pools in a cistern under the **fish market**.
+  They're slowly being "baptised", becoming Choir (barnacles forming). They can be saved fully until the spring tide; after that the change is permanent.
+  The Cradle is guarded by 3 acolytes and a **Choir "Nurse"**, a bloated thing (*ghoul*-like, but paralysis is replaced by "drowning touch": a Con save DC 10 or 1d6 cold and slowed).
