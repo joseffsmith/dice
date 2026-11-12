@@ -163,3 +163,16 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - **The missing children** (Moss and five others) are alive in the Choir's **"Cradle"**: tidal pools in a cistern under the **fish market**.
   They're slowly being "baptised", becoming Choir (barnacles forming). They can be saved fully until the spring tide; after that the change is permanent.
   The Cradle is guarded by 3 acolytes and a **Choir "Nurse"**, a bloated thing (*ghoul*-like, but paralysis is replaced by "drowning touch": a Con save DC 10 or 1d6 cold and slowed).
+
+## The Cradle, under the fish market (set day 2 afternoon, before scouting)
+- Reached via Gutterwick drains, then a collapsed brick wall into the old **fish-market cistern**: a vaulted brick hall, with stalls overhead
+  (light through floor grates, footsteps, fish guts dripping down).
+- In the middle, **six shallow tidal pools** glowing green. **Six children** sit waist-deep in them, singing, eyes glazed (charmed and half-changed),
+  with barnacles starting on their arms. **Moss** is the smallest: a halfling boy with a gap-toothed grin, now blank-eyed.
+- Guards: **3 Choir acolytes** (cultist stats) and **the Nurse**: a huge bloated drowned woman with a lamprey mouth
+  (AC 12, 36 HP, two claws +4 1d6+2; "drowning touch": DC 12 Con save or 1d6 cold and speed halved). She sleeps in the deepest pool by day
+  and wakes at dusk.
+- **New since the theft:** the Cantor knows a disguised "brother" stole the Eye (Gannet survived, battered, and told them).
+  Choir members now greet strangers with a **hummed call**, and the right reply is a descending three-note answer.
+  If Sable watches two of them meet first, he learns it automatically. Otherwise, Performance DC 15 to improvise a convincing reply.
+- **If Sable brings the box in**, every Choir member within 60 ft feels the Eye. The acolytes would know him for the thief at once.
