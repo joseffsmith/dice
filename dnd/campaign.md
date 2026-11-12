@@ -166,6 +166,11 @@ the tide has been coming in wrong.
     Sable cast **Healing Word** on himself (+6, **9/12**, last slot) and dashed out through the gap with a child (Hollis). The Nurse's opportunity attack missed.
   - R2: Pip set Moss down beside Sable. The Nurse charged the gap and got **wedged** squeezing her bulk through (advantage against her, disadvantage on her attacks).
     Ossian's Sacred Flame hit for 2. Marta hit twice with advantage for 4 + 5. **Nurse 19/36.** Tib gathered the two remaining children behind Marta.
+    Sable gave Marta **Bardic Inspiration** and hit the Nurse with **Vicious Mockery** (4, so 15/36).
+  - R3: Pip's rock hit for 3. The Nurse tore free of the gap, and Marta's opportunity attack hit for 10 (**2 HP left**). Ossian's Sacred Flame was saved.
+    Marta chased her down: rolled 9, plus **Bardic Inspiration 3 = 12, a HIT. The Nurse is dead.**
+- **All six children rescued**, including **Moss**. Away from the green water, they're slowly waking up.
+- **XP:** Nurse 200 → **Sable 300 XP, reaching level 2.**
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -212,7 +217,7 @@ the tide has been coming in wrong.
 - [x] ~~Find out what happened to Tib.~~ Rescued from the Drowned Chapel.
 - [x] ~~What is Tib hiding?~~ He gave up the Lamb under threat. Forgiven.
 - [x] ~~Retrieve the ledger.~~ Got it... then lost it to Mother Pell.
-- [ ] **Rescue Pell's six missing children** (incl. Moss) from the Choir, and she'll return the original ledger and reveal the diggers' tunnel.
+- [x] ~~**Rescue Pell's six missing children**~~ All six rescued! Return them to Pell for the original ledger and the diggers' tunnel.
 - [ ] Get the ledger to **Admiral Grane** on the *Aurelian Dawn*.
 - [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
 - [ ] Crane's binding at the **Lantern Spire** at the spring tide: **9 days**.

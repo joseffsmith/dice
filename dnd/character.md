@@ -1,7 +1,7 @@
 # Sable: Half-Elf Bard 1 (Charlatan)
 _"Sable" is a working name. Nobody in Saltmarrow knows the real one._
 
-**Rules:** D&D 5e (2014) · **Level:** 1 · **XP:** 100 / 300
+**Rules:** D&D 5e (2014) · **Level:** 1 · **XP:** 300 / 300: **LEVEL UP pending!**
 **Pronouns:** he/him · **Alignment:** Chaotic Neutral (leaning good, though Sable would deny it)
 
 ## Core
@@ -55,7 +55,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - **1st level (known):** Disguise Self, Charm Person, Healing Word, Sleep
 
 ## Features
-- **Bardic Inspiration (d6):** 5 / 5 per long rest. As a bonus action, an ally within 60 ft gains a d6 to add to one ability check, attack roll or saving throw.
+- **Bardic Inspiration (d6):** 4 / 5 per long rest. As a bonus action, an ally within 60 ft gains a d6 to add to one ability check, attack roll or saving throw.
 - **Fey Ancestry:** Advantage on saves against being charmed; magic can't put you to sleep.
 - **False Identity (Charlatan):** You have a second identity with documents, contacts and disguises, and you can forge documents you've seen.
   Your identity: **Aldous Penhallow**, an elderly insurance assessor and ship's purser.
@@ -72,5 +72,4 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 
 ## Conditions / notes
 - **Disguise Self** active (cast late afternoon on day 2, 1 hour): Choir member.
-- **Sanctuary** (from Ossian): the Nurse must pass a DC 12 Wis save to attack Sable. It ends if Sable attacks or casts on an enemy.
 - Carrying a dazed child (Hollis, about 8).
