@@ -115,7 +115,10 @@ the tide has been coming in wrong.
 - The Tidewarden came over asking about "the disturbance in the pool". Penhallow claimed he'd tripped and splashed it.
   Deception 24 vs Vey's Insight 24: **a tie**, so she's neither fooled nor certain. She ordered Ossian to see her **after vespers**.
 - Arranged to meet Ossian at **The Leaky Bucket** (Netmakers' Row) after midnight, once he's raided the archive.
-- **Evening:** went to the Leaky Bucket to find Marta Kell. (Unknown to Sable, someone was following...)
+- **Evening:** went to the Leaky Bucket to find Marta Kell. She didn't see through the disguise.
+- As Penhallow, bought Marta a bottle (4 sp) and got her talking (Persuasion 19). Her story: twenty years in the Watch. Last year she
+  arrested a Lantern Guild clerk for smuggling, and **Hesk** let him go, then offered Marta money to forget it. She refused, and
+  **she was framed for theft and thrown out**. Her old partner, **Sergeant Dunmore**, testified against her.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -125,7 +128,8 @@ the tide has been coming in wrong.
 - **Ottavio Crane**: merchant prince, head of the Lantern Guild. Charming and polite, with a hammer in his desk drawer. His house is full of clocks.
 - **Mags Corrow**: foreman at Old Wendle's rope-walk. Loud, red-faced, overworked. Believes Sable is insurance assessor Penhallow.
 - **Captain Hesk**: City Watch captain. On Crane's payroll (according to the ledger).
-- **Marta Kell** (not yet met): ex-Watch sergeant, honest, sacked by Hesk. The Leaky Bucket.
+- **Marta Kell**: ex-Watch sergeant, honest, framed and sacked by Hesk. Bitter and sharp. The Leaky Bucket.
+- **Sergeant Dunmore**: Marta's old partner. Testified against her. Probably in the ledger.
 - **Mother Pell** (not yet met): head of the Gutterwick thieves' guild.
 - **Brother Ossian**: young, nervous tide-priest. Charts the tides, and nobody listens to him. Knows the Litany of Saint Aurel. **Knows Sable's secret and wants to help.**
 - **High Tidewarden Cassia Vey**: head of the Temple of the Tides. Smooth, political, funded by Crane. **Suspicious of Penhallow.**
@@ -162,6 +166,6 @@ the tide has been coming in wrong.
 - [ ] Find out what's in the reliquary, and who wants it.
 
 ## Loot & gold
-- 13 gp
+- 12 gp, 6 sp
 - Brass reliquary (locked)
 - **Crane's ledger** (bribes to Hesk and the Watch; payments to the diggers)

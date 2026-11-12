@@ -12,6 +12,7 @@ Usage:
   python3 roll.py dis d20+2 "Attack, disadvantage"
   python3 roll.py 4d6kh3 "Ability score"       # keep highest 3
   python3 roll.py 1d8+1d6+2 "Sneak attack"
+  python3 roll.py --secret d20+3 "Hidden DM roll"   # logged, but not printed
 """
 import re
 import secrets
@@ -57,6 +58,9 @@ def main(argv):
     if not argv:
         print(__doc__)
         return 1
+    secret = False
+    if argv[0] == "--secret":
+        secret, argv = True, argv[1:]
     mode = None
     if argv[0].lower() in ("adv", "dis"):
         mode, argv = argv[0].lower(), argv[1:]
@@ -77,8 +81,8 @@ def main(argv):
         kept = max(d20s) if mode == "adv" else min(d20s) if mode == "dis" else d20s[0]
         nat = "  ** NATURAL 20! **" if kept == 20 else "  ** natural 1 **" if kept == 1 else ""
 
-    line = f"[{datetime.now():%Y-%m-%d %H:%M:%S}] {reason}: {expr} -> {detail}{nat}"
-    print(line)
+    line = f"[{datetime.now():%Y-%m-%d %H:%M:%S}] {'(SECRET) ' if secret else ''}{reason}: {expr} -> {detail}{nat}"
+    print("Secret roll logged." if secret else line)
     with LOG.open("a") as f:
         f.write(line + "\n")
     return 0
