@@ -136,3 +136,10 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   So: break the Eye **inside the Mouth** while someone sings the full Litany, and the Sleeper is ended for good (permanently asleep).
   That needs a way to break it (it's very hard: AC 20, 30 HP, immune to non-magical damage? Ossian suspects "only a holy or tide-touched blow").
 - Ossian arrives about 12:30am, rattled: "The Tidewarden asked SO many questions."
+
+## The Leaky Bucket trapdoor (set before rolling)
+- It drops into the old **storm drains**, a brick tunnel with knee-deep water. Downstream it leads to **the Sumps**, the flooded lowest district,
+  which is **Gutterwick** territory. Gutterwick lookouts watch the drains. Upstream leads toward the fish market, which is Choir territory.
+- The Bucket's barkeep, **Old Fen**, pays Mother Pell for protection, and the trapdoor is a Gutterwick bolt-hole.
+- If the grey-coats follow, they're slow in the water. If they don't see the trapdoor, the regulars won't tell them.
+- Ossian Dex check DC 10 (he's frozen and clumsy): on a fail he bangs the trapdoor, and the grey-coats know where the party went and give chase.

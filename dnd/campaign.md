@@ -132,6 +132,9 @@ the tide has been coming in wrong.
   So: **break the Eye inside the Mouth while the full Litany is sung, and the Sleeper sleeps for ever.**
 - Sable **told Marta everything** and showed her his real face under Penhallow's whiskers.
 - About 1am: **boots on the steps.** Four Lantern Guild grey-coats came down into the Leaky Bucket. The party heard them a moment early.
+- **Fled through the trapdoor** behind the bar (Ossian didn't fumble: 11). The barkeep, **Old Fen**, dragged a barrel over it.
+  Down in the **storm drains**. Ossian cast **Light** on his scroll-case. They followed the regulars **downstream** toward the Sumps.
+- Stopped by **Gutterwick lookouts** in the drains.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -145,6 +148,7 @@ the tide has been coming in wrong.
 - **Sergeant Dunmore**: Marta's old partner. Paid 30 cr. to testify against her (it's in the ledger).
 - **Admiral Thessaly Grane** (not yet met): commands the rotting imperial fleet from the *Aurelian Dawn*. Hates Crane.
 - **Mother Pell** (not yet met): head of the Gutterwick thieves' guild.
+- **Old Fen**: barkeep of the Leaky Bucket. Covered their escape.
 - **Brother Ossian**: young, nervous tide-priest. Charts the tides, and nobody listens to him. Knows the Litany of Saint Aurel. **Knows Sable's secret and wants to help.**
 - **High Tidewarden Cassia Vey**: head of the Temple of the Tides. Smooth, political, funded by Crane. **Suspicious of Penhallow.**
 - **Brother Tamsin**: older priest, sour, Vey's yes-man.
@@ -161,6 +165,7 @@ the tide has been coming in wrong.
 - **Gull Canal**: where the empty carriage was found.
 - **The *Indomitable***: a beached, rotting imperial warship in the breakers' yard. Pip's secret hideout.
 - **Old Wendle's rope-walk**: Tallow Street. A long rope-making shed; the ledger is hidden in the boiling-house chimney.
+- **The storm drains**: under the city. Downstream leads to the Sumps (Gutterwick); upstream to the fish market (Choir).
 - **The Lantern Spire**: where Crane plans the binding.
 - **The Leaky Bucket**: a half-sunk cellar tavern on Netmakers' Row. Drips everywhere. Marta Kell's haunt.
 - **Temple of the Tides**: on the headland. Its floor is a great tidal pool, with tide-bells in the arches.
