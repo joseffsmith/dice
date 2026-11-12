@@ -68,6 +68,7 @@ the tide has been coming in wrong.
 - Up top, the tide was roaring back. Sable signalled Pip to ambush Gannet.
   **Combat round 1**: initiative Pip 14, Tib 13, Sable 5, Gannet 5 (surprised). Pip's rock hit (20) for 6, leaving Gannet at 3/9 HP.
   Tib scrambled away from the "cultist" Sable toward Pip.
+  Sable's rapier hit (13) for 10. **Gannet dropped.** Combat over.
 
 ## NPCs
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Chained in the Drowned Chapel.
