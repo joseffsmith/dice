@@ -69,6 +69,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - Forgery kit, set of fine clothes
 - Tools of the con: signet ring of the imaginary **Duke of Vellmoor**
 - **The brass reliquary**: left with **Mother Pell** at St Ebb's
+- **Admiral Grane's bosun's whistle** (three blasts off the *Aurelian Dawn*'s stern at night = ladder)
 - **Coin:** 7 gp, 6 sp
 
 ## Conditions / notes

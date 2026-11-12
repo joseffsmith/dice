@@ -209,3 +209,15 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
     She'll also lend marines for the Spire (a squad of 6) if convinced Crane is behind the flood.
 - Approaching openly: the marines challenge. **Lieutenant Abel Fross** (young, by-the-book). Persuasion/Deception DC 13 to be brought aboard to the admiral,
   or advantage if Marta vouches as an ex-sergeant (Fross knew her by reputation).
+
+## After the Admiral (set before the secret rolls)
+- Grane gives Sable a **brass bosun's whistle** with the fleet crest. Three blasts off the stern at night and Fross lowers a ladder. She wants the charts or Ossian
+  within **3 days** (by day 6), so she has time to prepare marines.
+- Voss: secret 1d6, on 1-3 he gets a message out through a loyal steward, and **Crane learns by day 4 that the ledger reached Grane**.
+  (Crane would then move his plans up: more guards at the Spire, and pressure on Hesk to find Sable fast.)
+- Ossian at the temple: secret 1d6. 1-2: Vey **confiscated his charts** (locked in her study) and confined him to the temple. 3-4: he's confined to the temple
+  but hid the charts. 5-6: he's free and has the charts.
+- RESULTS: **Voss got a message out** (2), so Crane knows by day 4. **Ossian's charts were confiscated** (1). They're locked in Vey's study, and Ossian is confined to the temple.
+- Vey's study: top floor of the temple's east tower. The door is locked (DC 15 to pick with thieves' tools; Tib has a set). Vey dines in the refectory at sundown,
+  and the study is empty then. Brother Tamsin patrols. The charts are in a locked chest (DC 13). Vey has also **written a letter to Crane** about Ossian and "the batty purser",
+  which is still on her desk, unsent. It's evidence of her collusion.

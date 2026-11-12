@@ -194,6 +194,14 @@ the tide has been coming in wrong.
   her to stay out of civic affairs, and to declare **martial law** she needs proof of a threat to the city *and* the fleet "from someone who isn't a thief".
   → **Ossian's tide charts.** If she gets them, she'll declare martial law on the eve of the spring tide, arrest Hesk (with Marta present),
   and lend **marines** against Crane.
+- Sable told her about **Ossian's charts**. Grane agreed: bring the charts (or the priest himself) **within 3 days (by day 6)**. She gave Sable a
+  **brass bosun's whistle**: three blasts off the stern at night, and a ladder will be lowered.
+- Rowed back to St Ebb's before dawn.
+
+### Day 4: 6 days to the spring tide
+- **Ossian didn't come.** A Gutterwick kid who sells candles at the temple brought a scrawled note: *"Confined to the temple. The Tidewarden took my charts.
+  They're in her study. I'm so sorry. O."*
+- Pell's eyes: **guards at the Lantern Spire doubled overnight**, and Crane's carriage went to the Watch house at dawn. Crane seems to know something.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -212,7 +220,7 @@ the tide has been coming in wrong.
 - **Needle**: one-armed tiefling, a Gutterwick lookout leader. Dry and careful.
 - **Inky Mabb**: ancient gnome forger in the Gutterwick. Has forged the Emperor's seal. Saw through Sable's copy.
 - **Old Fen**: barkeep of the Leaky Bucket. Covered their escape.
-- **Brother Ossian**: young, nervous tide-priest. Charts the tides, and nobody listens to him. Knows the Litany of Saint Aurel. **Knows Sable's secret and wants to help.**
+- **Brother Ossian**: young, nervous tide-priest. Knows the Litany. Ally. **Confined to the temple by Vey; his charts confiscated.**
 - **High Tidewarden Cassia Vey**: head of the Temple of the Tides. Smooth, political, funded by Crane. **Suspicious of Penhallow.**
 - **Brother Tamsin**: older priest, sour, Vey's yes-man.
 - **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
@@ -245,7 +253,7 @@ the tide has been coming in wrong.
 - [x] ~~**Rescue Pell's six missing children**~~ Done. Got the original ledger back and learned about the diggers' tunnel.
 - [ ] Pell's two people held by Crane (probably in the Spire vaults?).
 - [x] ~~Get the ledger to Admiral Grane.~~ Done. Voss confined.
-- [ ] Bring **Ossian's tide charts** (or Ossian) to Grane, so she can declare martial law.
+- [ ] Bring **Ossian's tide charts** (or Ossian) to Grane **by day 6**. The charts are in **Vey's study**; Ossian is confined to the temple.
 - [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
 - [ ] Crane's binding at the **Lantern Spire** at the spring tide (**day 10**).
 - [ ] The Choir's threat against Sable's people (Pip? Hettie?).
