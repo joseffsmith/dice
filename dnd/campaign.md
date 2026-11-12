@@ -64,6 +64,10 @@ the tide has been coming in wrong.
 - Deception pitch: "Guild men followed me; let me take the thief up as bait to lead them away" (16 vs her Insight 2, a nat 1).
   **It worked.** She unlocked Tib with a key from her belt and sent the door guard (**Brother Gannet**) up as escort.
   Sable kept the box. She blessed them as they left with Old Aurelian words: ***"Vael thessa morun"***.
+  The box shuddered and went hot when she said it.
+- Up top, the tide was roaring back. Sable signalled Pip to ambush Gannet.
+  **Combat round 1**: initiative Pip 14, Tib 13, Sable 5, Gannet 5 (surprised). Pip's rock hit (20) for 6, leaving Gannet at 3/9 HP.
+  Tib scrambled away from the "cultist" Sable toward Pip.
 
 ## NPCs
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Chained in the Drowned Chapel.
