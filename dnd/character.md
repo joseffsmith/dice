@@ -58,6 +58,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - **Bardic Inspiration (d6):** 5 / 5 per long rest. As a bonus action, an ally within 60 ft gains a d6 to add to one ability check, attack roll or saving throw.
 - **Fey Ancestry:** Advantage on saves against being charmed; magic can't put you to sleep.
 - **False Identity (Charlatan):** You have a second identity with documents, contacts and disguises, and you can forge documents you've seen.
+  Your identity: **Aldous Penhallow**, an elderly insurance assessor and ship's purser.
 
 ## Equipment
 - Rapier, dagger, leather armour

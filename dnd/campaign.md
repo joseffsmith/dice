@@ -87,7 +87,10 @@ the tide has been coming in wrong.
   (2) He overheard Crane: "The binding will be done at the **Lantern Spire**, at the **spring tide**." That's the full moon, **9 days** away.
 - **Day 1 (morning):** Sable used his disguise kit on himself (DC 18 to see through) and on Tib (DC 17).
   Sable is now "Master Aldous Penhallow", an elderly ship's purser. Tib is "Gorse", a bald, bearded deckhand with an eyepatch.
-  All three set off for Tallow Street.
+  All three set off for Tallow Street. A grey-coat watching the street didn't see through the disguises.
+- Sable's established Charlatan **False Identity** is now **Aldous Penhallow, insurance assessor** (papers and all).
+  Bluffed the foreman **Mags Corrow** (Deception 26 vs 7), who let him inspect unescorted and complained that
+  grey-coats had been round twice asking about "a bloke in a red scarf".
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -95,6 +98,7 @@ the tide has been coming in wrong.
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Rescued. Hiding something about the Drowned Lamb.
 - **Brother Gannet**: the barnacled door guard. Devout, gullible, weepy. Escorting Sable and Tib.
 - **Ottavio Crane**: merchant prince, head of the Lantern Guild. Charming and polite, with a hammer in his desk drawer. His house is full of clocks.
+- **Mags Corrow**: foreman at Old Wendle's rope-walk. Loud, red-faced, overworked. Believes Sable is insurance assessor Penhallow.
 - **Captain Hesk**: City Watch captain. On Crane's payroll (according to the ledger).
 - **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
 - **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.
