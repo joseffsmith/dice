@@ -75,9 +75,16 @@ the tide has been coming in wrong.
   toward the Lantern Quarter; the Choir attacked the carriage at the Gull Canal and dragged him through the drains; they
   tortured him for the Eye's location and made him write the note. Sable's passive Insight (14) caught Tib **dodging the question
   of how the grey-coats knew about the Drowned Lamb**.
+- Went to **Pip's hideout**, the beached imperial warship *Indomitable* in the breakers' yard. No trouble on the way, and the night passed undisturbed.
+  **Long rest** (Sable fully restored, Tib back on his feet).
+- Sable dreamed of a drowned cathedral and a vast eye opening in the dark, and heard the words "vael thessa morun".
+- Morning: wanted posters in the breakers' yard showing a half-elf with a signet ring. **"50 gold crowns, by order of the Lantern Guild."**
+  Overnight the tide flooded the lower docks. Old sailors are muttering.
+
+**XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
 ## NPCs
-- **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Chained in the Drowned Chapel.
+- **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Rescued. Hiding something about the Drowned Lamb.
 - **Brother Gannet**: the barnacled door guard. Devout, gullible, weepy. Escorting Sable and Tib.
 - **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
 - **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.
@@ -90,13 +97,18 @@ the tide has been coming in wrong.
 - **The Drowned Lamb**: a dockside tavern in the Saltreach district. Sable's bolt-hole and the meeting spot.
 - **Fish market drain grate**: where the humming man came up from.
 - **Gull Canal**: where the empty carriage was found.
+- **The *Indomitable***: a beached, rotting imperial warship in the breakers' yard. Pip's secret hideout.
 - **Brask's Chandlery**: at the end of the Drowned Lamb's alley. Has a cellar smuggling tunnel to the fishing slips.
 - **Pier Nine**: a half-wrecked pier at the far end of the harbour. Midnight meeting.
 - **The drowned dome**: an ancient temple roof buried in the mud under Pier Nine, glowing green. The Choir's lair?
 - **The Lantern Quarter**: the guild district, rich and well-lit. Scene of the botched job.
 
 ## Quests / threads
-- [ ] Find out what happened to Tib. Note says Pier Nine, midnight.
+- [x] ~~Find out what happened to Tib.~~ Rescued from the Drowned Chapel.
+- [ ] What is Tib hiding about the Drowned Lamb?
+- [ ] Return Hettie's lantern.
+- [ ] Sable owes Pip **two favours**.
+- [ ] The Choir knows a "brother" stole the Eye. The Guild has a 50 gp bounty on Sable.
 - [ ] Find out what's in the reliquary, and who wants it.
 
 ## Loot & gold

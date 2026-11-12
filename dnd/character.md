@@ -1,7 +1,7 @@
 # Sable: Half-Elf Bard 1 (Charlatan)
 _"Sable" is a working name. Nobody in Saltmarrow knows the real one._
 
-**Rules:** D&D 5e (2014) · **Level:** 1 · **XP:** 0 / 300
+**Rules:** D&D 5e (2014) · **Level:** 1 · **XP:** 100 / 300
 **Pronouns:** he/him · **Alignment:** Chaotic Neutral (leaning good, though Sable would deny it)
 
 ## Core
@@ -49,7 +49,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 
 ## Spellcasting (Charisma)
 **Spell save DC 15 · Spell attack +7**
-**1st-level slots:** ☒☒ (0/2), recovered on a long rest
+**1st-level slots:** ☐☐ (2/2), recovered on a long rest
 
 - **Cantrips:** Vicious Mockery, Minor Illusion
 - **1st level (known):** Disguise Self, Charm Person, Healing Word, Sleep
