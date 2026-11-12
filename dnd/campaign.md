@@ -149,6 +149,13 @@ the tide has been coming in wrong.
   Sable dreamed of **children's voices singing in shallow pools of green light**, under the sound of many feet and the smell of fish.
 - **Needle's intel:** the children vanished from drains near the **fish market**. Gutterwick folk now avoid the fish-market drains,
   where the humming is loudest. The Choir comes and goes through the big grate behind the market.
+- Needle guided the party through the drains to the Gutterwick's "don't pass" mark. **Sable left the box with Tib**, cast **Disguise Self** (1 slot left),
+  and scouted alone.
+- **The Cradle**: a vaulted cistern under the fish market. **Six children** sit waist-deep in glowing green pools, singing, glassy-eyed, with barnacles
+  starting on their arms. **Moss** is among them. **3 Choir acolytes** on guard. In the deepest pool, **something huge and bloated is sleeping**
+  (a drowned woman with a lamprey mouth), and it seems to stir as dusk approaches.
+- Watched a 4th Choir member arrive and learned their new **greeting**: a hummed call answered with a **descending three-note reply**.
+  The newcomer warned that "the false brother" who stole the Eye may come disguised, so they test everyone now. (Gannet survived.)
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 

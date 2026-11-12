@@ -49,7 +49,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 
 ## Spellcasting (Charisma)
 **Spell save DC 15 · Spell attack +7**
-**1st-level slots:** ☐☐ (2/2), recovered on a long rest
+**1st-level slots:** ☒☐ (1/2), recovered on a long rest
 
 - **Cantrips:** Vicious Mockery, Minor Illusion
 - **1st level (known):** Disguise Self, Charm Person, Healing Word, Sleep
@@ -71,4 +71,5 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - **Coin:** 7 gp, 6 sp
 
 ## Conditions / notes
-_None._
+- **Disguise Self** active (cast late afternoon on day 2, 1 hour): Choir member.
+- **The reliquary is with Tib.**
