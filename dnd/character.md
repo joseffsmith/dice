@@ -61,12 +61,12 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
   Your identity: **Aldous Penhallow**, an elderly insurance assessor and ship's purser.
 
 ## Equipment
-- Rapier, dagger (**held by the Gutterwick** for now), leather armour
+- Rapier, dagger, leather armour
 - Viol (battered, with a false bottom in the case)
 - Entertainer's pack: backpack, bedroll, 2 costumes, 5 candles, 5 days' rations, waterskin, disguise kit
 - Forgery kit, set of fine clothes
 - Tools of the con: signet ring of the imaginary **Duke of Vellmoor**
-- **Crane's ledger**, wrapped in oilcloth
+- **Forged copy of Crane's ledger** (the original is with Mother Pell)
 - **The brass reliquary** (locked, palm-sized, faintly warm, sometimes hums)
 - **Coin:** 7 gp, 6 sp
 

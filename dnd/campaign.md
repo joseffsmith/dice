@@ -138,6 +138,13 @@ the tide has been coming in wrong.
   Needle's terms: pay 5 gp, hand over all weapons and go blindfolded to Mother Pell, OR wait hours under guard while a runner checks with Hettie.
 - **Paid the toll (5 gp)**, surrendered weapons (Sable's rapier and dagger, Marta's longsword, Tib's knife) and went blindfolded.
 - Brought to the **Drowned Chapel of St Ebb** in the Sumps, before **Mother Pell**.
+- Showed Pell the ledger. She wants it to put Hesk and the Watch on a leash. **Marta objected**: she wants Hesk hanged publicly.
+- Sable openly offered a forged copy and let Pell name terms. **Pell's terms:** (1) make the copy here, tonight, and it must fool her forger
+  **Inky Mabb**, or the deal's off and Pell keeps the original; (2) find her **six missing children** (including **Moss**), taken by the Choir;
+  (3) in return: weapons, a safe roof, her network, and the location of the diggers' breakthrough **under the Lantern Spire**. **Accepted.**
+- Forged all night with Tib's help (21), but **Inky Mabb spotted it** (24): the ink was too fresh, and the clerk's split nib left hairline double downstrokes.
+- **The deal's off as written. Pell keeps the original ledger.** But she offered a new deal: **bring back her children and she'll trade the original
+  for Sable's copy, plus the diggers' tunnel.** Weapons returned, and the safe roof granted in good faith. Sable keeps **the forged copy**.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -152,6 +159,7 @@ the tide has been coming in wrong.
 - **Admiral Thessaly Grane** (not yet met): commands the rotting imperial fleet from the *Aurelian Dawn*. Hates Crane.
 - **Mother Pell**: head of the Gutterwick. Huge, elderly half-orc woman, always knitting, on a pulpit throne. Knows Pip.
 - **Needle**: one-armed tiefling, a Gutterwick lookout leader. Dry and careful.
+- **Inky Mabb**: ancient gnome forger in the Gutterwick. Has forged the Emperor's seal. Saw through Sable's copy.
 - **Old Fen**: barkeep of the Leaky Bucket. Covered their escape.
 - **Brother Ossian**: young, nervous tide-priest. Charts the tides, and nobody listens to him. Knows the Litany of Saint Aurel. **Knows Sable's secret and wants to help.**
 - **High Tidewarden Cassia Vey**: head of the Temple of the Tides. Smooth, political, funded by Crane. **Suspicious of Penhallow.**
@@ -182,7 +190,8 @@ the tide has been coming in wrong.
 ## Quests / threads
 - [x] ~~Find out what happened to Tib.~~ Rescued from the Drowned Chapel.
 - [x] ~~What is Tib hiding?~~ He gave up the Lamb under threat. Forgiven.
-- [x] ~~Retrieve the ledger.~~ Got it!
+- [x] ~~Retrieve the ledger.~~ Got it... then lost it to Mother Pell.
+- [ ] **Rescue Pell's six missing children** (incl. Moss) from the Choir, and she'll return the original ledger and reveal the diggers' tunnel.
 - [ ] Get the ledger to **Admiral Grane** on the *Aurelian Dawn*.
 - [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
 - [ ] Crane's binding at the **Lantern Spire** at the spring tide: **9 days**.
@@ -194,4 +203,5 @@ the tide has been coming in wrong.
 ## Loot & gold
 - 7 gp, 6 sp
 - Brass reliquary (locked)
-- **Crane's ledger** (bribes to Hesk and the Watch; payments to the diggers)
+- ~~Crane's ledger~~ held by **Mother Pell**
+- **Forged copy of the ledger** (good, but Mabb could tell)
