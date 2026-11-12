@@ -242,3 +242,7 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - She is still sceptical of the Sleeper, but she says: "I've seen things at sea I don't speak of. I won't rule it out."
 - Vey's letter: if told about it, Grane wants it: "A Tidewarden selling her flock. That would hang her too." The letter goes "by private hand" to Crane;
   it will leave the temple with a Guild runner on the morning of day 5 (an interception opportunity).
+- (Clarifying, before the plan is chosen) The **flood happens at the spring tide whether or not anyone uses the Eye**. The diggers' breach disturbed the Sleeper,
+  and it's stirring in its dreams and pulling at the sea. Crane binding it would "calm" the flood in his favour (and give him the Sleeper). The Choir waking it
+  would destroy the city. **Only breaking the Eye in the Mouth with the full Litany ends it for good**, and that would stop the flood.
+  Ossian will realise this if asked or when looking at the charts again (the pull grew sharply after the breach).
