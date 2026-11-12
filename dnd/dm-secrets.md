@@ -232,3 +232,13 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - Timer: after each extended action in the study, secret 1d6. On a 1, footsteps are on the stairs (Vey returning early from dinner).
 - The west cloister: the penitent's cell is a simple barred door (lock DC 10). Brother Tamsin patrols the cloister walk (passive Perception 11).
   If spotted, Tamsin raises the alarm: temple wardens (4 *guards*) arrive in 2 rounds.
+
+## Grane convinced (night of day 4, set before narrating)
+- The charts plus Ossian's testimony convince her (as established). Her plan: at **dusk on day 9** (the eve of the spring tide) she declares **martial law**.
+  Marines take the Watch house and arrest Hesk (Marta present). She'll put the fleet on alert and move her ships to deeper water.
+- **Evacuation**: she won't order it by default (panic, and no proof of a "monster"), but a strong request (Persuasion DC 15) would get her to order
+  the lower city moved to high ground on day 9 under martial law. Saving thousands.
+- **Marines for the Spire**: she offers a squad of 6 marines under Lt Fross for whatever Sable plans at the Spire, IF Sable lays out a plan she finds sound.
+- She is still sceptical of the Sleeper, but she says: "I've seen things at sea I don't speak of. I won't rule it out."
+- Vey's letter: if told about it, Grane wants it: "A Tidewarden selling her flock. That would hang her too." The letter goes "by private hand" to Crane;
+  it will leave the temple with a Guild runner on the morning of day 5 (an interception opportunity).

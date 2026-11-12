@@ -212,6 +212,9 @@ the tide has been coming in wrong.
 - A note for Tamsin: Ossian is in the **penitent's cell, west cloister**. Bread and water, no visitors.
 - **Took the charts**, left the resealed letter in place. Sneaked to the west cloister (24/13). Tib got the cell lock on his second try,
   and **Ossian was freed**. All three walked out through the vigil crowd unseen (17/25/13), with Ossian hooded.
+- Collected Marta at St Ebb's, rowed out, and blew the whistle three times. Fross lowered a ladder. **Ossian presented his charts to Admiral Grane.**
+  **She's convinced.** Plan: **martial law at dusk on day 9** (the eve of the spring tide). Marines take the Watch house and **arrest Hesk** (Marta present).
+  The fleet moves to deeper water.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
