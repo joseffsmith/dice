@@ -91,6 +91,9 @@ the tide has been coming in wrong.
 - Sable's established Charlatan **False Identity** is now **Aldous Penhallow, insurance assessor** (papers and all).
   Bluffed the foreman **Mags Corrow** (Deception 26 vs 7), who let him inspect unescorted and complained that
   grey-coats had been round twice asking about "a bloke in a red scarf".
+- In the boiling house, the attempt to send the tar-man for the foreman failed (Deception 10): he bellowed for Mags instead.
+  **Pip** made a smoky hemp "fire" (13), and he ran out with a bucket. Sable pulled the brick and got **THE LEDGER**.
+  Inside: Captain Hesk's bribes, sergeants' names, and "the diggers". The final entry, 8 days ago, reads **"Final payment. They have broken through."**
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -122,7 +125,7 @@ the tide has been coming in wrong.
 ## Quests / threads
 - [x] ~~Find out what happened to Tib.~~ Rescued from the Drowned Chapel.
 - [x] ~~What is Tib hiding?~~ He gave up the Lamb under threat. Forgiven.
-- [ ] Retrieve **the ledger** from Old Wendle's rope-walk chimney.
+- [x] ~~Retrieve the ledger.~~ Got it!
 - [ ] Crane's binding at the **Lantern Spire** at the spring tide: **9 days**.
 - [ ] Return Hettie's lantern.
 - [ ] Sable owes Pip **two favours**.
@@ -133,3 +136,4 @@ the tide has been coming in wrong.
 - Hooded lantern (borrowed from Hettie)
 - 13 gp
 - Brass reliquary (locked)
+- **Crane's ledger** (bribes to Hesk and the Watch; payments to the diggers)

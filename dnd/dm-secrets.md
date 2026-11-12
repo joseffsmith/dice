@@ -74,3 +74,5 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   It's big leverage, and Mother Pell would pay well for it.
 - What Tib overheard from Crane: "The binding must be done at the **Lantern Spire** at the **spring tide**." The next spring tide is
   **9 days** from now (the full moon). The Choir will try to wake the Sleeper at the same tide. That's the campaign's ticking clock.
+- (Added when the ledger was opened) The ledger's final "diggers" entry, dated 8 days ago, reads: "Final payment. They have broken through."
+  Crane's diggers found a way into the drowned temple complex from beneath the Lantern Quarter.
