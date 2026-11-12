@@ -174,7 +174,9 @@ the tide has been coming in wrong.
 - Returned through the drains to the **Drowned Chapel of St Ebb** without trouble. Mother Pell wept over the children. She traded the
   **original ledger** for Sable's forged copy, as promised, and revealed **the diggers' tunnel**: a fresh breach under the Lantern Quarter. One way
   leads up to the **wine vaults beneath the Lantern Spire**, the other down into **the drowned temple complex**, near the Mouth.
-  Two of Pell's people who explored it were taken by Crane's men.
+  Two of Pell's people who explored it (**Corrie and Sprat**) were taken by Crane's men.
+- **Sable reached level 2**: HP 21 (fixed average), 3 slots, Jack of All Trades, Song of Rest, and learned **Silent Image**.
+- **Long rest** at St Ebb's. Everyone fully restored.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 

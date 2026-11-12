@@ -1,13 +1,13 @@
-# Sable: Half-Elf Bard 1 (Charlatan)
+# Sable: Half-Elf Bard 2 (Charlatan)
 _"Sable" is a working name. Nobody in Saltmarrow knows the real one._
 
-**Rules:** D&D 5e (2014) · **Level:** 1 · **XP:** 300 / 300: **LEVEL UP pending!**
+**Rules:** D&D 5e (2014) · **Level:** 2 · **XP:** 300 / 900
 **Pronouns:** he/him · **Alignment:** Chaotic Neutral (leaning good, though Sable would deny it)
 
 ## Core
 | AC | HP | Hit Dice | Speed | Initiative | Proficiency |
 |---|---|---|---|---|---|
-| 15 (leather) | **9 / 12** | 1d8 (1/1) | 30 ft | +4 | +2 |
+| 15 (leather) | **21 / 21** | 2d8 (2/2) | 30 ft | +5 (incl. Jack of All Trades) | +2 |
 
 Passive Perception **14** · Darkvision 60 ft
 
@@ -20,19 +20,19 @@ _Rolled 4d6 drop lowest: 9, 18, 17, 11, 13, 18. Half-elf bonuses: +2 CHA, +1 DEX
 
 **Saving throws:** STR −1 · **DEX +6** · CON +4 · INT +0 · WIS +2 · **CHA +7**
 
-## Skills (● = proficient)
+## Skills (● = proficient; others include Jack of All Trades +1)
 | Skill | Mod | | Skill | Mod |
 |---|---|---|---|---|
-| ● Acrobatics (Dex) | +6 | | Intimidation (Cha) | +5 |
-| Animal Handling (Wis) | +2 | | Investigation (Int) | +0 |
-| Arcana (Int) | +0 | | Medicine (Wis) | +2 |
-| Athletics (Str) | −1 | | Nature (Int) | +0 |
+| ● Acrobatics (Dex) | +6 | | Intimidation (Cha) | +6 |
+| Animal Handling (Wis) | +3 | | Investigation (Int) | +1 |
+| Arcana (Int) | +1 | | Medicine (Wis) | +3 |
+| Athletics (Str) | +0 | | Nature (Int) | +1 |
 | ● Deception (Cha) | +7 | | ● Perception (Wis) | +4 |
-| History (Int) | +0 | | Performance (Cha) | +5 |
+| History (Int) | +1 | | Performance (Cha) | +6 |
 | ● Insight (Wis) | +4 | | ● Persuasion (Cha) | +7 |
-| | | | Religion (Int) | +0 |
+| | | | Religion (Int) | +1 |
 | ● Sleight of Hand (Dex) | +6 | | ● Stealth (Dex) | +6 |
-| | | | Survival (Wis) | +2 |
+| | | | Survival (Wis) | +3 |
 
 Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, Insight) · Half-elf Skill Versatility (Perception, Acrobatics)
 
@@ -49,13 +49,15 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 
 ## Spellcasting (Charisma)
 **Spell save DC 15 · Spell attack +7**
-**1st-level slots:** ☒☒ (0/2), recovered on a long rest
+**1st-level slots:** ☐☐☐ (3/3), recovered on a long rest
 
 - **Cantrips:** Vicious Mockery, Minor Illusion
-- **1st level (known):** Disguise Self, Charm Person, Healing Word, Sleep
+- **1st level (known):** Disguise Self, Charm Person, Healing Word, Sleep, **Silent Image**
 
 ## Features
-- **Bardic Inspiration (d6):** 4 / 5 per long rest. As a bonus action, an ally within 60 ft gains a d6 to add to one ability check, attack roll or saving throw.
+- **Bardic Inspiration (d6):** 5 / 5 per long rest. As a bonus action, an ally within 60 ft gains a d6 to add to one ability check, attack roll or saving throw.
+- **Jack of All Trades:** Add +1 to any ability check you're not proficient in (including initiative).
+- **Song of Rest (d6):** During a short rest, you and allies who spend Hit Dice regain an extra 1d6 HP.
 - **Fey Ancestry:** Advantage on saves against being charmed; magic can't put you to sleep.
 - **False Identity (Charlatan):** You have a second identity with documents, contacts and disguises, and you can forge documents you've seen.
   Your identity: **Aldous Penhallow**, an elderly insurance assessor and ship's purser.
@@ -71,5 +73,4 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - **Coin:** 7 gp, 6 sp
 
 ## Conditions / notes
-- **Disguise Self** active (cast late afternoon on day 2, 1 hour): Choir member.
 
