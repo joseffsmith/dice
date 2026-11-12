@@ -46,3 +46,18 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   sign that a message is genuine and freely written), so it was written under duress.
 - DC 15: faint indentations from an earlier line Tib scratched out: **"DON'T COME. UNDER IT—"**
   - Rolled 14: missed it. Retried in lamplight: 7. Then a nat 20 Persuasion made Hettie friendly enough to do a charcoal rubbing, which revealed it.
+
+## The Drowned Chapel (under Pier Nine), set before Sable enters
+- A flooded circular chamber, waist-deep in glowing green water. In the centre is **the Mouth**: a huge carved stone
+  maw in the floor, a shaft dropping into blackness that leads toward the Sleeper. In the stone above the Mouth is
+  a carved face with **one empty eye socket**, where the pearl goes.
+- **8 Choir acolytes** (use the *cultist* stat block: AC 12, 9 HP, spear +3, 1d6+1) chanting in a ring.
+- **The Cantor, Sister Ilse Morrow**: the most transformed of them (gills, webbed fingers, coral staff). Use the *cult fanatic*
+  stat block: AC 13, 33 HP, Command, Hold Person, Inflict Wounds, Sacred Flame. She knows the opening phrase
+  "the tide remembers" (in Old Aurelian).
+- **Tib** is chained to a pillar on the east side, beaten but conscious, at 3 HP. The chain has a simple padlock (DC 12 Sleight of Hand
+  with improvised picks, or the Cantor carries the key on her belt).
+- If the Eye is set in the socket, the Sleeper stirs: the chapel shakes and the tide comes **roaring back in over
+  about 3 rounds**. Everyone has to get out or drown. This would be a catastrophe for the harbour, but a chance to escape in the chaos.
+- The Choir can sense the Eye but can't see through the illusion; they're fanatics and very trusting of "a brother".
+- Exits: the kelp ladder up (the way in); a flooded tunnel to the west leading to the fish-market drains.

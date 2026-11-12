@@ -53,6 +53,8 @@ the tide has been coming in wrong.
   There's chanting below, and Sable glimpsed a **red scarf**.
 - Sable cast **Disguise Self** (slot 1/2 left) to look like a Choir member. Pip hid behind the pilings.
   The guard (milky fish-eyes) sensed the box humming and assumed Sable had brought "the Eye" to "the Mouth" below.
+  He mentioned "the thief's partner swore he didn't know where it was" and that "the Sleeper will see".
+- Sable dodged his embrace: "Lead the way, brother" (Deception 11 vs his Insight 1, a nat 1). He led Sable down the kelp ladder.
 
 ## NPCs
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Missing.
