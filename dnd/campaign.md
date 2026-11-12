@@ -224,6 +224,9 @@ the tide has been coming in wrong.
   Pip stayed at St Ebb's with Pell and the Eye.
 - In the diggers' tunnel: a **fork** halfway up. One branch goes up to the vaults; the other is a steep shaft **down toward the drowned temple**, with faint humming below.
 - The advance team (Sable, Tib, Needle) crept to the **vault door** unseen (23/15/9). There are **four** voices behind it, playing cards. The guard has been doubled.
+- Sable played a panicked digger through the door ("water's coming up the lower shaft!"), keeping his face in shadow: Deception 26. **They opened up.**
+- **Combat in the guardroom!** The grey-coats are **surprised**. Initiative: Needle 21, Marta 18, Sable 17, Tib 15, Grey-coats 12, Fross & marines 11, Ossian 3.
+  - R1: Needle's crossbow rolled a nat 1 and missed. Marta dashed up from the back.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
