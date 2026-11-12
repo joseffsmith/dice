@@ -145,6 +145,10 @@ the tide has been coming in wrong.
 - Forged all night with Tib's help (21), but **Inky Mabb spotted it** (24): the ink was too fresh, and the clerk's split nib left hairline double downstrokes.
 - **The deal's off as written. Pell keeps the original ledger.** But she offered a new deal: **bring back her children and she'll trade the original
   for Sable's copy, plus the diggers' tunnel.** Weapons returned, and the safe roof granted in good faith. Sable keeps **the forged copy**.
+- **Day 2:** long rest in the Drowned Chapel of St Ebb until the afternoon.
+  Sable dreamed of **children's voices singing in shallow pools of green light**, under the sound of many feet and the smell of fish.
+- **Needle's intel:** the children vanished from drains near the **fish market**. Gutterwick folk now avoid the fish-market drains,
+  where the humming is loudest. The Choir comes and goes through the big grate behind the market.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
