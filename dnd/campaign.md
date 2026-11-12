@@ -177,6 +177,13 @@ the tide has been coming in wrong.
   Two of Pell's people who explored it (**Corrie and Sprat**) were taken by Crane's men.
 - **Sable reached level 2**: HP 21 (fixed average), 3 slots, Jack of All Trades, Song of Rest, and learned **Silent Image**.
 - **Long rest** at St Ebb's. Everyone fully restored.
+- Dream: the **Cantor's face** in green water: *"You took our little ones, false brother. We will take yours."*
+
+### Day 3 (morning): 7 days to the spring tide
+- Pell's news: the **Choir hunted the drains** all night, and the Gutterwick collapsed a tunnel to keep them out. **Crane raised the bounty to 200 gp** and added Tib's
+  face. Grey-coats and **Hesk's Watch** are searching houses together. The Watch visited **Hettie's** shop again.
+- **Ossian** has to go back to the temple today, or Vey will report him missing.
+- Marta: to reach **Admiral Grane**, either go to the **Admiralty Steps** shore office (watched by Hesk's men) or row out to the *Aurelian Dawn* at night.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -227,7 +234,8 @@ the tide has been coming in wrong.
 - [ ] Pell's two people held by Crane (probably in the Spire vaults?).
 - [ ] Get the ledger to **Admiral Grane** on the *Aurelian Dawn*.
 - [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
-- [ ] Crane's binding at the **Lantern Spire** at the spring tide: **9 days**.
+- [ ] Crane's binding at the **Lantern Spire** at the spring tide (**day 10**).
+- [ ] The Choir's threat against Sable's people (Pip? Hettie?).
 - [x] ~~Return Hettie's lantern.~~
 - [ ] Sable owes Pip **two favours**.
 - [ ] The Choir knows a "brother" stole the Eye. The Guild has a 50 gp bounty on Sable.
