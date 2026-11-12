@@ -121,3 +121,18 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - RESULT: Vey had them followed (rolled 1). Tamsin's Stealth 19 beat Sable's passive 14 and Pip's 12. **Tamsin followed them to the Leaky Bucket unseen**
   and reported back to Vey. Vey now knows "Penhallow" drinks at the Leaky Bucket and is meeting Ossian there.
 - Marta failed to spot the disguise (7 vs DC 18).
+
+## Midnight, day 1 (set before the secret rolls)
+- Vey interviews Ossian after vespers: Ossian's Deception (+0) vs Vey's Insight (+5).
+  - If **Vey wins**, she's sure Ossian is hiding something about Penhallow. Using Tamsin's report, she sends word to **Crane**.
+    Around **1am**, **4 grey-coats** (thug stat block: AC 11, 32 HP, mace +4 1d6+2, Pack Tactics) raid the Leaky Bucket.
+  - If **Ossian wins**, she lets it go for now. No raid tonight.
+- Archive heist: Ossian's Stealth (+0) vs DC 12.
+  - Success: he gets the full Litany scroll.
+  - Failure: he only gets a hasty partial copy (he's interrupted), missing the "unmade only in the deep" section.
+- RESULTS: Vey won (20 vs 16), so **the grey-coat raid on the Leaky Bucket happens around 1am**. Ossian's heist succeeded (13), so he has the **full scroll**.
+- The full scroll's extra verse (now fixed): *"What was taken from the deep may be unmade only in the deep. Give it to the Mouth not whole
+  but broken, and sing the Litany to its end, and the Sleeper shall sleep without dreaming, for ever."*
+  So: break the Eye **inside the Mouth** while someone sings the full Litany, and the Sleeper is ended for good (permanently asleep).
+  That needs a way to break it (it's very hard: AC 20, 30 HP, immune to non-magical damage? Ossian suspects "only a holy or tide-touched blow").
+- Ossian arrives about 12:30am, rattled: "The Tidewarden asked SO many questions."
