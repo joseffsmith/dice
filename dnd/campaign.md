@@ -61,9 +61,13 @@ the tide has been coming in wrong.
   He shook his head at the "stranger": don't hand it over.
 - Sable cast **Charm Person** on the Cantor, hidden in the hum (Performance 19, nobody noticed), but she **saved with a nat 20**.
   The spell fizzled unnoticed. Last spell slot spent.
+- Deception pitch: "Guild men followed me; let me take the thief up as bait to lead them away" (16 vs her Insight 2, a nat 1).
+  **It worked.** She unlocked Tib with a key from her belt and sent the door guard (**Brother Gannet**) up as escort.
+  Sable kept the box. She blessed them as they left with Old Aurelian words: ***"Vael thessa morun"***.
 
 ## NPCs
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Chained in the Drowned Chapel.
+- **Brother Gannet**: the barnacled door guard. Devout, gullible, weepy. Escorting Sable and Tib.
 - **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
 - **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.
 - **Old Hettie Brask**: dwarf chandler, gruff, hates the Lantern Guild. Now **friendly** to Sable (nat 20).

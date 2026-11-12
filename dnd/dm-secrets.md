@@ -61,3 +61,6 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   about 3 rounds**. Everyone has to get out or drown. This would be a catastrophe for the harbour, but a chance to escape in the chaos.
 - The Choir can sense the Eye but can't see through the illusion; they're fanatics and very trusting of "a brother".
 - Exits: the kelp ladder up (the way in); a flooded tunnel to the west leading to the fish-market drains.
+
+## Phrase
+- "Vael thessa morun" = Old Aurelian for **"the tide remembers"**, the opening phrase for the reliquary. The Cantor said it as a blessing (her nat 1).
