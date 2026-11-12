@@ -39,10 +39,16 @@ the tide has been coming in wrong.
 - Asked Hettie for a back way: **NATURAL 20** Persuasion. She took a liking to Sable, rubbed charcoal over
   the note and revealed Tib's scratched-out line: **"DON'T COME. UNDER IT—"**. Then she showed Sable
   her old smuggling tunnel from the cellar, which comes out at the fishing slips near Pier Nine.
+  She lent Sable a **hooded lantern** (must return it!). The grey-coats came into the shop just as the trapdoor shut.
+- Pip joined Sable for "a favour owed, to be named later".
+- In the tunnel: passive Perception noticed **wet bare footprints and drag marks** coming out of a side
+  passage that heads toward the fish market and the drains.
+- Came out under the boathouse at the fishing slips around 11pm. Low tide is early and extreme:
+  the harbour has drained back to the mudflats, and Pier Nine's pilings stand in exposed mud.
 
 ## NPCs
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Missing.
-- **Pip**: a halfling street kid (she/her), messenger, sharp and mercenary. Paid 1 gp for a distraction.
+- **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.
 - **Old Hettie Brask**: dwarf chandler, gruff, hates the Lantern Guild. Now **friendly** to Sable (nat 20).
 - **Grey-coats**: Lantern Guild enforcers with brass lantern pins. Two of them were searching the Drowned Lamb.
 
@@ -61,5 +67,6 @@ the tide has been coming in wrong.
 - [ ] Find out what's in the reliquary, and who wants it.
 
 ## Loot & gold
+- Hooded lantern (borrowed from Hettie)
 - 13 gp
 - Brass reliquary (locked)
