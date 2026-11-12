@@ -248,3 +248,21 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   Ossian will realise this if asked or when looking at the charts again (the pull grew sharply after the breach).
 - Grane agreed (Persuasion 25): **6 marines plus Lt Fross, out of uniform** (deniable, since there's no martial law yet). Marine: AC 14, 16 HP, cutlass +4 1d6+2,
   light crossbow +3 1d8+1. Fross: AC 16, 30 HP, two rapier attacks +5 1d8+3. Strong pitch bonus: **2 potions of healing** from the ship's surgeon.
+
+## The Spire vault raid, night of day 5 (set before play)
+- **Day 5 offscreen:** Vey finds Ossian gone at dawn and reports him as a thief. Watch posters for Ossian go up by noon. Her letter to Crane went out by runner,
+  with a postscript about the escape. Crane now suspects Sable is gathering allies.
+- **The diggers' tunnel**: from the Gutterwick breach it climbs about half a mile. It's raw earth shored with timber, with lanterns hung every 50 ft (unlit).
+  Halfway up there's a **fork**: up to the vaults, or a steep shaft down toward the drowned temple (a rope ladder, Choir-humming faintly below).
+- **Vault door**: a heavy timber door, barred from the inside, with a sliding peephole. Behind it there are now **4 guards** (doubled): 2 grey-coat thugs (AC 11, 32 HP,
+  mace +4 1d6+2, Pack Tactics) and 2 grey-coat bandits (AC 12, 11 HP, shortsword +3 1d6+1). They're bored and playing cards. The door can be opened from outside by
+  trickery (a voice at the peephole: Deception DC 13), or forced (Athletics DC 18, noisy).
+- **Beyond**: long brick wine vaults. To the left, a **guardroom** (the 4 above). Ahead, **cells** holding **Corrie** (human woman, 30s) and **Sprat** (a teenage boy),
+  starved and beaten but alive. To the right is the **binding chamber**: a round room with the full Litany carved into the walls (copied from the drowned temple),
+  a great **brass armature like a lantern frame with an empty socket** (where the Eye would sit), and charts of the Sleeper.
+  Working there is **Magister Orrin Thale**, Crane's hired wizard, who is to sing the binding.
+  Thale: AC 12 (15 with Shield), 27 HP, Int 17. Spells: Magic Missile, Shield, Thunderwave, Misty Step, Hold Person (1 cast). Cowardly; he surrenders at half HP.
+- **Wrecking the preparations**: smash the armature (AC 15, 25 HP; or a clever sabotage, e.g. Sleight of Hand to remove a key crystal) and/or capture Thale.
+  Without both the armature and a trained singer, Crane can't do the binding at the spring tide. He'd have to improvise: go down to the Mouth himself with the Eye.
+- Alarm: if the guardroom fight lasts more than 3 rounds, or someone escapes up the stairs, **reinforcements** (4 more grey-coats) arrive 3 rounds later
+  from the Spire above.
