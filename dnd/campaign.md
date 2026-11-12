@@ -51,6 +51,8 @@ the tide has been coming in wrong.
 - The green glow comes from the top of a **drowned stone dome** sticking out of the mud. It's an old temple from
   a city beneath Saltmarrow. A broken window leads down, and a **Choir guard** sits on the rim humming, eyes closed.
   There's chanting below, and Sable glimpsed a **red scarf**.
+- Sable cast **Disguise Self** (slot 1/2 left) to look like a Choir member. Pip hid behind the pilings.
+  The guard (milky fish-eyes) sensed the box humming and assumed Sable had brought "the Eye" to "the Mouth" below.
 
 ## NPCs
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Missing.
