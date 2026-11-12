@@ -210,6 +210,8 @@ the tide has been coming in wrong.
   **Vey knows about the flood and is keeping quiet for money.**
 - Tib opened the chest on his second try (20). **Ossian's charts are inside.**
 - A note for Tamsin: Ossian is in the **penitent's cell, west cloister**. Bread and water, no visitors.
+- **Took the charts**, left the resealed letter in place. Sneaked to the west cloister (24/13). Tib got the cell lock on his second try,
+  and **Ossian was freed**. All three walked out through the vigil crowd unseen (17/25/13), with Ossian hooded.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -228,7 +230,7 @@ the tide has been coming in wrong.
 - **Needle**: one-armed tiefling, a Gutterwick lookout leader. Dry and careful.
 - **Inky Mabb**: ancient gnome forger in the Gutterwick. Has forged the Emperor's seal. Saw through Sable's copy.
 - **Old Fen**: barkeep of the Leaky Bucket. Covered their escape.
-- **Brother Ossian**: young, nervous tide-priest. Knows the Litany. Ally. **Confined to the temple by Vey; his charts confiscated.**
+- **Brother Ossian**: young, nervous tide-priest. Knows the Litany. Ally. **Freed from the temple**, along with his charts. A fugitive now.
 - **High Tidewarden Cassia Vey**: head of the Temple of the Tides. **Colluding with Crane**: she knows about the flood, keeps it quiet, and expects the headland to be spared.
 - **Brother Tamsin**: older priest, sour, Vey's yes-man.
 - **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
@@ -261,7 +263,7 @@ the tide has been coming in wrong.
 - [x] ~~**Rescue Pell's six missing children**~~ Done. Got the original ledger back and learned about the diggers' tunnel.
 - [ ] Pell's two people held by Crane (probably in the Spire vaults?).
 - [x] ~~Get the ledger to Admiral Grane.~~ Done. Voss confined.
-- [ ] Bring **Ossian's tide charts** (or Ossian) to Grane **by day 6**. The charts are in **Vey's study**; Ossian is confined to the temple.
+- [ ] Bring **Ossian and his charts** to Grane **by day 6**. ✅ Both now in hand!
 - [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
 - [ ] Crane's binding at the **Lantern Spire** at the spring tide (**day 10**).
 - [ ] The Choir's threat against Sable's people (Pip? Hettie?).

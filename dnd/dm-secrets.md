@@ -230,3 +230,5 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 > is most gratefully received. Yours in the Tide, C. Vey."
 - This is **damning**: the High Tidewarden knows the flood is coming and is keeping it quiet for money. It's strong evidence for Grane alongside the charts.
 - Timer: after each extended action in the study, secret 1d6. On a 1, footsteps are on the stairs (Vey returning early from dinner).
+- The west cloister: the penitent's cell is a simple barred door (lock DC 10). Brother Tamsin patrols the cloister walk (passive Perception 11).
+  If spotted, Tamsin raises the alarm: temple wardens (4 *guards*) arrive in 2 rounds.
