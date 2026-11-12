@@ -66,10 +66,10 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - Entertainer's pack: backpack, bedroll, 2 costumes, 5 candles, 5 days' rations, waterskin, disguise kit
 - Forgery kit, set of fine clothes
 - Tools of the con: signet ring of the imaginary **Duke of Vellmoor**
-- **Forged copy of Crane's ledger** (the original is with Mother Pell)
+- **Crane's ledger** (the original, wrapped in oilcloth)
 - **The brass reliquary** (locked, palm-sized, faintly warm, sometimes hums)
 - **Coin:** 7 gp, 6 sp
 
 ## Conditions / notes
 - **Disguise Self** active (cast late afternoon on day 2, 1 hour): Choir member.
-- Carrying a dazed child (Hollis, about 8).
+

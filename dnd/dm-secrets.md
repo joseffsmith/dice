@@ -176,3 +176,9 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   Choir members now greet strangers with a **hummed call**, and the right reply is a descending three-note answer.
   If Sable watches two of them meet first, he learns it automatically. Otherwise, Performance DC 15 to improvise a convincing reply.
 - **If Sable brings the box in**, every Choir member within 60 ft feels the Eye. The acolytes would know him for the thief at once.
+
+## The diggers' tunnel (Pell reveals it, day 2 evening)
+- The Gutterwick found a fresh **breach** in the old drains under the **Lantern Quarter**: a raw, newly dug tunnel, shored with Guild timber.
+  One way it climbs to the **wine vaults beneath the Lantern Spire** (barred door, 2 grey-coat guards). The other way it slopes down into
+  **the drowned temple complex**, joining it at a flooded gallery near the Mouth's shaft. That's how Crane means to reach the Sleeper at the spring tide.
+- Crane's diggers were mostly paid off and sent away. **Two of Pell's people** who went exploring were caught by Crane's men (they're held in the Spire vaults: a future hook).

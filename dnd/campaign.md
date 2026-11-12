@@ -171,6 +171,10 @@ the tide has been coming in wrong.
     Marta chased her down: rolled 9, plus **Bardic Inspiration 3 = 12, a HIT. The Nurse is dead.**
 - **All six children rescued**, including **Moss**. Away from the green water, they're slowly waking up.
 - **XP:** Nurse 200 → **Sable 300 XP, reaching level 2.**
+- Returned through the drains to the **Drowned Chapel of St Ebb** without trouble. Mother Pell wept over the children. She traded the
+  **original ledger** for Sable's forged copy, as promised, and revealed **the diggers' tunnel**: a fresh breach under the Lantern Quarter. One way
+  leads up to the **wine vaults beneath the Lantern Spire**, the other down into **the drowned temple complex**, near the Mouth.
+  Two of Pell's people who explored it were taken by Crane's men.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -217,7 +221,8 @@ the tide has been coming in wrong.
 - [x] ~~Find out what happened to Tib.~~ Rescued from the Drowned Chapel.
 - [x] ~~What is Tib hiding?~~ He gave up the Lamb under threat. Forgiven.
 - [x] ~~Retrieve the ledger.~~ Got it... then lost it to Mother Pell.
-- [x] ~~**Rescue Pell's six missing children**~~ All six rescued! Return them to Pell for the original ledger and the diggers' tunnel.
+- [x] ~~**Rescue Pell's six missing children**~~ Done. Got the original ledger back and learned about the diggers' tunnel.
+- [ ] Pell's two people held by Crane (probably in the Spire vaults?).
 - [ ] Get the ledger to **Admiral Grane** on the *Aurelian Dawn*.
 - [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
 - [ ] Crane's binding at the **Lantern Spire** at the spring tide: **9 days**.
@@ -229,5 +234,4 @@ the tide has been coming in wrong.
 ## Loot & gold
 - 7 gp, 6 sp
 - Brass reliquary (locked)
-- ~~Crane's ledger~~ held by **Mother Pell**
-- **Forged copy of the ledger** (good, but Mabb could tell)
+- **Crane's ledger** (the ORIGINAL, back from Pell)
