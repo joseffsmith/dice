@@ -2,7 +2,7 @@
 _"Sable" is a working name. Nobody in Saltmarrow knows the real one._
 
 **Rules:** D&D 5e (2014) · **Level:** 1 · **XP:** 0 / 300
-**Alignment:** Chaotic Neutral (leaning good, though Sable would deny it)
+**Pronouns:** he/him · **Alignment:** Chaotic Neutral (leaning good, though Sable would deny it)
 
 ## Core
 | AC | HP | Hit Dice | Speed | Initiative | Proficiency |
@@ -66,7 +66,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - Forgery kit, set of fine clothes
 - Tools of the con: signet ring of the imaginary **Duke of Vellmoor**
 - **The brass reliquary** (locked, palm-sized, faintly warm, sometimes hums)
-- **Coin:** 15 gp
+- **Coin:** 14 gp
 
 ## Conditions / notes
 _None._

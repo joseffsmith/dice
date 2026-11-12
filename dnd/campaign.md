@@ -18,19 +18,25 @@ the tide has been coming in wrong.
 
 ## Session log
 ### Session 1
-- Character created: Sable, half-elf bard (Charlatan), level 1.
+- Character created: Sable (he/him), half-elf bard (Charlatan), level 1.
+- Night three at the Drowned Lamb. A halfling kid, **Pip**, delivered a note in (nearly) Tib's hand:
+  "They've got me. Pier Nine. Midnight. Bring the box."
+- Two Lantern Guild grey-coats came in searching faces. Sable paid Pip 1 gp to cause a distraction
+  (an ale-tray "accident"), then slipped out through the kitchen unseen (Stealth 23).
 
 ## NPCs
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Missing.
+- **Pip**: a halfling street kid (she/her), messenger, sharp and mercenary. Paid 1 gp for a distraction.
+- **Grey-coats**: Lantern Guild enforcers with brass lantern pins. Two of them were searching the Drowned Lamb.
 
 ## Locations
 - **The Drowned Lamb**: a dockside tavern in the Saltreach district. Sable's bolt-hole and the meeting spot.
 - **The Lantern Quarter**: the guild district, rich and well-lit. Scene of the botched job.
 
 ## Quests / threads
-- [ ] Find out what happened to Tib.
+- [ ] Find out what happened to Tib. Note says Pier Nine, midnight.
 - [ ] Find out what's in the reliquary, and who wants it.
 
 ## Loot & gold
-- 15 gp
+- 14 gp
 - Brass reliquary (locked)
