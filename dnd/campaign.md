@@ -202,6 +202,14 @@ the tide has been coming in wrong.
 - **Ossian didn't come.** A Gutterwick kid who sells candles at the temple brought a scrawled note: *"Confined to the temple. The Tidewarden took my charts.
   They're in her study. I'm so sorry. O."*
 - Pell's eyes: **guards at the Lantern Spire doubled overnight**, and Crane's carriage went to the Watch house at dawn. Crane seems to know something.
+- **Night: temple infiltration.** Sable and Tib, disguised as pilgrims (13/12), joined the night vigil, slipped up the east tower (Stealth 20/18),
+  and Tib picked the study door (16).
+- In **Vey's study**: Sable lifted the seal on **Vey's letter to Crane** (17) and resealed it perfectly. It says: Ossian's charts are confiscated;
+  she suspects the "purser" is Crane's thief; "**the Temple will say nothing to the faithful of what is coming**"; and she reminds Crane of his
+  **promise that the headland and temple will be spared when the waters rise**, in exchange for the Guild's gift for a new bell tower.
+  **Vey knows about the flood and is keeping quiet for money.**
+- Tib opened the chest on his second try (20). **Ossian's charts are inside.**
+- A note for Tamsin: Ossian is in the **penitent's cell, west cloister**. Bread and water, no visitors.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -221,7 +229,7 @@ the tide has been coming in wrong.
 - **Inky Mabb**: ancient gnome forger in the Gutterwick. Has forged the Emperor's seal. Saw through Sable's copy.
 - **Old Fen**: barkeep of the Leaky Bucket. Covered their escape.
 - **Brother Ossian**: young, nervous tide-priest. Knows the Litany. Ally. **Confined to the temple by Vey; his charts confiscated.**
-- **High Tidewarden Cassia Vey**: head of the Temple of the Tides. Smooth, political, funded by Crane. **Suspicious of Penhallow.**
+- **High Tidewarden Cassia Vey**: head of the Temple of the Tides. **Colluding with Crane**: she knows about the flood, keeps it quiet, and expects the headland to be spared.
 - **Brother Tamsin**: older priest, sour, Vey's yes-man.
 - **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
 - **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.

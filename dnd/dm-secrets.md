@@ -221,3 +221,12 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - Vey's study: top floor of the temple's east tower. The door is locked (DC 15 to pick with thieves' tools; Tib has a set). Vey dines in the refectory at sundown,
   and the study is empty then. Brother Tamsin patrols. The charts are in a locked chest (DC 13). Vey has also **written a letter to Crane** about Ossian and "the batty purser",
   which is still on her desk, unsent. It's evidence of her collusion.
+
+## Vey's letter to Crane (contents fixed before Sable opens it)
+> "Master Crane, the acolyte Ossian has been meddling with his charts again. I have confiscated them and confined him. He consorted with an elderly
+> 'purser' whom I now believe to be your thief in disguise; my brother followed the man to the Leaky Bucket, though I gather your men were too slow.
+> As you asked, the Temple will say nothing to the faithful of what is coming. I trust you will remember your promise: that when the waters rise,
+> the headland and the Temple will be spared, and that I may open our doors to those of the faithful I choose. The Guild's gift for the new bell tower
+> is most gratefully received. Yours in the Tide, C. Vey."
+- This is **damning**: the High Tidewarden knows the flood is coming and is keeping it quiet for money. It's strong evidence for Grane alongside the charts.
+- Timer: after each extended action in the study, secret 1d6. On a 1, footsteps are on the stairs (Vey returning early from dinner).
