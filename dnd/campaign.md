@@ -114,6 +114,8 @@ the tide has been coming in wrong.
   scroll out of the locked **archive** tonight after vespers (via the lamp cupboard).
 - The Tidewarden came over asking about "the disturbance in the pool". Penhallow claimed he'd tripped and splashed it.
   Deception 24 vs Vey's Insight 24: **a tie**, so she's neither fooled nor certain. She ordered Ossian to see her **after vespers**.
+- Arranged to meet Ossian at **The Leaky Bucket** (Netmakers' Row) after midnight, once he's raided the archive.
+- **Evening:** went to the Leaky Bucket to find Marta Kell. (Unknown to Sable, someone was following...)
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -142,6 +144,8 @@ the tide has been coming in wrong.
 - **The *Indomitable***: a beached, rotting imperial warship in the breakers' yard. Pip's secret hideout.
 - **Old Wendle's rope-walk**: Tallow Street. A long rope-making shed; the ledger is hidden in the boiling-house chimney.
 - **The Lantern Spire**: where Crane plans the binding.
+- **The Leaky Bucket**: a half-sunk cellar tavern on Netmakers' Row. Drips everywhere. Marta Kell's haunt.
+- **Temple of the Tides**: on the headland. Its floor is a great tidal pool, with tide-bells in the arches.
 - **Brask's Chandlery**: at the end of the Drowned Lamb's alley. Has a cellar smuggling tunnel to the fishing slips.
 - **Pier Nine**: a half-wrecked pier at the far end of the harbour. Midnight meeting.
 - **The drowned dome**: an ancient temple roof buried in the mud under Pier Nine, glowing green. The Choir's lair?

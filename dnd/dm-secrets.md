@@ -107,3 +107,17 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   nearby seawater stirs.
 - Ossian recalls the gist of the Litany legend from memory. The line "made in the deep, may be unmade only there" is only in the archive scroll,
   which is kept in the locked **Tidewarden's archive** under the temple. Ossian can get in after vespers.
+
+## Evening, day 1 (set before rolling)
+- Vey is suspicious. Roll 1d6: on 1-3 she sends **Brother Tamsin** to tail "Penhallow" from the temple (Stealth +1, he's bad at it).
+- **The Leaky Bucket**: a half-sunk cellar tavern on Netmakers' Row, with buckets catching drips everywhere. Rough, cheap, and quiet about its customers.
+- **Marta Kell**: human, mid-40s, a broad scar through one eyebrow, iron-grey crop. Use the *veteran* stat block, but she's out of practice and drinking:
+  AC 15 (she still has a brigandine), 45 HP, longsword. She's dry, cynical and honest to a fault.
+  She drinks alone in the back corner. She recognises disguises (she was Watch); Perception +4.
+  - She wants Hesk ruined. Shown the ledger, she's IN, but she insists it goes somewhere it can't be buried.
+  - Her idea: **Admiral Thessaly Grane** of the rotting imperial fleet. The Navy is the one power in Saltmarrow Crane doesn't own,
+    and Grane hates him (he's been buying up her sailors' debts). Grane's flagship is the *Aurelian Dawn*, anchored in the harbour.
+  - Marta's price: she wants to be there when Hesk falls.
+- RESULT: Vey had them followed (rolled 1). Tamsin's Stealth 19 beat Sable's passive 14 and Pip's 12. **Tamsin followed them to the Leaky Bucket unseen**
+  and reported back to Vey. Vey now knows "Penhallow" drinks at the Leaky Bucket and is meeting Ossian there.
+- Marta failed to spot the disguise (7 vs DC 18).
