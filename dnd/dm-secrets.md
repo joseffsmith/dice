@@ -143,3 +143,16 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - The Bucket's barkeep, **Old Fen**, pays Mother Pell for protection, and the trapdoor is a Gutterwick bolt-hole.
 - If the grey-coats follow, they're slow in the water. If they don't see the trapdoor, the regulars won't tell them.
 - Ossian Dex check DC 10 (he's frozen and clumsy): on a fail he bangs the trapdoor, and the grey-coats know where the party went and give chase.
+
+## The Gutterwick (set before the Persuasion roll)
+- Lookout leader: **Needle**, a one-armed tiefling (*bandit captain*-lite: AC 14, 40 HP, hand crossbow +5). Wry and loyal to Pell.
+- Persuasion DC 12 to be taken to Pell on Hettie's name (Hettie's dad "Brask the Elder" was one of Pell's best smugglers).
+- **Mother Pell**: a huge, elderly half-orc woman. She sits on a throne made from an old pulpit in the **Drowned Chapel of St Ebb** (in the Sumps,
+  knee-deep in water) and knits constantly. Shrewd, maternal, ruthless. She shelters street kids, and **Little Moss** (who went missing in the drains) was one of hers.
+  - She hates Crane: his diggers have been tunnelling into her drains, and two of her people vanished near the works.
+  - She hates the Choir: they've been taking her kids.
+  - She wants the ledger for **blackmail**: to OWN Hesk, not ruin him. This **conflicts with Marta**, who wants Hesk to fall publicly.
+  - Offer: 200 gp for the ledger, OR a safe house and Gutterwick help in exchange for the ledger.
+  - Possible solution: Sable could **forge a copy** (forgery kit). A good forgery could satisfy Pell (she'd test it: Investigation +3).
+- Pell knows where Crane's diggers broke through: a sealed tunnel under the **Lantern Spire's** foundations that connects to the drowned
+  temple complex. That's a back way in for Crane at the spring tide, and maybe for Sable.
