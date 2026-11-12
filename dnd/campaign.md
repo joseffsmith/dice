@@ -94,6 +94,12 @@ the tide has been coming in wrong.
 - In the boiling house, the attempt to send the tar-man for the foreman failed (Deception 10): he bellowed for Mags instead.
   **Pip** made a smoky hemp "fire" (13), and he ran out with a bucket. Sable pulled the brick and got **THE LEDGER**.
   Inside: Captain Hesk's bribes, sergeants' names, and "the diggers". The final entry, 8 days ago, reads **"Final payment. They have broken through."**
+- Penhallow "approved" Mags's flood claim. She was overjoyed. (The Assurance Society doesn't exist...)
+- Back to **Hettie's** (no trouble on the way). Returned her lantern. She hadn't recognised Sable until he spoke.
+  The grey-coats had threatened her last night, and she told them nothing. Hettie's leads:
+  - **Marta Kell**: ex-Watch sergeant, sacked for refusing Hesk's bribes. Drinks at **The Leaky Bucket**.
+  - **Mother Pell** of the **Gutterwick** (thieves): Hettie's dad smuggled for her. She'd buy the ledger or trade favours.
+  - **Brother Ossian**, at the **Temple of the Tides**: might read Old Aurelian.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -103,6 +109,9 @@ the tide has been coming in wrong.
 - **Ottavio Crane**: merchant prince, head of the Lantern Guild. Charming and polite, with a hammer in his desk drawer. His house is full of clocks.
 - **Mags Corrow**: foreman at Old Wendle's rope-walk. Loud, red-faced, overworked. Believes Sable is insurance assessor Penhallow.
 - **Captain Hesk**: City Watch captain. On Crane's payroll (according to the ledger).
+- **Marta Kell** (not yet met): ex-Watch sergeant, honest, sacked by Hesk. The Leaky Bucket.
+- **Mother Pell** (not yet met): head of the Gutterwick thieves' guild.
+- **Brother Ossian** (not yet met): Temple of the Tides; might translate Old Aurelian.
 - **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
 - **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.
 - **Old Hettie Brask**: dwarf chandler, gruff, hates the Lantern Guild. Now **friendly** to Sable (nat 20).
@@ -127,13 +136,12 @@ the tide has been coming in wrong.
 - [x] ~~What is Tib hiding?~~ He gave up the Lamb under threat. Forgiven.
 - [x] ~~Retrieve the ledger.~~ Got it!
 - [ ] Crane's binding at the **Lantern Spire** at the spring tide: **9 days**.
-- [ ] Return Hettie's lantern.
+- [x] ~~Return Hettie's lantern.~~
 - [ ] Sable owes Pip **two favours**.
 - [ ] The Choir knows a "brother" stole the Eye. The Guild has a 50 gp bounty on Sable.
 - [ ] Find out what's in the reliquary, and who wants it.
 
 ## Loot & gold
-- Hooded lantern (borrowed from Hettie)
 - 13 gp
 - Brass reliquary (locked)
 - **Crane's ledger** (bribes to Hesk and the Watch; payments to the diggers)

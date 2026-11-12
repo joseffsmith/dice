@@ -76,3 +76,12 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   **9 days** from now (the full moon). The Choir will try to wake the Sleeper at the same tide. That's the campaign's ticking clock.
 - (Added when the ledger was opened) The ledger's final "diggers" entry, dated 8 days ago, reads: "Final payment. They have broken through."
   Crane's diggers found a way into the drowned temple complex from beneath the Lantern Quarter.
+
+## Consequences / leads (added day 1, noon)
+- Penhallow "approved" Mags Corrow's flood claim with the "Saltmarrow Mutual Marine and Property Assurance Society", which doesn't exist.
+  When the payment never arrives (in about a week), Mags will start asking around about Penhallow. That identity could get burned.
+- Hettie's leads:
+  - **Marta Kell**, an ex-Watch sergeant thrown out for refusing Hesk's bribes. She drinks at **The Leaky Bucket**. She'd kill for the ledger.
+  - **Mother Pell** of the Gutterwick: Hettie's father ran smuggling for her. Pell would buy the ledger (around 200 gp) or trade favours.
+  - **Brother Ossian** at the **Temple of the Tides** might translate Old Aurelian. The temple is in uproar about the tides.
+- The grey-coats who came into Hettie's shop last night threatened her. She told them nothing.

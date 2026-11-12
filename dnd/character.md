@@ -66,7 +66,6 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - Entertainer's pack: backpack, bedroll, 2 costumes, 5 candles, 5 days' rations, waterskin, disguise kit
 - Forgery kit, set of fine clothes
 - Tools of the con: signet ring of the imaginary **Duke of Vellmoor**
-- Hooded lantern (borrowed from Hettie Brask)
 - **Crane's ledger**, wrapped in oilcloth
 - **The brass reliquary** (locked, palm-sized, faintly warm, sometimes hums)
 - **Coin:** 13 gp
