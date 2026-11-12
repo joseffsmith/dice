@@ -70,4 +70,4 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - **Coin:** 13 gp
 
 ## Conditions / notes
-- **Disguise Self** active (cast ~11:10pm, lasts 1 hour, until ~12:10am): appears as a barnacle-crusted Choir member.
+_None._

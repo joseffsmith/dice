@@ -71,6 +71,10 @@ the tide has been coming in wrong.
   Sable's rapier hit (13) for 10. **Gannet dropped.** Combat over. Gannet was left on the dome rim as the tide came in.
 - Raced the tide to the **fishing slips** (Sable 13, Pip 13, Tib 18, with Sable supporting Tib). All made it.
   The sea swallowed Pier Nine's pilings and the green glow went dark. The hooded watcher on the pier turned its lantern toward the slips.
+- Midnight. Sable dropped the disguise. Reunion with Tib. Tib's story: grey-coats grabbed him on Tallow Street and took him
+  toward the Lantern Quarter; the Choir attacked the carriage at the Gull Canal and dragged him through the drains; they
+  tortured him for the Eye's location and made him write the note. Sable's passive Insight (14) caught Tib **dodging the question
+  of how the grey-coats knew about the Drowned Lamb**.
 
 ## NPCs
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Chained in the Drowned Chapel.
