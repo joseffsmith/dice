@@ -30,6 +30,9 @@ the tide has been coming in wrong.
   - The next morning that carriage was found by the Gull Canal: horses gone, driver drowned *on dry land*,
     and seaweed everywhere.
   - Pier Nine: wrecked last winter. Fishermen say you can hear singing under it at low tide.
+- Studied the note (Investigation 14): it's Tib's real handwriting, but shaky and seawater-damp, and
+  **missing the fox doodle**, their sign that a message is genuine. Tib wrote it under duress.
+  The paper feels oddly ridged, but it's too dark to see why.
 
 ## NPCs
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Missing.

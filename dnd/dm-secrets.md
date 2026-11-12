@@ -39,3 +39,10 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - Night three at the Drowned Lamb. Pip delivers a note "from Tib" (actually the Choir's bait):
   "They've got me. Pier Nine, midnight. Bring the box." Meanwhile, two of Crane's grey-coats walk in
   (they got the location from Tib).
+
+## The note (set before rolling the Investigation check)
+- Tib really did write it, but the Choir forced him to.
+- DC 10: genuine handwriting but shaky; the paper is damp with seawater; there's **no fox doodle** (their agreed
+  sign that a message is genuine and freely written), so it was written under duress.
+- DC 15: faint indentations from an earlier line Tib scratched out: **"DON'T COME. UNDER IT—"**
+  - Rolled 14: missed it. Under a proper lantern (a change of circumstance) Sable can try again.
