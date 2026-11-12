@@ -246,3 +246,5 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   and it's stirring in its dreams and pulling at the sea. Crane binding it would "calm" the flood in his favour (and give him the Sleeper). The Choir waking it
   would destroy the city. **Only breaking the Eye in the Mouth with the full Litany ends it for good**, and that would stop the flood.
   Ossian will realise this if asked or when looking at the charts again (the pull grew sharply after the breach).
+- Grane agreed (Persuasion 25): **6 marines plus Lt Fross, out of uniform** (deniable, since there's no martial law yet). Marine: AC 14, 16 HP, cutlass +4 1d6+2,
+  light crossbow +3 1d8+1. Fross: AC 16, 30 HP, two rapier attacks +5 1d8+3. Strong pitch bonus: **2 potions of healing** from the ship's surgeon.

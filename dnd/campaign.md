@@ -215,6 +215,8 @@ the tide has been coming in wrong.
 - Collected Marta at St Ebb's, rowed out, and blew the whistle three times. Fross lowered a ladder. **Ossian presented his charts to Admiral Grane.**
   **She's convinced.** Plan: **martial law at dusk on day 9** (the eve of the spring tide). Marines take the Watch house and **arrest Hesk** (Marta present).
   The fleet moves to deeper water.
+- Sable asked for **marines to raid the Spire vaults early** through the diggers' tunnel (Persuasion 25). Grane agreed: **Lt Fross and 6 marines,
+  out of uniform** ("If you're caught, I never heard of you"). She also gave **2 potions of healing**.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -226,7 +228,7 @@ the tide has been coming in wrong.
 - **Captain Hesk**: City Watch captain. On Crane's payroll (according to the ledger).
 - **Marta Kell**: ex-Watch sergeant, honest, framed and sacked by Hesk. Bitter and sharp. **Ally** (her price: to be there when Hesk falls).
 - **Sergeant Dunmore**: Marta's old partner. Paid 30 cr. to testify against her (it's in the ledger).
-- **Lt Abel Fross**: young marine officer on the *Aurelian Dawn*. By the book.
+- **Lt Abel Fross**: young marine officer on the *Aurelian Dawn*. By the book. Leading 6 marines (out of uniform) for Sable's raid.
 - **Commander Voss**: the fleet's purser. **In Crane's ledger.** Exposed and confined to quarters.
 - **Admiral Thessaly Grane**: commands the imperial fleet from the *Aurelian Dawn*. Peg leg, iron will. Holding the ledger. Needs proof of the threat.
 - **Mother Pell**: head of the Gutterwick. Huge, elderly half-orc woman, always knitting, on a pulpit throne. Knows Pip.
@@ -264,7 +266,7 @@ the tide has been coming in wrong.
 - [x] ~~What is Tib hiding?~~ He gave up the Lamb under threat. Forgiven.
 - [x] ~~Retrieve the ledger.~~ Got it... then lost it to Mother Pell.
 - [x] ~~**Rescue Pell's six missing children**~~ Done. Got the original ledger back and learned about the diggers' tunnel.
-- [ ] Pell's two people held by Crane (probably in the Spire vaults?).
+- [ ] **Raid the Spire vaults** through the diggers' tunnel with Fross's marines: rescue Corrie and Sprat, and wreck Crane's preparations.
 - [x] ~~Get the ledger to Admiral Grane.~~ Done. Voss confined.
 - [ ] Bring **Ossian and his charts** to Grane **by day 6**. ✅ Both now in hand!
 - [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
