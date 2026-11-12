@@ -1,7 +1,7 @@
 # Sable: Half-Elf Bard 2 (Charlatan)
 _"Sable" is a working name. Nobody in Saltmarrow knows the real one._
 
-**Rules:** D&D 5e (2014) · **Level:** 2 · **XP:** 300 / 900
+**Rules:** D&D 5e (2014) · **Level:** 2 · **XP:** 550 / 900
 **Pronouns:** he/him · **Alignment:** Chaotic Neutral (leaning good, though Sable would deny it)
 
 ## Core
@@ -55,7 +55,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - **1st level (known):** Disguise Self, Charm Person, Healing Word, Sleep, **Silent Image**
 
 ## Features
-- **Bardic Inspiration (d6):** 5 / 5 per long rest. As a bonus action, an ally within 60 ft gains a d6 to add to one ability check, attack roll or saving throw.
+- **Bardic Inspiration (d6):** 4 / 5 per long rest. (Tib is holding one unused die.) As a bonus action, an ally within 60 ft gains a d6 to add to one ability check, attack roll or saving throw.
 - **Jack of All Trades:** Add +1 to any ability check you're not proficient in (including initiative).
 - **Song of Rest (d6):** During a short rest, you and allies who spend Hit Dice regain an extra 1d6 HP.
 - **Fey Ancestry:** Advantage on saves against being charmed; magic can't put you to sleep.

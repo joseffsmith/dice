@@ -232,6 +232,10 @@ the tide has been coming in wrong.
     Sable cast **Sleep** (19 HP): **one grey-coat fell asleep** (the tie-break went the wrong way, so the runner stayed awake). Tib dashed to **block the stairs**
     and took 3 from the runner. Morrow (multiattack) hit Sable once for 7 (**Sable 14/21**).
   - R3: Needle missed the runner. Marta arrived: one miss, then a **NAT 20** crit for 12 (**Morrow 20/32**).
+    Sable's rapier hit Morrow for 7 and he gave **Bardic Inspiration to Tib** (Tib hit without needing it and still holds the die). Tib hit the runner for 4.
+    The runner hit Tib for 6. Morrow missed Sable twice. **The marines arrived**: Fross hit Morrow twice, and a marine's crit dropped the runner.
+    Another marine finished Morrow. **The fight ended in 3 rounds, so no alarm upstairs.** The sleeping grey-coat was bound and gagged.
+- **XP:** 2 thugs (200) + 2 bandits (50) = **+250, so 550/900.**
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
