@@ -45,6 +45,12 @@ the tide has been coming in wrong.
   passage that heads toward the fish market and the drains.
 - Came out under the boathouse at the fishing slips around 11pm. Low tide is early and extreme:
   the harbour has drained back to the mudflats, and Pier Nine's pilings stand in exposed mud.
+- Seen at Pier Nine: a hooded figure waiting by a lantern at the broken end; a green glow and humming under
+  the pier; drag marks leading to it.
+- Sable (16) and Pip (21) sneaked across the mud under the pier unseen.
+- The green glow comes from the top of a **drowned stone dome** sticking out of the mud. It's an old temple from
+  a city beneath Saltmarrow. A broken window leads down, and a **Choir guard** sits on the rim humming, eyes closed.
+  There's chanting below, and Sable glimpsed a **red scarf**.
 
 ## NPCs
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Missing.
@@ -60,6 +66,7 @@ the tide has been coming in wrong.
 - **Gull Canal**: where the empty carriage was found.
 - **Brask's Chandlery**: at the end of the Drowned Lamb's alley. Has a cellar smuggling tunnel to the fishing slips.
 - **Pier Nine**: a half-wrecked pier at the far end of the harbour. Midnight meeting.
+- **The drowned dome**: an ancient temple roof buried in the mud under Pier Nine, glowing green. The Choir's lair?
 - **The Lantern Quarter**: the guild district, rich and well-lit. Scene of the botched job.
 
 ## Quests / threads
