@@ -64,3 +64,13 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 
 ## Phrase
 - "Vael thessa morun" = Old Aurelian for **"the tide remembers"**, the opening phrase for the reliquary. The Cantor said it as a blessing (her nat 1).
+
+## Added before Tib's confession (session 1, morning)
+- Tib's confession is true: Crane questioned him personally and threatened to break his hands. Tib gave up the Drowned Lamb
+  thinking Sable would spot the grey-coats and run. He did NOT give up the ledger.
+- **The ledger**: the original target. Tib DID grab it and stashed it before he was caught, behind a loose brick in the
+  chimney of **Old Wendle's rope-walk on Tallow Street**. It records Crane's bribes to **Captain Hesk** of the Watch, and
+  payments to "diggers" for **excavations under the harbour** (Crane has been looking for the drowned temple too).
+  It's big leverage, and Mother Pell would pay well for it.
+- What Tib overheard from Crane: "The binding must be done at the **Lantern Spire** at the **spring tide**." The next spring tide is
+  **9 days** from now (the full moon). The Choir will try to wake the Sleeper at the same tide. That's the campaign's ticking clock.
