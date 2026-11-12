@@ -266,3 +266,8 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   Without both the armature and a trained singer, Crane can't do the binding at the spring tide. He'd have to improvise: go down to the Mouth himself with the Eye.
 - Alarm: if the guardroom fight lasts more than 3 rounds, or someone escapes up the stairs, **reinforcements** (4 more grey-coats) arrive 3 rounds later
   from the Spire above.
+- (Set before freeing them) **Corrie and Sprat know:** Magister Thale is Crane's hired singer, and he has been practising the Litany for weeks. The brass armature (the "Lantern")
+  is to be **hauled up to the top of the Spire** before the tide. Thale will sing with the Eye set in it, and the Lantern's light will be shone down a shaft that runs
+  from the Spire's crown to the deep. They also overheard Crane: *"If the thief won't bring the Eye, the Choir will fetch it to the Mouth for us. Let them. We take it there."*
+  So Crane's backup plan is to ambush the Choir at the Mouth.
+- Thale, behind the door, is readying an ambush: **Thunderwave** at whoever opens the door first.
