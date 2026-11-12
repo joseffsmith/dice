@@ -227,6 +227,8 @@ the tide has been coming in wrong.
 - Sable played a panicked digger through the door ("water's coming up the lower shaft!"), keeping his face in shadow: Deception 26. **They opened up.**
 - **Combat in the guardroom!** The grey-coats are **surprised**. Initiative: Needle 21, Marta 18, Sable 17, Tib 15, Grey-coats 12, Fross & marines 11, Ossian 3.
   - R1: Needle's crossbow rolled a nat 1 and missed. Marta dashed up from the back.
+    **Sable's rapier: NAT 20**, a crit for 15 on Harl. Tib's shortsword plus sneak attack hit for 16 (**Harl 1/32**). The marines and Ossian hurried up the tunnel.
+  - R2: Needle's crossbow hit for 8. **Harl is down.** Marta is still on her way.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
