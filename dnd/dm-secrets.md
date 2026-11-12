@@ -271,3 +271,13 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   from the Spire's crown to the deep. They also overheard Crane: *"If the thief won't bring the Eye, the Choir will fetch it to the Mouth for us. Let them. We take it there."*
   So Crane's backup plan is to ambush the Choir at the Mouth.
 - Thale, behind the door, is readying an ambush: **Thunderwave** at whoever opens the door first.
+
+## Thale surrenders (set before narrating his offer)
+- Thale: thin, balding, in his 50s, in fine ink-stained robes. A scholar of Old Aurelian from the northern academies, hired by Crane for 2,000 gp. In over his head.
+  He wants **protection and safe passage out of Saltmarrow**. He fears Crane's hammer.
+- What he knows:
+  - **How to break the Eye:** it's impervious to all harm *except* in the Mouth while the Litany is being sung. Then it becomes "as brittle as old glass" for as long as
+    the song lasts, and any solid blow will shatter it. (He warned Crane never to let the Litany be sung at the Mouth.)
+  - **The Lantern's weak point:** a palm-sized **focusing crystal** at its heart. Removed or swapped for a fake (Sleight of Hand DC 12, or forgery-kit work with a
+    dummy of glass), the Lantern will *look* intact, but at the spring tide the binding will fail. Smashing the Lantern outright alerts Crane at once.
+  - Crane has a **second singer** as backup: himself. He has been learning the Litany phonetically, badly. With the real Lantern he might manage it (risky).
