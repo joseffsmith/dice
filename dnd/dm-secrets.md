@@ -85,3 +85,20 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   - **Mother Pell** of the Gutterwick: Hettie's father ran smuggling for her. Pell would buy the ledger (around 200 gp) or trade favours.
   - **Brother Ossian** at the **Temple of the Tides** might translate Old Aurelian. The temple is in uproar about the tides.
 - The grey-coats who came into Hettie's shop last night threatened her. She told them nothing.
+
+## Temple of the Tides (set before arrival, day 1 afternoon)
+- A grey stone temple on the Saltmarrow headland. The floor is a great tidal pool that rises and falls with the sea. Tide-bells hang in the arches.
+- **High Tidewarden Cassia Vey**: the head priestess. Smooth and political, she preaches calm. **The Lantern Guild paid for the
+  temple's new roof**, and there's a brass donation plaque by the door. She's been told to keep the tides "a natural phenomenon".
+  She isn't evil, but she's bought, and she'd tell Crane if she learned of the Eye.
+- **Brother Ossian**: about 20, human, gangly and nervous, an acolyte (stat as *acolyte*: Cure Wounds, Sanctuary, Spare the Dying).
+  He's been charting the tides for weeks and knows something's pulling them. Vey has told him to be quiet. He's desperate for someone to believe him.
+- What Ossian knows / can find in the archive:
+  - "Vael thessa morun" = **"The tide remembers"**, the first line of the old *Litany of Saint Aurel*.
+  - The legend: Saint Aurel fought the **Sleeper** in the deep beneath the old city (now drowned). She **took one of its eyes**, which blinded it
+    and sent it to sleep. "While the Eye is held from the deep, the Sleeper dreams. Return the Eye and it wakes. But one who holds the Eye and
+    sings the Litany at the high spring tide shall bend the Sleeper's will."
+  - So the Choir wants to WAKE it, and Crane wants to CONTROL it (bend its will). Both are catastrophic.
+  - The Litany also says the Eye "was made in the deep and may be unmade only there", which is vague. It's a potential route to
+    destroying it, but dangerous (it would have to be done in the Sleeper's presence).
+- If Ossian is shown the box, he's terrified and awed. He'd want to help, and he'd become an ally (a healer).
