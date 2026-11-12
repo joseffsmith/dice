@@ -119,6 +119,11 @@ the tide has been coming in wrong.
 - As Penhallow, bought Marta a bottle (4 sp) and got her talking (Persuasion 19). Her story: twenty years in the Watch. Last year she
   arrested a Lantern Guild clerk for smuggling, and **Hesk** let him go, then offered Marta money to forget it. She refused, and
   **she was framed for theft and thrown out**. Her old partner, **Sergeant Dunmore**, testified against her.
+- Showed Marta the ledger. **Dunmore is in it**: "Sgt. Dunmore, testimony re: Kell: 30 cr." Marta is **IN**.
+  She didn't see through the disguise, but she guessed that "Penhallow" is connected to the Guild's wanted thief, and she doesn't care.
+  Her plan: take the ledger to **Admiral Thessaly Grane** of the imperial fleet (flagship *Aurelian Dawn*, anchored in the harbour).
+  The Navy is the one power Crane doesn't own, and Grane hates him: he's been buying up her sailors' debts.
+  Her price: **she wants to be there when Hesk falls.**
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -129,7 +134,8 @@ the tide has been coming in wrong.
 - **Mags Corrow**: foreman at Old Wendle's rope-walk. Loud, red-faced, overworked. Believes Sable is insurance assessor Penhallow.
 - **Captain Hesk**: City Watch captain. On Crane's payroll (according to the ledger).
 - **Marta Kell**: ex-Watch sergeant, honest, framed and sacked by Hesk. Bitter and sharp. The Leaky Bucket.
-- **Sergeant Dunmore**: Marta's old partner. Testified against her. Probably in the ledger.
+- **Sergeant Dunmore**: Marta's old partner. Paid 30 cr. to testify against her (it's in the ledger).
+- **Admiral Thessaly Grane** (not yet met): commands the rotting imperial fleet from the *Aurelian Dawn*. Hates Crane.
 - **Mother Pell** (not yet met): head of the Gutterwick thieves' guild.
 - **Brother Ossian**: young, nervous tide-priest. Charts the tides, and nobody listens to him. Knows the Litany of Saint Aurel. **Knows Sable's secret and wants to help.**
 - **High Tidewarden Cassia Vey**: head of the Temple of the Tides. Smooth, political, funded by Crane. **Suspicious of Penhallow.**
