@@ -7,7 +7,7 @@ _"Sable" is a working name. Nobody in Saltmarrow knows the real one._
 ## Core
 | AC | HP | Hit Dice | Speed | Initiative | Proficiency |
 |---|---|---|---|---|---|
-| 15 (leather) | **21 / 21** | 2d8 (2/2) | 30 ft | +5 (incl. Jack of All Trades) | +2 |
+| 15 (leather) | **14 / 21** | 2d8 (2/2) | 30 ft | +5 (incl. Jack of All Trades) | +2 |
 
 Passive Perception **14** · Darkvision 60 ft
 
@@ -49,7 +49,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 
 ## Spellcasting (Charisma)
 **Spell save DC 15 · Spell attack +7**
-**1st-level slots:** ☐☐☐ (3/3), recovered on a long rest
+**1st-level slots:** ☒☐☐ (2/3), recovered on a long rest
 
 - **Cantrips:** Vicious Mockery, Minor Illusion
 - **1st level (known):** Disguise Self, Charm Person, Healing Word, Sleep, **Silent Image**

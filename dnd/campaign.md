@@ -229,6 +229,9 @@ the tide has been coming in wrong.
   - R1: Needle's crossbow rolled a nat 1 and missed. Marta dashed up from the back.
     **Sable's rapier: NAT 20**, a crit for 15 on Harl. Tib's shortsword plus sneak attack hit for 16 (**Harl 1/32**). The marines and Ossian hurried up the tunnel.
   - R2: Needle's crossbow hit for 8. **Harl is down.** Marta is still on her way.
+    Sable cast **Sleep** (19 HP): **one grey-coat fell asleep** (the tie-break went the wrong way, so the runner stayed awake). Tib dashed to **block the stairs**
+    and took 3 from the runner. Morrow (multiattack) hit Sable once for 7 (**Sable 14/21**).
+  - R3: Needle missed the runner. Marta arrived: one miss, then a **NAT 20** crit for 12 (**Morrow 20/32**).
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
