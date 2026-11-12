@@ -66,7 +66,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - Forgery kit, set of fine clothes
 - Tools of the con: signet ring of the imaginary **Duke of Vellmoor**
 - **The brass reliquary** (locked, palm-sized, faintly warm, sometimes hums)
-- **Coin:** 14 gp
+- **Coin:** 13 gp
 
 ## Conditions / notes
 _None._

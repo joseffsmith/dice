@@ -23,14 +23,26 @@ the tide has been coming in wrong.
   "They've got me. Pier Nine. Midnight. Bring the box."
 - Two Lantern Guild grey-coats came in searching faces. Sable paid Pip 1 gp to cause a distraction
   (an ale-tray "accident"), then slipped out through the kitchen unseen (Stealth 23).
+- Paid Pip her second gold crown. Questioned her in the alley:
+  - The note-giver had wet, crusted "boat-bottom" skin and hummed nonstop. He came up from the
+    old drain grate by the fish market. Street kids call these people **"the Choir"**. Kids have gone missing.
+  - Two nights ago Pip saw grey-coats bundle a man in a **red scarf** (Tib?) into a black carriage heading uphill.
+  - The next morning that carriage was found by the Gull Canal: horses gone, driver drowned *on dry land*,
+    and seaweed everywhere.
+  - Pier Nine: wrecked last winter. Fishermen say you can hear singing under it at low tide.
 
 ## NPCs
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Missing.
 - **Pip**: a halfling street kid (she/her), messenger, sharp and mercenary. Paid 1 gp for a distraction.
 - **Grey-coats**: Lantern Guild enforcers with brass lantern pins. Two of them were searching the Drowned Lamb.
 
+- **The Choir**: street name for the crusted, humming people who come out of the drains.
+
 ## Locations
 - **The Drowned Lamb**: a dockside tavern in the Saltreach district. Sable's bolt-hole and the meeting spot.
+- **Fish market drain grate**: where the humming man came up from.
+- **Gull Canal**: where the empty carriage was found.
+- **Pier Nine**: a half-wrecked pier at the far end of the harbour. Midnight meeting.
 - **The Lantern Quarter**: the guild district, rich and well-lit. Scene of the botched job.
 
 ## Quests / threads
@@ -38,5 +50,5 @@ the tide has been coming in wrong.
 - [ ] Find out what's in the reliquary, and who wants it.
 
 ## Loot & gold
-- 14 gp
+- 13 gp
 - Brass reliquary (locked)
