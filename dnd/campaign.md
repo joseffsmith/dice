@@ -81,11 +81,21 @@ the tide has been coming in wrong.
 - Morning: wanted posters in the breakers' yard showing a half-elf with a signet ring. **"50 gold crowns, by order of the Lantern Guild."**
   Overnight the tide flooded the lower docks. Old sailors are muttering.
 
+- Tib **confessed**: Crane caught him, threatened his hands with a hammer, and Tib gave up the Drowned Lamb. Sable **forgave him**.
+- Tib revealed: (1) he **stole the ledger** and hid it behind a loose chimney brick at **Old Wendle's rope-walk**, Tallow Street.
+  It shows **Captain Hesk** and his sergeants on Crane's payroll, plus payments to "the diggers" for "excavation under the harbour".
+  (2) He overheard Crane: "The binding will be done at the **Lantern Spire**, at the **spring tide**." That's the full moon, **9 days** away.
+- **Day 1 (morning):** Sable used his disguise kit on himself (DC 18 to see through) and on Tib (DC 17).
+  Sable is now "Master Aldous Penhallow", an elderly ship's purser. Tib is "Gorse", a bald, bearded deckhand with an eyepatch.
+  All three set off for Tallow Street.
+
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
 ## NPCs
 - **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Rescued. Hiding something about the Drowned Lamb.
 - **Brother Gannet**: the barnacled door guard. Devout, gullible, weepy. Escorting Sable and Tib.
+- **Ottavio Crane**: merchant prince, head of the Lantern Guild. Charming and polite, with a hammer in his desk drawer. His house is full of clocks.
+- **Captain Hesk**: City Watch captain. On Crane's payroll (according to the ledger).
 - **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
 - **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.
 - **Old Hettie Brask**: dwarf chandler, gruff, hates the Lantern Guild. Now **friendly** to Sable (nat 20).
@@ -98,6 +108,8 @@ the tide has been coming in wrong.
 - **Fish market drain grate**: where the humming man came up from.
 - **Gull Canal**: where the empty carriage was found.
 - **The *Indomitable***: a beached, rotting imperial warship in the breakers' yard. Pip's secret hideout.
+- **Old Wendle's rope-walk**: Tallow Street. A long rope-making shed; the ledger is hidden in the boiling-house chimney.
+- **The Lantern Spire**: where Crane plans the binding.
 - **Brask's Chandlery**: at the end of the Drowned Lamb's alley. Has a cellar smuggling tunnel to the fishing slips.
 - **Pier Nine**: a half-wrecked pier at the far end of the harbour. Midnight meeting.
 - **The drowned dome**: an ancient temple roof buried in the mud under Pier Nine, glowing green. The Choir's lair?
@@ -105,7 +117,9 @@ the tide has been coming in wrong.
 
 ## Quests / threads
 - [x] ~~Find out what happened to Tib.~~ Rescued from the Drowned Chapel.
-- [ ] What is Tib hiding about the Drowned Lamb?
+- [x] ~~What is Tib hiding?~~ He gave up the Lamb under threat. Forgiven.
+- [ ] Retrieve **the ledger** from Old Wendle's rope-walk chimney.
+- [ ] Crane's binding at the **Lantern Spire** at the spring tide: **9 days**.
 - [ ] Return Hettie's lantern.
 - [ ] Sable owes Pip **two favours**.
 - [ ] The Choir knows a "brother" stole the Eye. The Guild has a 50 gp bounty on Sable.
