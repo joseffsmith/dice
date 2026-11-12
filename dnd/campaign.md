@@ -136,6 +136,8 @@ the tide has been coming in wrong.
   Down in the **storm drains**. Ossian cast **Light** on his scroll-case. They followed the regulars **downstream** toward the Sumps.
 - Stopped by **Gutterwick lookouts** in the drains, led by **Needle** (one-armed tiefling). Sable dropped Hettie's name (Persuasion 11, failed).
   Needle's terms: pay 5 gp, hand over all weapons and go blindfolded to Mother Pell, OR wait hours under guard while a runner checks with Hettie.
+- **Paid the toll (5 gp)**, surrendered weapons (Sable's rapier and dagger, Marta's longsword, Tib's knife) and went blindfolded.
+- Brought to the **Drowned Chapel of St Ebb** in the Sumps, before **Mother Pell**.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -148,7 +150,7 @@ the tide has been coming in wrong.
 - **Marta Kell**: ex-Watch sergeant, honest, framed and sacked by Hesk. Bitter and sharp. **Ally** (her price: to be there when Hesk falls).
 - **Sergeant Dunmore**: Marta's old partner. Paid 30 cr. to testify against her (it's in the ledger).
 - **Admiral Thessaly Grane** (not yet met): commands the rotting imperial fleet from the *Aurelian Dawn*. Hates Crane.
-- **Mother Pell** (not yet met): head of the Gutterwick thieves' guild.
+- **Mother Pell**: head of the Gutterwick. Huge, elderly half-orc woman, always knitting, on a pulpit throne. Knows Pip.
 - **Needle**: one-armed tiefling, a Gutterwick lookout leader. Dry and careful.
 - **Old Fen**: barkeep of the Leaky Bucket. Covered their escape.
 - **Brother Ossian**: young, nervous tide-priest. Charts the tides, and nobody listens to him. Knows the Litany of Saint Aurel. **Knows Sable's secret and wants to help.**
@@ -168,6 +170,7 @@ the tide has been coming in wrong.
 - **The *Indomitable***: a beached, rotting imperial warship in the breakers' yard. Pip's secret hideout.
 - **Old Wendle's rope-walk**: Tallow Street. A long rope-making shed; the ledger is hidden in the boiling-house chimney.
 - **The storm drains**: under the city. Downstream leads to the Sumps (Gutterwick); upstream to the fish market (Choir).
+- **Drowned Chapel of St Ebb**: in the Sumps. A flooded chapel, and the Gutterwick's headquarters. Mother Pell's pulpit throne.
 - **The Lantern Spire**: where Crane plans the binding.
 - **The Leaky Bucket**: a half-sunk cellar tavern on Netmakers' Row. Drips everywhere. Marta Kell's haunt.
 - **Temple of the Tides**: on the headland. Its floor is a great tidal pool, with tide-bells in the arches.
@@ -189,6 +192,6 @@ the tide has been coming in wrong.
 - [ ] Find out what's in the reliquary, and who wants it.
 
 ## Loot & gold
-- 12 gp, 6 sp
+- 7 gp, 6 sp
 - Brass reliquary (locked)
 - **Crane's ledger** (bribes to Hesk and the Watch; payments to the diggers)
