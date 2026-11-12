@@ -240,7 +240,12 @@ the tide has been coming in wrong.
   - **Magister Orrin Thale** is Crane's hired wizard, and he's been practising the Litany for weeks. He's the one who'll sing the binding.
   - The brass **"Lantern"** armature is to be **hauled up to the Spire's crown** before the tide. With the Eye set in it, its light shines down a shaft into the deep.
   - Crane's backup plan: *"If the thief won't bring the Eye, the Choir will fetch it to the Mouth for us. Let them. We take it there."*
-- Thale is behind the iron-studded door, and he heard the fight.
+- Thale was behind the iron-studded door, and he heard the fight. Sable talked him out (Persuasion 24): *"You're a hired man..."* **Thale surrendered.**
+  - He was hired from the northern academies for 2,000 gp. He wants **protection and passage out of the city**, and he's terrified of Crane.
+  - **How to break the Eye:** nothing can harm it *except* in the Mouth while the Litany is sung. Then it's "as brittle as old glass" for as long as the song lasts.
+  - **The Lantern's weak point:** a palm-sized **focusing crystal** at its heart. Swap it for a fake, and the Lantern looks fine but the binding fails at the tide.
+    Smashing it would warn Crane at once.
+  - Crane's backup singer is **Crane himself**, who has been learning the Litany phonetically, badly.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
