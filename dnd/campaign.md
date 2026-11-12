@@ -134,7 +134,8 @@ the tide has been coming in wrong.
 - About 1am: **boots on the steps.** Four Lantern Guild grey-coats came down into the Leaky Bucket. The party heard them a moment early.
 - **Fled through the trapdoor** behind the bar (Ossian didn't fumble: 11). The barkeep, **Old Fen**, dragged a barrel over it.
   Down in the **storm drains**. Ossian cast **Light** on his scroll-case. They followed the regulars **downstream** toward the Sumps.
-- Stopped by **Gutterwick lookouts** in the drains.
+- Stopped by **Gutterwick lookouts** in the drains, led by **Needle** (one-armed tiefling). Sable dropped Hettie's name (Persuasion 11, failed).
+  Needle's terms: pay 5 gp, hand over all weapons and go blindfolded to Mother Pell, OR wait hours under guard while a runner checks with Hettie.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -148,6 +149,7 @@ the tide has been coming in wrong.
 - **Sergeant Dunmore**: Marta's old partner. Paid 30 cr. to testify against her (it's in the ledger).
 - **Admiral Thessaly Grane** (not yet met): commands the rotting imperial fleet from the *Aurelian Dawn*. Hates Crane.
 - **Mother Pell** (not yet met): head of the Gutterwick thieves' guild.
+- **Needle**: one-armed tiefling, a Gutterwick lookout leader. Dry and careful.
 - **Old Fen**: barkeep of the Leaky Bucket. Covered their escape.
 - **Brother Ossian**: young, nervous tide-priest. Charts the tides, and nobody listens to him. Knows the Litany of Saint Aurel. **Knows Sable's secret and wants to help.**
 - **High Tidewarden Cassia Vey**: head of the Temple of the Tides. Smooth, political, funded by Crane. **Suspicious of Penhallow.**
