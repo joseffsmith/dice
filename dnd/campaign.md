@@ -269,6 +269,13 @@ the tide has been coming in wrong.
 - Morning: Needle rowed out with a message for Sable, left on the steps of the abandoned St Ebb's, wrapped in kelp:
   *"The Eye for the old barkeep. At the Mouth, at the turning of the spring tide. Come alone, false brother."*
   **The Choir has taken Old Fen**, the barkeep of the Leaky Bucket who covered their escape.
+- **Scouted the diggers' shaft** (Sable, Tib, Pip; the Eye left aboard with Marta). Needle guided them through the drains.
+  - Crane now has **2 grey-coats at the fork**. The party slipped past (24/15/7, 2 of 3). Sable spotted a **bell tripwire** 30 ft below the fork and stepped over it.
+  - Climbed down the 150-ft rope ladder (Pip slipped: 1 rope burn).
+  - At the bottom: a waist-deep **flooded gallery** of ancient carvings, running behind the Drowned Chapel. It ends at a narrow opening **behind the great carved face
+    above the Mouth**. **The face's empty eye socket is a window** looking out over the chapel, **directly above the Mouth**.
+  - Watched unseen (16): the **Cantor** and **6 acolytes** (including a bandaged **Gannet**). **Old Fen** is chained to the east pillar, where Tib was.
+    The gallery seems to connect to the chapel underwater as well.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -312,7 +319,8 @@ the tide has been coming in wrong.
 - **Temple of the Tides**: on the headland. Its floor is a great tidal pool, with tide-bells in the arches.
 - **Brask's Chandlery**: at the end of the Drowned Lamb's alley. Has a cellar smuggling tunnel to the fishing slips.
 - **Pier Nine**: a half-wrecked pier at the far end of the harbour. Midnight meeting.
-- **The drowned dome**: an ancient temple roof buried in the mud under Pier Nine, glowing green. The Choir's lair?
+- **The drowned dome / Drowned Chapel**: an ancient temple under Pier Nine, the Choir's lair, with the Mouth at its centre.
+- **The flooded gallery**: at the bottom of the diggers' shaft. It ends behind the carved face above the Mouth, and the empty eye socket is a window.
 - **The Lantern Quarter**: the guild district, rich and well-lit. Scene of the botched job.
 
 ## Quests / threads

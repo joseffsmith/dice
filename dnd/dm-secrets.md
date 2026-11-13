@@ -306,3 +306,13 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - **Crane rehearsal check**: 1d6 on day 8; on a 1-2, Crane notices the fake crystal doesn't glow, and he knows the Lantern is useless. Then he goes all in on the Mouth.
 - Night of day 6: rowing out to the Aurelian Dawn **with the Eye**. The Choir is out hunting. Secret 1d6: 1-2 = Choir swimmers (4 acolytes in the water)
   attack the longboat, trying to grab the Eye. If the Snatch on Hettie failed, the Choir takes **Old Fen** instead tonight (the note arrives on day 7).
+
+## Scouting the diggers' shaft, day 7 (set before rolling)
+- Since the raid, Crane has posted **2 grey-coats at the fork** (bored, with a lantern) and strung a **tripwire with bells** across the tunnel 30 ft below the fork
+  (passive Perception 13 to notice; Sable's passive is 14).
+- The shaft: a rope ladder going down about 150 ft through rock into the dark (Athletics DC 8 each; on a fail, you slip and catch yourself, taking 1d4 rope burns).
+- At the bottom: a **flooded gallery** (waist-deep, ancient carvings) that runs behind the Drowned Chapel and ends at a narrow opening **behind the great carved face
+  above the Mouth**. The face's **empty eye socket** is a window: from inside the gallery you can look out over the chapel, or reach out through the socket.
+  Whoever stands there is directly above the Mouth.
+- The Chapel now (by day): the Cantor + 6 acolytes, Gannet among them (bandaged). **Old Fen** is chained to the east pillar. Grey water fills the Mouth's throat.
+- Observing from the socket: Stealth vs the acolytes' passive 10 (dim and distant: advantage). If spotted, the acolytes swim up the gallery (it connects underwater).
