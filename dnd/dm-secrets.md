@@ -290,3 +290,17 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   or let the song carry. DM ruling, if used: advantage on the check to shatter the Eye.)
 - **Crane at dawn on day 6**: he finds the guards dead or bound, the prisoners and Thale gone, and assumes a Gutterwick rescue and that Thale fled. He inspects the Lantern,
   finds it "intact", and is relieved but furious. He'll declare war on the Gutterwick (raids on the Sumps) and rely on himself as singer.
+
+## Day 6 and the build-up to the finale (set at dawn, day 6)
+- **The Choir's move** ("we will take yours"): on the **night of day 6** they snatch **Hettie Brask** from her chandlery (she's outside Gutterwick protection).
+  A message follows on day 7: *"The Eye for the dwarf. At the Mouth, at the turning of the spring tide. Come alone, false brother."*
+  - **If Sable warns or moves Hettie during day 6**, the snatch fails: she fights them off with Pip's warning, or she's somewhere safe. The Choir then takes the
+    bluntest leverage it can find (a lesser hostage: the Drowned Lamb's barkeep, Old Fen). The hostage note still comes.
+- **Crane's response:** grey-coats and the Watch are massing to raid the Sumps on **day 7**. Pell will move the children and her people to the old water-gate warrens. St Ebb's
+  will be abandoned for a while (the party needs a new base: the Indomitable, or the Aurelian Dawn).
+- **Routes to the Mouth on the spring-tide night:**
+  1. **Pier Nine dome** at the extreme low tide (it's the Choir's front door; the chapel is full of the Choir).
+  2. **The diggers' shaft**, from the fork in the tunnel down into a flooded gallery behind the Mouth. Crane's men will use it.
+- **The finale (spring-tide night, day 10):** the Choir gathers at the Mouth (Cantor + ~10 acolytes + Gannet). Crane sings at the Spire; when his Lantern fails, he
+  comes down the shaft with ~6 grey-coats to seize the Eye. Grane's martial law (dusk, day 9) takes the Watch out of play.
+- **Crane rehearsal check**: 1d6 on day 8; on a 1-2, Crane notices the fake crystal doesn't glow, and he knows the Lantern is useless. Then he goes all in on the Mouth.
