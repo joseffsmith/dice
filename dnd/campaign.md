@@ -261,6 +261,14 @@ the tide has been coming in wrong.
   avoiding the Watchman outside her front door. Persuaded her to leave (26). She packed her pipe, her father's cutlass and the shop's takings.
 - Leaving through the tunnel at dusk, they heard **humming in the shop above**, and wet bare feet on the floorboards. **The Choir came for Hettie and found it empty.**
   The Cantor's threat was real.
+- Night: collected Marta, Tib and Ossian from St Ebb's as the Gutterwick moved out. Pell lent a longboat. Rowed everyone (Sable, Pip, Hettie, Tib, Marta, Ossian)
+  out to the **Aurelian Dawn** with the Eye. Pale shapes were seen in the water far off, keeping their distance. No attack.
+- Admiral Grane gave them a cabin below decks, under marine guard. Thale had already been sent north on a cutter.
+
+### Day 7: 3 days to the spring tide
+- Morning: Needle rowed out with a message for Sable, left on the steps of the abandoned St Ebb's, wrapped in kelp:
+  *"The Eye for the old barkeep. At the Mouth, at the turning of the spring tide. Come alone, false brother."*
+  **The Choir has taken Old Fen**, the barkeep of the Leaky Bucket who covered their escape.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -280,7 +288,7 @@ the tide has been coming in wrong.
 - **Corrie and Sprat**: Gutterwick thieves, rescued from Crane's vaults.
 - **Magister Orrin Thale**: Crane's ex-wizard. Surrendered; being shipped north by Grane. Knows how to break the Eye.
 - **Inky Mabb**: ancient gnome forger in the Gutterwick. Has forged the Emperor's seal. Saw through Sable's copy.
-- **Old Fen**: barkeep of the Leaky Bucket. Covered their escape.
+- **Old Fen**: barkeep of the Leaky Bucket. Covered their escape. **Taken hostage by the Choir.**
 - **Brother Ossian**: young, nervous tide-priest. Knows the Litany. Ally. **Freed from the temple**, along with his charts. A fugitive now.
 - **High Tidewarden Cassia Vey**: head of the Temple of the Tides. **Colluding with Crane**: she knows about the flood, keeps it quiet, and expects the headland to be spared.
 - **Brother Tamsin**: older priest, sour, Vey's yes-man.
@@ -318,7 +326,8 @@ the tide has been coming in wrong.
 - [ ] Bring **Ossian and his charts** to Grane **by day 6**. ✅ Both now in hand!
 - [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
 - [ ] Crane's binding at the **Lantern Spire** at the spring tide (**day 10**).
-- [x] ~~The Choir's threat against Hettie~~ Foiled. But they'll try something else.
+- [x] ~~The Choir's threat against Hettie~~ Foiled.
+- [ ] **The Choir holds Old Fen.** They want the Eye at the Mouth at the turning of the spring tide.
 - [x] ~~Return Hettie's lantern.~~
 - [ ] Sable owes Pip **two favours**.
 - [ ] The Choir knows a "brother" stole the Eye. The Guild has a 50 gp bounty on Sable.

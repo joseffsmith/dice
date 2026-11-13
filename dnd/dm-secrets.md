@@ -304,3 +304,5 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - **The finale (spring-tide night, day 10):** the Choir gathers at the Mouth (Cantor + ~10 acolytes + Gannet). Crane sings at the Spire; when his Lantern fails, he
   comes down the shaft with ~6 grey-coats to seize the Eye. Grane's martial law (dusk, day 9) takes the Watch out of play.
 - **Crane rehearsal check**: 1d6 on day 8; on a 1-2, Crane notices the fake crystal doesn't glow, and he knows the Lantern is useless. Then he goes all in on the Mouth.
+- Night of day 6: rowing out to the Aurelian Dawn **with the Eye**. The Choir is out hunting. Secret 1d6: 1-2 = Choir swimmers (4 acolytes in the water)
+  attack the longboat, trying to grab the Eye. If the Snatch on Hettie failed, the Choir takes **Old Fen** instead tonight (the note arrives on day 7).
