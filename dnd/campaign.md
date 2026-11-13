@@ -256,7 +256,11 @@ the tide has been coming in wrong.
 - Slept until noon at St Ebb's: **long rest** (Tib's unused inspiration die expired, since it only lasts 10 minutes).
 - News: **Crane is raging.** He found the vault raid at dawn and blames the Gutterwick. Grey-coats and the Watch are **massing to raid the Sumps**.
   Pell is preparing to move her people to the old water-gate warrens. St Ebb's won't be safe for long.
-- Pip is uneasy about **Hettie**, alone at her chandlery with the Watch watching it.
+- Pip is uneasy about **Hettie**, alone at her chandlery with the Watch watching it. **Pell returned the Eye to Sable.**
+- **Went to get Hettie**: through the Gutterwick drains to the fishing slips, then up Hettie's old smuggling tunnel from the boathouse into her cellar,
+  avoiding the Watchman outside her front door. Persuaded her to leave (26). She packed her pipe, her father's cutlass and the shop's takings.
+- Leaving through the tunnel at dusk, they heard **humming in the shop above**, and wet bare feet on the floorboards. **The Choir came for Hettie and found it empty.**
+  The Cantor's threat was real.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -282,7 +286,7 @@ the tide has been coming in wrong.
 - **Brother Tamsin**: older priest, sour, Vey's yes-man.
 - **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
 - **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.
-- **Old Hettie Brask**: dwarf chandler, gruff, hates the Lantern Guild. Now **friendly** to Sable (nat 20).
+- **Old Hettie Brask**: dwarf chandler, gruff, hates the Lantern Guild. A firm friend. **Rescued just before the Choir came for her.**
 - **Grey-coats**: Lantern Guild enforcers with brass lantern pins. Two of them were searching the Drowned Lamb.
 
 - **The Choir**: street name for the crusted, humming people who come out of the drains.
@@ -314,7 +318,7 @@ the tide has been coming in wrong.
 - [ ] Bring **Ossian and his charts** to Grane **by day 6**. ✅ Both now in hand!
 - [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
 - [ ] Crane's binding at the **Lantern Spire** at the spring tide (**day 10**).
-- [ ] The Choir's threat against Sable's people (Pip? Hettie?).
+- [x] ~~The Choir's threat against Hettie~~ Foiled. But they'll try something else.
 - [x] ~~Return Hettie's lantern.~~
 - [ ] Sable owes Pip **two favours**.
 - [ ] The Choir knows a "brother" stole the Eye. The Guild has a 50 gp bounty on Sable.
