@@ -276,6 +276,13 @@ the tide has been coming in wrong.
     above the Mouth**. **The face's empty eye socket is a window** looking out over the chapel, **directly above the Mouth**.
   - Watched unseen (16): the **Cantor** and **6 acolytes** (including a bandaged **Gannet**). **Old Fen** is chained to the east pillar, where Tib was.
     The gallery seems to connect to the chapel underwater as well.
+  - **Kept watch for an hour** (Perception 16, stayed hidden with 12):
+    - At dusk, **half the acolytes leave** through the dome to hunt the city, and return at dawn. Gannet waters Fen now and then.
+    - The water in the Mouth **rises and falls like breathing**. Every few minutes a deep **pulse** shakes the stone, each one stronger than the last.
+    - The Cantor **dove into the Mouth** and stayed down for minutes. When she came up, she told Gannet:
+      *"It turns in its sleep. Three more tides. When the false brother comes, take the Eye from him, then **give the barkeep to the Mouth**. It will wake hungry."*
+      And: *"Let the lantern-men dig. The Sleeper will drink them too."*
+    - **The exchange is a double-cross. Fen dies whatever happens.**
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 

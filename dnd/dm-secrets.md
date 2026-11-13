@@ -316,3 +316,11 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   Whoever stands there is directly above the Mouth.
 - The Chapel now (by day): the Cantor + 6 acolytes, Gannet among them (bandaged). **Old Fen** is chained to the east pillar. Grey water fills the Mouth's throat.
 - Observing from the socket: Stealth vs the acolytes' passive 10 (dim and distant: advantage). If spotted, the acolytes swim up the gallery (it connects underwater).
+
+## Keeping watch over the chapel (set before rolling)
+- Perception DC 10, the routine: at dusk half the acolytes leave through the dome to hunt the city and return at dawn. Gannet gives Fen water at intervals.
+  The water in the Mouth rises and falls like **breathing**, and every few minutes a deep pulse shakes the stone, each one stronger than the last.
+- Perception DC 15, overheard: the Cantor **dives into the Mouth** and stays down for minutes (she has gills). Coming up, she tells Gannet:
+  *"It turns in its sleep. Three more tides. When the false brother comes, take the Eye from him, then give the barkeep to the Mouth. It will wake hungry."*
+  So **Fen dies whatever happens**: the exchange is a double-cross. And: *"Let the lantern-men dig. The Sleeper will drink them too."*
+- Staying hidden for an hour: Stealth with advantage vs passive 10.
