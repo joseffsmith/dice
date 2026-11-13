@@ -252,6 +252,12 @@ the tide has been coming in wrong.
 - Fross took Thale and the prisoner out to the *Aurelian Dawn*. Grane will ship Thale north. Corrie and Sprat were reunited with Mother Pell.
 - **XP:** +100 (raid objectives: prisoners, Thale, sabotage) → **650/900**.
 
+### Day 6: 4 days to the spring tide
+- Slept until noon at St Ebb's: **long rest** (Tib's unused inspiration die expired, since it only lasts 10 minutes).
+- News: **Crane is raging.** He found the vault raid at dawn and blames the Gutterwick. Grey-coats and the Watch are **massing to raid the Sumps**.
+  Pell is preparing to move her people to the old water-gate warrens. St Ebb's won't be safe for long.
+- Pip is uneasy about **Hettie**, alone at her chandlery with the Watch watching it.
+
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
 ## NPCs
