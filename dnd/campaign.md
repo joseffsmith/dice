@@ -246,6 +246,11 @@ the tide has been coming in wrong.
   - **The Lantern's weak point:** a palm-sized **focusing crystal** at its heart. Swap it for a fake, and the Lantern looks fine but the binding fails at the tide.
     Smashing it would warn Crane at once.
   - Crane's backup singer is **Crane himself**, who has been learning the Litany phonetically, badly.
+- **The swap:** Thale ground a dummy crystal from spare lens-glass (12), and Sable seated it in the Lantern's claw without a trace (Sleight of Hand 24).
+  **The Lantern looks perfect. Sable has the real crystal.** (It only glows when the Litany is sung nearby.)
+- Left with **Thale**, **Corrie and Sprat**, and the bound grey-coat (no witnesses), back down the diggers' tunnel to the Gutterwick. **Nobody noticed.**
+- Fross took Thale and the prisoner out to the *Aurelian Dawn*. Grane will ship Thale north. Corrie and Sprat were reunited with Mother Pell.
+- **XP:** +100 (raid objectives: prisoners, Thale, sabotage) → **650/900**.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -263,7 +268,7 @@ the tide has been coming in wrong.
 - **Mother Pell**: head of the Gutterwick. Huge, elderly half-orc woman, always knitting, on a pulpit throne. Knows Pip.
 - **Needle**: one-armed tiefling, a Gutterwick lookout leader. Dry and careful.
 - **Corrie and Sprat**: Gutterwick thieves, rescued from Crane's vaults.
-- **Magister Orrin Thale**: Crane's hired wizard, the singer for the binding. Nervous.
+- **Magister Orrin Thale**: Crane's ex-wizard. Surrendered; being shipped north by Grane. Knows how to break the Eye.
 - **Inky Mabb**: ancient gnome forger in the Gutterwick. Has forged the Emperor's seal. Saw through Sable's copy.
 - **Old Fen**: barkeep of the Leaky Bucket. Covered their escape.
 - **Brother Ossian**: young, nervous tide-priest. Knows the Litany. Ally. **Freed from the temple**, along with his charts. A fugitive now.
@@ -297,7 +302,8 @@ the tide has been coming in wrong.
 - [x] ~~What is Tib hiding?~~ He gave up the Lamb under threat. Forgiven.
 - [x] ~~Retrieve the ledger.~~ Got it... then lost it to Mother Pell.
 - [x] ~~**Rescue Pell's six missing children**~~ Done. Got the original ledger back and learned about the diggers' tunnel.
-- [ ] **Raid the Spire vaults**: ✅ Corrie and Sprat rescued. Still to do: wreck Crane's preparations (the Lantern armature, Magister Thale).
+- [x] ~~**Raid the Spire vaults**~~ Corrie and Sprat rescued, Thale taken, Lantern secretly sabotaged.
+- [ ] **The real plan:** at the spring tide, get to **the Mouth** with the Eye; Ossian sings the full Litany; strike the Eye while it's brittle. Crane, the Choir, or both will be there.
 - [x] ~~Get the ledger to Admiral Grane.~~ Done. Voss confined.
 - [ ] Bring **Ossian and his charts** to Grane **by day 6**. ✅ Both now in hand!
 - [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?

@@ -281,3 +281,12 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   - **The Lantern's weak point:** a palm-sized **focusing crystal** at its heart. Removed or swapped for a fake (Sleight of Hand DC 12, or forgery-kit work with a
     dummy of glass), the Lantern will *look* intact, but at the spring tide the binding will fail. Smashing the Lantern outright alerts Crane at once.
   - Crane has a **second singer** as backup: himself. He has been learning the Litany phonetically, badly. With the real Lantern he might manage it (risky).
+- (Set before the swap) The crystal **only glows when the Litany is sung near it**. It was glowing because Thale was chanting. A plain sea-glass dummy will look identical at rest.
+  Risk: if Crane rehearses in front of the Lantern before the tide, the fake won't glow (secret check later: 1d6, 1-2 = Crane notices before the tide).
+- Making the dummy: Thale's spare lens-glass. Thale Int (Arcana) +5 vs DC 12 to shape it. Then Sable Sleight of Hand DC 12 to seat it in the claw without a trace.
+- Exit: secret 1d6, on a 1 the dawn relief guard comes down the stairs early.
+- RESULTS: Dummy made (12) and seated perfectly (24). Clean exit. Sable has the **real focusing crystal**.
+  It glows when the Litany is sung nearby, and it focuses the Eye's power. (Possible use at the Mouth: Ossian's singing plus the crystal might make the Eye brittle *faster*,
+  or let the song carry. DM ruling, if used: advantage on the check to shatter the Eye.)
+- **Crane at dawn on day 6**: he finds the guards dead or bound, the prisoners and Thale gone, and assumes a Gutterwick rescue and that Thale fled. He inspects the Lantern,
+  finds it "intact", and is relieved but furious. He'll declare war on the Gutterwick (raids on the Sumps) and rely on himself as singer.

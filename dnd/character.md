@@ -1,7 +1,7 @@
 # Sable: Half-Elf Bard 2 (Charlatan)
 _"Sable" is a working name. Nobody in Saltmarrow knows the real one._
 
-**Rules:** D&D 5e (2014) · **Level:** 2 · **XP:** 550 / 900
+**Rules:** D&D 5e (2014) · **Level:** 2 · **XP:** 650 / 900
 **Pronouns:** he/him · **Alignment:** Chaotic Neutral (leaning good, though Sable would deny it)
 
 ## Core
@@ -70,6 +70,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - Tools of the con: signet ring of the imaginary **Duke of Vellmoor**
 - **The brass reliquary**: left with **Mother Pell** at St Ebb's
 - **2 potions of healing** (2d4+2 each)
+- **The Lantern's real focusing crystal**: palm-sized and blue-green; glows when the Litany is sung nearby
 - ~~Ossian's tide charts~~ given to Admiral Grane
 - **Admiral Grane's bosun's whistle** (three blasts off the *Aurelian Dawn*'s stern at night = ladder)
 - **Coin:** 7 gp, 6 sp
