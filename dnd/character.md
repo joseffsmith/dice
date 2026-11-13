@@ -68,7 +68,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - Entertainer's pack: backpack, bedroll, 2 costumes, 5 candles, 5 days' rations, waterskin, disguise kit
 - Forgery kit, set of fine clothes
 - Tools of the con: signet ring of the imaginary **Duke of Vellmoor**
-- **The brass reliquary**: left with **Mother Pell** at St Ebb's
+- **The brass reliquary** (the Eye): back with Sable. Warm, humming. Opens if he holds it and says *"vael thessa morun"*
 - **2 potions of healing** (2d4+2 each)
 - **The Lantern's real focusing crystal**: palm-sized and blue-green; glows when the Litany is sung nearby
 - ~~Ossian's tide charts~~ given to Admiral Grane
