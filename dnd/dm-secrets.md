@@ -1,0 +1,326 @@
+# DM SECRETS: spoilers, please don't read!
+
+_Written down so the plot stays consistent and I can't change it to suit myself._
+
+## The reliquary
+- It contains the **Eye of the Sleeper**: a black pearl the size of a plum. It is actually an
+  eye of a vast, ancient thing slumbering in the silt beneath Saltmarrow harbour.
+- Whoever holds the Eye near deep water can feel the Sleeper. With the right ritual they can
+  steer it, or wake it.
+- The lock is a puzzle lock (DC 18 Sleight of Hand with thieves' tools, which Sable lacks; it also opens to a
+  phrase in Old Aurelian: "the tide remembers"). Opening it near the sea makes the tides surge.
+- While carried, Sable has strange dreams of drowning cathedrals. (Later: possible boon or curse.)
+
+## Factions
+- **Ottavio Crane**: merchant prince of the Lantern Guild, and the owner of the warehouse. He
+  wants the Eye back to bind the Sleeper and control the harbour (and so the empire's
+  last fleet). Ruthless and polite. His enforcers wear grey coats with brass lantern pins.
+- **The Drowned Choir**: a cult in the undercity and sewers that wants to WAKE the Sleeper.
+  Their members have barnacle-crusted skin and hum in unison.
+  **They have Tib.**
+- **The City Watch**: corrupt. **Captain Hesk** takes Crane's money.
+- **The Gutterwick**: the thieves' guild, run by **Mother Pell** from a flooded chapel. Neutral,
+  but she'd love leverage over Crane.
+
+## Tib
+- Tib did betray Sable, partly: Crane caught him and Tib sold out the meeting spot to save
+  his skin. Then the Drowned Choir snatched him from Crane's men.
+- He's alive, held in the Choir's sunken shrine under Pier Nine.
+- He genuinely regrets it. He'll confess if pressed (DC 13 Insight to spot the guilt early).
+
+## Possible NPC allies
+- **Marta Kell**: ex-Watch sergeant, human fighter, kicked out for honesty. Gruff and dry.
+  Wants to bring down Hesk.
+- **Brother Ossian**: a nervous young tide-priest who has seen the tides going wrong. A healer and
+  a coward who's trying to be brave.
+- **Pip**: a halfling street urchin and messenger. Knows every alley. Not a fighter.
+
+## Opening
+- Night three at the Drowned Lamb. Pip delivers a note "from Tib" (actually the Choir's bait):
+  "They've got me. Pier Nine, midnight. Bring the box." Meanwhile, two of Crane's grey-coats walk in
+  (they got the location from Tib).
+
+## The note (set before rolling the Investigation check)
+- Tib really did write it, but the Choir forced him to.
+- DC 10: genuine handwriting but shaky; the paper is damp with seawater; there's **no fox doodle** (their agreed
+  sign that a message is genuine and freely written), so it was written under duress.
+- DC 15: faint indentations from an earlier line Tib scratched out: **"DON'T COME. UNDER IT—"**
+  - Rolled 14: missed it. Retried in lamplight: 7. Then a nat 20 Persuasion made Hettie friendly enough to do a charcoal rubbing, which revealed it.
+
+## The Drowned Chapel (under Pier Nine), set before Sable enters
+- A flooded circular chamber, waist-deep in glowing green water. In the centre is **the Mouth**: a huge carved stone
+  maw in the floor, a shaft dropping into blackness that leads toward the Sleeper. In the stone above the Mouth is
+  a carved face with **one empty eye socket**, where the pearl goes.
+- **8 Choir acolytes** (use the *cultist* stat block: AC 12, 9 HP, spear +3, 1d6+1) chanting in a ring.
+- **The Cantor, Sister Ilse Morrow**: the most transformed of them (gills, webbed fingers, coral staff). Use the *cult fanatic*
+  stat block: AC 13, 33 HP, Command, Hold Person, Inflict Wounds, Sacred Flame. She knows the opening phrase
+  "the tide remembers" (in Old Aurelian).
+- **Tib** is chained to a pillar on the east side, beaten but conscious, at 3 HP. The chain has a simple padlock (DC 12 Sleight of Hand
+  with improvised picks, or the Cantor carries the key on her belt).
+- If the Eye is set in the socket, the Sleeper stirs: the chapel shakes and the tide comes **roaring back in over
+  about 3 rounds**. Everyone has to get out or drown. This would be a catastrophe for the harbour, but a chance to escape in the chaos.
+- The Choir can sense the Eye but can't see through the illusion; they're fanatics and very trusting of "a brother".
+- Exits: the kelp ladder up (the way in); a flooded tunnel to the west leading to the fish-market drains.
+
+## Phrase
+- "Vael thessa morun" = Old Aurelian for **"the tide remembers"**, the opening phrase for the reliquary. The Cantor said it as a blessing (her nat 1).
+
+## Added before Tib's confession (session 1, morning)
+- Tib's confession is true: Crane questioned him personally and threatened to break his hands. Tib gave up the Drowned Lamb
+  thinking Sable would spot the grey-coats and run. He did NOT give up the ledger.
+- **The ledger**: the original target. Tib DID grab it and stashed it before he was caught, behind a loose brick in the
+  chimney of **Old Wendle's rope-walk on Tallow Street**. It records Crane's bribes to **Captain Hesk** of the Watch, and
+  payments to "diggers" for **excavations under the harbour** (Crane has been looking for the drowned temple too).
+  It's big leverage, and Mother Pell would pay well for it.
+- What Tib overheard from Crane: "The binding must be done at the **Lantern Spire** at the **spring tide**." The next spring tide is
+  **9 days** from now (the full moon). The Choir will try to wake the Sleeper at the same tide. That's the campaign's ticking clock.
+- (Added when the ledger was opened) The ledger's final "diggers" entry, dated 8 days ago, reads: "Final payment. They have broken through."
+  Crane's diggers found a way into the drowned temple complex from beneath the Lantern Quarter.
+
+## Consequences / leads (added day 1, noon)
+- Penhallow "approved" Mags Corrow's flood claim with the "Saltmarrow Mutual Marine and Property Assurance Society", which doesn't exist.
+  When the payment never arrives (in about a week), Mags will start asking around about Penhallow. That identity could get burned.
+- Hettie's leads:
+  - **Marta Kell**, an ex-Watch sergeant thrown out for refusing Hesk's bribes. She drinks at **The Leaky Bucket**. She'd kill for the ledger.
+  - **Mother Pell** of the Gutterwick: Hettie's father ran smuggling for her. Pell would buy the ledger (around 200 gp) or trade favours.
+  - **Brother Ossian** at the **Temple of the Tides** might translate Old Aurelian. The temple is in uproar about the tides.
+- The grey-coats who came into Hettie's shop last night threatened her. She told them nothing.
+
+## Temple of the Tides (set before arrival, day 1 afternoon)
+- A grey stone temple on the Saltmarrow headland. The floor is a great tidal pool that rises and falls with the sea. Tide-bells hang in the arches.
+- **High Tidewarden Cassia Vey**: the head priestess. Smooth and political, she preaches calm. **The Lantern Guild paid for the
+  temple's new roof**, and there's a brass donation plaque by the door. She's been told to keep the tides "a natural phenomenon".
+  She isn't evil, but she's bought, and she'd tell Crane if she learned of the Eye.
+- **Brother Ossian**: about 20, human, gangly and nervous, an acolyte (stat as *acolyte*: Cure Wounds, Sanctuary, Spare the Dying).
+  He's been charting the tides for weeks and knows something's pulling them. Vey has told him to be quiet. He's desperate for someone to believe him.
+- What Ossian knows / can find in the archive:
+  - "Vael thessa morun" = **"The tide remembers"**, the first line of the old *Litany of Saint Aurel*.
+  - The legend: Saint Aurel fought the **Sleeper** in the deep beneath the old city (now drowned). She **took one of its eyes**, which blinded it
+    and sent it to sleep. "While the Eye is held from the deep, the Sleeper dreams. Return the Eye and it wakes. But one who holds the Eye and
+    sings the Litany at the high spring tide shall bend the Sleeper's will."
+  - So the Choir wants to WAKE it, and Crane wants to CONTROL it (bend its will). Both are catastrophic.
+  - The Litany also says the Eye "was made in the deep and may be unmade only there", which is vague. It's a potential route to
+    destroying it, but dangerous (it would have to be done in the Sleeper's presence).
+- If Ossian is shown the box, he's terrified and awed. He'd want to help, and he'd become an ally (a healer).
+- (Clarifying the lock, written before Sable says the words) The reliquary opens when **the person holding it, with a hand on it**,
+  speaks "vael thessa morun". If it's only spoken nearby (like the Cantor did, or Sable now with his hand off it), it just flares hot and hums, and
+  nearby seawater stirs.
+- Ossian recalls the gist of the Litany legend from memory. The line "made in the deep, may be unmade only there" is only in the archive scroll,
+  which is kept in the locked **Tidewarden's archive** under the temple. Ossian can get in after vespers.
+
+## Evening, day 1 (set before rolling)
+- Vey is suspicious. Roll 1d6: on 1-3 she sends **Brother Tamsin** to tail "Penhallow" from the temple (Stealth +1, he's bad at it).
+- **The Leaky Bucket**: a half-sunk cellar tavern on Netmakers' Row, with buckets catching drips everywhere. Rough, cheap, and quiet about its customers.
+- **Marta Kell**: human, mid-40s, a broad scar through one eyebrow, iron-grey crop. Use the *veteran* stat block, but she's out of practice and drinking:
+  AC 15 (she still has a brigandine), 45 HP, longsword. She's dry, cynical and honest to a fault.
+  She drinks alone in the back corner. She recognises disguises (she was Watch); Perception +4.
+  - She wants Hesk ruined. Shown the ledger, she's IN, but she insists it goes somewhere it can't be buried.
+  - Her idea: **Admiral Thessaly Grane** of the rotting imperial fleet. The Navy is the one power in Saltmarrow Crane doesn't own,
+    and Grane hates him (he's been buying up her sailors' debts). Grane's flagship is the *Aurelian Dawn*, anchored in the harbour.
+  - Marta's price: she wants to be there when Hesk falls.
+- RESULT: Vey had them followed (rolled 1). Tamsin's Stealth 19 beat Sable's passive 14 and Pip's 12. **Tamsin followed them to the Leaky Bucket unseen**
+  and reported back to Vey. Vey now knows "Penhallow" drinks at the Leaky Bucket and is meeting Ossian there.
+- Marta failed to spot the disguise (7 vs DC 18).
+
+## Midnight, day 1 (set before the secret rolls)
+- Vey interviews Ossian after vespers: Ossian's Deception (+0) vs Vey's Insight (+5).
+  - If **Vey wins**, she's sure Ossian is hiding something about Penhallow. Using Tamsin's report, she sends word to **Crane**.
+    Around **1am**, **4 grey-coats** (thug stat block: AC 11, 32 HP, mace +4 1d6+2, Pack Tactics) raid the Leaky Bucket.
+  - If **Ossian wins**, she lets it go for now. No raid tonight.
+- Archive heist: Ossian's Stealth (+0) vs DC 12.
+  - Success: he gets the full Litany scroll.
+  - Failure: he only gets a hasty partial copy (he's interrupted), missing the "unmade only in the deep" section.
+- RESULTS: Vey won (20 vs 16), so **the grey-coat raid on the Leaky Bucket happens around 1am**. Ossian's heist succeeded (13), so he has the **full scroll**.
+- The full scroll's extra verse (now fixed): *"What was taken from the deep may be unmade only in the deep. Give it to the Mouth not whole
+  but broken, and sing the Litany to its end, and the Sleeper shall sleep without dreaming, for ever."*
+  So: break the Eye **inside the Mouth** while someone sings the full Litany, and the Sleeper is ended for good (permanently asleep).
+  That needs a way to break it (it's very hard: AC 20, 30 HP, immune to non-magical damage? Ossian suspects "only a holy or tide-touched blow").
+- Ossian arrives about 12:30am, rattled: "The Tidewarden asked SO many questions."
+
+## The Leaky Bucket trapdoor (set before rolling)
+- It drops into the old **storm drains**, a brick tunnel with knee-deep water. Downstream it leads to **the Sumps**, the flooded lowest district,
+  which is **Gutterwick** territory. Gutterwick lookouts watch the drains. Upstream leads toward the fish market, which is Choir territory.
+- The Bucket's barkeep, **Old Fen**, pays Mother Pell for protection, and the trapdoor is a Gutterwick bolt-hole.
+- If the grey-coats follow, they're slow in the water. If they don't see the trapdoor, the regulars won't tell them.
+- Ossian Dex check DC 10 (he's frozen and clumsy): on a fail he bangs the trapdoor, and the grey-coats know where the party went and give chase.
+
+## The Gutterwick (set before the Persuasion roll)
+- Lookout leader: **Needle**, a one-armed tiefling (*bandit captain*-lite: AC 14, 40 HP, hand crossbow +5). Wry and loyal to Pell.
+- Persuasion DC 12 to be taken to Pell on Hettie's name (Hettie's dad "Brask the Elder" was one of Pell's best smugglers).
+- **Mother Pell**: a huge, elderly half-orc woman. She sits on a throne made from an old pulpit in the **Drowned Chapel of St Ebb** (in the Sumps,
+  knee-deep in water) and knits constantly. Shrewd, maternal, ruthless. She shelters street kids, and **Little Moss** (who went missing in the drains) was one of hers.
+  - She hates Crane: his diggers have been tunnelling into her drains, and two of her people vanished near the works.
+  - She hates the Choir: they've been taking her kids.
+  - She wants the ledger for **blackmail**: to OWN Hesk, not ruin him. This **conflicts with Marta**, who wants Hesk to fall publicly.
+  - Offer: 200 gp for the ledger, OR a safe house and Gutterwick help in exchange for the ledger.
+  - Possible solution: Sable could **forge a copy** (forgery kit). A good forgery could satisfy Pell (she'd test it: Investigation +3).
+- Pell knows where Crane's diggers broke through: a sealed tunnel under the **Lantern Spire's** foundations that connects to the drowned
+  temple complex. That's a back way in for Crane at the spring tide, and maybe for Sable.
+
+## Pell's terms for a copy & the missing children (set day 2, ~2am)
+- Pell's terms: (1) the copy is made **here, tonight, under her eye**, and it must pass her own forger, **Inky Mabb** (Investigation +5).
+  (2) Sable helps find her **missing children**. (3) In return: weapons back, the safe house, her people's eyes, and the location of the diggers' breakthrough.
+- **The missing children** (Moss and five others) are alive in the Choir's **"Cradle"**: tidal pools in a cistern under the **fish market**.
+  They're slowly being "baptised", becoming Choir (barnacles forming). They can be saved fully until the spring tide; after that the change is permanent.
+  The Cradle is guarded by 3 acolytes and a **Choir "Nurse"**, a bloated thing (*ghoul*-like, but paralysis is replaced by "drowning touch": a Con save DC 10 or 1d6 cold and slowed).
+
+## The Cradle, under the fish market (set day 2 afternoon, before scouting)
+- Reached via Gutterwick drains, then a collapsed brick wall into the old **fish-market cistern**: a vaulted brick hall, with stalls overhead
+  (light through floor grates, footsteps, fish guts dripping down).
+- In the middle, **six shallow tidal pools** glowing green. **Six children** sit waist-deep in them, singing, eyes glazed (charmed and half-changed),
+  with barnacles starting on their arms. **Moss** is the smallest: a halfling boy with a gap-toothed grin, now blank-eyed.
+- Guards: **3 Choir acolytes** (cultist stats) and **the Nurse**: a huge bloated drowned woman with a lamprey mouth
+  (AC 12, 36 HP, two claws +4 1d6+2; "drowning touch": DC 12 Con save or 1d6 cold and speed halved). She sleeps in the deepest pool by day
+  and wakes at dusk.
+- **New since the theft:** the Cantor knows a disguised "brother" stole the Eye (Gannet survived, battered, and told them).
+  Choir members now greet strangers with a **hummed call**, and the right reply is a descending three-note answer.
+  If Sable watches two of them meet first, he learns it automatically. Otherwise, Performance DC 15 to improvise a convincing reply.
+- **If Sable brings the box in**, every Choir member within 60 ft feels the Eye. The acolytes would know him for the thief at once.
+
+## The diggers' tunnel (Pell reveals it, day 2 evening)
+- The Gutterwick found a fresh **breach** in the old drains under the **Lantern Quarter**: a raw, newly dug tunnel, shored with Guild timber.
+  One way it climbs to the **wine vaults beneath the Lantern Spire** (barred door, 2 grey-coat guards). The other way it slopes down into
+  **the drowned temple complex**, joining it at a flooded gallery near the Mouth's shaft. That's how Crane means to reach the Sleeper at the spring tide.
+- Crane's diggers were mostly paid off and sent away. **Two of Pell's people** who went exploring were caught by Crane's men (they're held in the Spire vaults: a future hook).
+
+## Morning, day 3 (set before narrating)
+- Pell's eyes report:
+  - **The Choir is hunting**: dozens of hummers in the drains overnight, and the Gutterwick had to collapse a tunnel to keep them out. The Cantor knows
+    the children are gone and the Nurse is dead. The Choir now prioritises getting the Eye by force.
+  - **Crane** raised the bounty to **200 gp** and added Tib's face to the posters. The grey-coats are working with the **Watch** now: Hesk's men are searching houses in the Saltreach.
+  - **Hettie Brask's** shop was visited again by the Watch. She's fine, but they're watching it.
+- **Ossian** must go back to the temple today or be declared missing, which Vey would use as an excuse to search for him.
+- **Admiral Grane**: Marta knows the Navy holds a shore office at the **Admiralty Steps**, but it's watched by Hesk's men. The alternative is to row out to the
+  *Aurelian Dawn* at night. A watch of marines is on deck. Grane is a stern, hard old woman who respects nerve.
+- Sable's dream: the Cantor's face in green water: "You took our little ones, false brother. We will take yours."
+  (A threat: the Choir may target Pip or Hettie. Not immediately.)
+
+## Night, day 3: the Aurelian Dawn (set before rolling)
+- The Eye is left with Mother Pell at St Ebb's. Secret 1d6: on a 1, the Choir finds St Ebb's tonight (drawn by the Eye) and attacks. Otherwise not yet.
+- Rowing out: encounter check 1d6, 1 = trouble (Watch harbour patrol boat).
+- **Admiral Thessaly Grane**: in her 60s, with a peg leg (lost the leg to pirates), iron-grey braid and a voice like a cannon. Stern and fair, and she **respects nerve**.
+  - She has been ordered by the Imperial Admiralty to stay out of civic matters. To act inside the city she needs **grounds for martial law**:
+    proof that the city's authorities are corrupt AND a threat to imperial assets.
+  - The ledger also contains payments to **Commander Voss**, her own fleet purser ("for harbour soundings"), which means Crane has been buying
+    information on the fleet. She'll be **furious**, and that's enough on the corruption side.
+  - She still needs the "threat" part. A sea monster tale won't move her, but **Ossian's tide charts** (a flood threatening the fleet's anchorage and the city)
+    would. She'll ask for "proof that the sea's gone mad, from someone who isn't a thief".
+  - Her offer: bring her the charts (or Ossian himself) and she will declare martial law on the eve of the spring tide and arrest Hesk. Marta can be there.
+    She'll also lend marines for the Spire (a squad of 6) if convinced Crane is behind the flood.
+- Approaching openly: the marines challenge. **Lieutenant Abel Fross** (young, by-the-book). Persuasion/Deception DC 13 to be brought aboard to the admiral,
+  or advantage if Marta vouches as an ex-sergeant (Fross knew her by reputation).
+
+## After the Admiral (set before the secret rolls)
+- Grane gives Sable a **brass bosun's whistle** with the fleet crest. Three blasts off the stern at night and Fross lowers a ladder. She wants the charts or Ossian
+  within **3 days** (by day 6), so she has time to prepare marines.
+- Voss: secret 1d6, on 1-3 he gets a message out through a loyal steward, and **Crane learns by day 4 that the ledger reached Grane**.
+  (Crane would then move his plans up: more guards at the Spire, and pressure on Hesk to find Sable fast.)
+- Ossian at the temple: secret 1d6. 1-2: Vey **confiscated his charts** (locked in her study) and confined him to the temple. 3-4: he's confined to the temple
+  but hid the charts. 5-6: he's free and has the charts.
+- RESULTS: **Voss got a message out** (2), so Crane knows by day 4. **Ossian's charts were confiscated** (1). They're locked in Vey's study, and Ossian is confined to the temple.
+- Vey's study: top floor of the temple's east tower. The door is locked (DC 15 to pick with thieves' tools; Tib has a set). Vey dines in the refectory at sundown,
+  and the study is empty then. Brother Tamsin patrols. The charts are in a locked chest (DC 13). Vey has also **written a letter to Crane** about Ossian and "the batty purser",
+  which is still on her desk, unsent. It's evidence of her collusion.
+
+## Vey's letter to Crane (contents fixed before Sable opens it)
+> "Master Crane, the acolyte Ossian has been meddling with his charts again. I have confiscated them and confined him. He consorted with an elderly
+> 'purser' whom I now believe to be your thief in disguise; my brother followed the man to the Leaky Bucket, though I gather your men were too slow.
+> As you asked, the Temple will say nothing to the faithful of what is coming. I trust you will remember your promise: that when the waters rise,
+> the headland and the Temple will be spared, and that I may open our doors to those of the faithful I choose. The Guild's gift for the new bell tower
+> is most gratefully received. Yours in the Tide, C. Vey."
+- This is **damning**: the High Tidewarden knows the flood is coming and is keeping it quiet for money. It's strong evidence for Grane alongside the charts.
+- Timer: after each extended action in the study, secret 1d6. On a 1, footsteps are on the stairs (Vey returning early from dinner).
+- The west cloister: the penitent's cell is a simple barred door (lock DC 10). Brother Tamsin patrols the cloister walk (passive Perception 11).
+  If spotted, Tamsin raises the alarm: temple wardens (4 *guards*) arrive in 2 rounds.
+
+## Grane convinced (night of day 4, set before narrating)
+- The charts plus Ossian's testimony convince her (as established). Her plan: at **dusk on day 9** (the eve of the spring tide) she declares **martial law**.
+  Marines take the Watch house and arrest Hesk (Marta present). She'll put the fleet on alert and move her ships to deeper water.
+- **Evacuation**: she won't order it by default (panic, and no proof of a "monster"), but a strong request (Persuasion DC 15) would get her to order
+  the lower city moved to high ground on day 9 under martial law. Saving thousands.
+- **Marines for the Spire**: she offers a squad of 6 marines under Lt Fross for whatever Sable plans at the Spire, IF Sable lays out a plan she finds sound.
+- She is still sceptical of the Sleeper, but she says: "I've seen things at sea I don't speak of. I won't rule it out."
+- Vey's letter: if told about it, Grane wants it: "A Tidewarden selling her flock. That would hang her too." The letter goes "by private hand" to Crane;
+  it will leave the temple with a Guild runner on the morning of day 5 (an interception opportunity).
+- (Clarifying, before the plan is chosen) The **flood happens at the spring tide whether or not anyone uses the Eye**. The diggers' breach disturbed the Sleeper,
+  and it's stirring in its dreams and pulling at the sea. Crane binding it would "calm" the flood in his favour (and give him the Sleeper). The Choir waking it
+  would destroy the city. **Only breaking the Eye in the Mouth with the full Litany ends it for good**, and that would stop the flood.
+  Ossian will realise this if asked or when looking at the charts again (the pull grew sharply after the breach).
+- Grane agreed (Persuasion 25): **6 marines plus Lt Fross, out of uniform** (deniable, since there's no martial law yet). Marine: AC 14, 16 HP, cutlass +4 1d6+2,
+  light crossbow +3 1d8+1. Fross: AC 16, 30 HP, two rapier attacks +5 1d8+3. Strong pitch bonus: **2 potions of healing** from the ship's surgeon.
+
+## The Spire vault raid, night of day 5 (set before play)
+- **Day 5 offscreen:** Vey finds Ossian gone at dawn and reports him as a thief. Watch posters for Ossian go up by noon. Her letter to Crane went out by runner,
+  with a postscript about the escape. Crane now suspects Sable is gathering allies.
+- **The diggers' tunnel**: from the Gutterwick breach it climbs about half a mile. It's raw earth shored with timber, with lanterns hung every 50 ft (unlit).
+  Halfway up there's a **fork**: up to the vaults, or a steep shaft down toward the drowned temple (a rope ladder, Choir-humming faintly below).
+- **Vault door**: a heavy timber door, barred from the inside, with a sliding peephole. Behind it there are now **4 guards** (doubled): 2 grey-coat thugs (AC 11, 32 HP,
+  mace +4 1d6+2, Pack Tactics) and 2 grey-coat bandits (AC 12, 11 HP, shortsword +3 1d6+1). They're bored and playing cards. The door can be opened from outside by
+  trickery (a voice at the peephole: Deception DC 13), or forced (Athletics DC 18, noisy).
+- **Beyond**: long brick wine vaults. To the left, a **guardroom** (the 4 above). Ahead, **cells** holding **Corrie** (human woman, 30s) and **Sprat** (a teenage boy),
+  starved and beaten but alive. To the right is the **binding chamber**: a round room with the full Litany carved into the walls (copied from the drowned temple),
+  a great **brass armature like a lantern frame with an empty socket** (where the Eye would sit), and charts of the Sleeper.
+  Working there is **Magister Orrin Thale**, Crane's hired wizard, who is to sing the binding.
+  Thale: AC 12 (15 with Shield), 27 HP, Int 17. Spells: Magic Missile, Shield, Thunderwave, Misty Step, Hold Person (1 cast). Cowardly; he surrenders at half HP.
+- **Wrecking the preparations**: smash the armature (AC 15, 25 HP; or a clever sabotage, e.g. Sleight of Hand to remove a key crystal) and/or capture Thale.
+  Without both the armature and a trained singer, Crane can't do the binding at the spring tide. He'd have to improvise: go down to the Mouth himself with the Eye.
+- Alarm: if the guardroom fight lasts more than 3 rounds, or someone escapes up the stairs, **reinforcements** (4 more grey-coats) arrive 3 rounds later
+  from the Spire above.
+- (Set before freeing them) **Corrie and Sprat know:** Magister Thale is Crane's hired singer, and he has been practising the Litany for weeks. The brass armature (the "Lantern")
+  is to be **hauled up to the top of the Spire** before the tide. Thale will sing with the Eye set in it, and the Lantern's light will be shone down a shaft that runs
+  from the Spire's crown to the deep. They also overheard Crane: *"If the thief won't bring the Eye, the Choir will fetch it to the Mouth for us. Let them. We take it there."*
+  So Crane's backup plan is to ambush the Choir at the Mouth.
+- Thale, behind the door, is readying an ambush: **Thunderwave** at whoever opens the door first.
+
+## Thale surrenders (set before narrating his offer)
+- Thale: thin, balding, in his 50s, in fine ink-stained robes. A scholar of Old Aurelian from the northern academies, hired by Crane for 2,000 gp. In over his head.
+  He wants **protection and safe passage out of Saltmarrow**. He fears Crane's hammer.
+- What he knows:
+  - **How to break the Eye:** it's impervious to all harm *except* in the Mouth while the Litany is being sung. Then it becomes "as brittle as old glass" for as long as
+    the song lasts, and any solid blow will shatter it. (He warned Crane never to let the Litany be sung at the Mouth.)
+  - **The Lantern's weak point:** a palm-sized **focusing crystal** at its heart. Removed or swapped for a fake (Sleight of Hand DC 12, or forgery-kit work with a
+    dummy of glass), the Lantern will *look* intact, but at the spring tide the binding will fail. Smashing the Lantern outright alerts Crane at once.
+  - Crane has a **second singer** as backup: himself. He has been learning the Litany phonetically, badly. With the real Lantern he might manage it (risky).
+- (Set before the swap) The crystal **only glows when the Litany is sung near it**. It was glowing because Thale was chanting. A plain sea-glass dummy will look identical at rest.
+  Risk: if Crane rehearses in front of the Lantern before the tide, the fake won't glow (secret check later: 1d6, 1-2 = Crane notices before the tide).
+- Making the dummy: Thale's spare lens-glass. Thale Int (Arcana) +5 vs DC 12 to shape it. Then Sable Sleight of Hand DC 12 to seat it in the claw without a trace.
+- Exit: secret 1d6, on a 1 the dawn relief guard comes down the stairs early.
+- RESULTS: Dummy made (12) and seated perfectly (24). Clean exit. Sable has the **real focusing crystal**.
+  It glows when the Litany is sung nearby, and it focuses the Eye's power. (Possible use at the Mouth: Ossian's singing plus the crystal might make the Eye brittle *faster*,
+  or let the song carry. DM ruling, if used: advantage on the check to shatter the Eye.)
+- **Crane at dawn on day 6**: he finds the guards dead or bound, the prisoners and Thale gone, and assumes a Gutterwick rescue and that Thale fled. He inspects the Lantern,
+  finds it "intact", and is relieved but furious. He'll declare war on the Gutterwick (raids on the Sumps) and rely on himself as singer.
+
+## Day 6 and the build-up to the finale (set at dawn, day 6)
+- **The Choir's move** ("we will take yours"): on the **night of day 6** they snatch **Hettie Brask** from her chandlery (she's outside Gutterwick protection).
+  A message follows on day 7: *"The Eye for the dwarf. At the Mouth, at the turning of the spring tide. Come alone, false brother."*
+  - **If Sable warns or moves Hettie during day 6**, the snatch fails: she fights them off with Pip's warning, or she's somewhere safe. The Choir then takes the
+    bluntest leverage it can find (a lesser hostage: the Drowned Lamb's barkeep, Old Fen). The hostage note still comes.
+- **Crane's response:** grey-coats and the Watch are massing to raid the Sumps on **day 7**. Pell will move the children and her people to the old water-gate warrens. St Ebb's
+  will be abandoned for a while (the party needs a new base: the Indomitable, or the Aurelian Dawn).
+- **Routes to the Mouth on the spring-tide night:**
+  1. **Pier Nine dome** at the extreme low tide (it's the Choir's front door; the chapel is full of the Choir).
+  2. **The diggers' shaft**, from the fork in the tunnel down into a flooded gallery behind the Mouth. Crane's men will use it.
+- **The finale (spring-tide night, day 10):** the Choir gathers at the Mouth (Cantor + ~10 acolytes + Gannet). Crane sings at the Spire; when his Lantern fails, he
+  comes down the shaft with ~6 grey-coats to seize the Eye. Grane's martial law (dusk, day 9) takes the Watch out of play.
+- **Crane rehearsal check**: 1d6 on day 8; on a 1-2, Crane notices the fake crystal doesn't glow, and he knows the Lantern is useless. Then he goes all in on the Mouth.
+- Night of day 6: rowing out to the Aurelian Dawn **with the Eye**. The Choir is out hunting. Secret 1d6: 1-2 = Choir swimmers (4 acolytes in the water)
+  attack the longboat, trying to grab the Eye. If the Snatch on Hettie failed, the Choir takes **Old Fen** instead tonight (the note arrives on day 7).
+
+## Scouting the diggers' shaft, day 7 (set before rolling)
+- Since the raid, Crane has posted **2 grey-coats at the fork** (bored, with a lantern) and strung a **tripwire with bells** across the tunnel 30 ft below the fork
+  (passive Perception 13 to notice; Sable's passive is 14).
+- The shaft: a rope ladder going down about 150 ft through rock into the dark (Athletics DC 8 each; on a fail, you slip and catch yourself, taking 1d4 rope burns).
+- At the bottom: a **flooded gallery** (waist-deep, ancient carvings) that runs behind the Drowned Chapel and ends at a narrow opening **behind the great carved face
+  above the Mouth**. The face's **empty eye socket** is a window: from inside the gallery you can look out over the chapel, or reach out through the socket.
+  Whoever stands there is directly above the Mouth.
+- The Chapel now (by day): the Cantor + 6 acolytes, Gannet among them (bandaged). **Old Fen** is chained to the east pillar. Grey water fills the Mouth's throat.
+- Observing from the socket: Stealth vs the acolytes' passive 10 (dim and distant: advantage). If spotted, the acolytes swim up the gallery (it connects underwater).
+
+## Keeping watch over the chapel (set before rolling)
+- Perception DC 10, the routine: at dusk half the acolytes leave through the dome to hunt the city and return at dawn. Gannet gives Fen water at intervals.
+  The water in the Mouth rises and falls like **breathing**, and every few minutes a deep pulse shakes the stone, each one stronger than the last.
+- Perception DC 15, overheard: the Cantor **dives into the Mouth** and stays down for minutes (she has gills). Coming up, she tells Gannet:
+  *"It turns in its sleep. Three more tides. When the false brother comes, take the Eye from him, then give the barkeep to the Mouth. It will wake hungry."*
+  So **Fen dies whatever happens**: the exchange is a double-cross. And: *"Let the lantern-men dig. The Sleeper will drink them too."*
+- Staying hidden for an hour: Stealth with advantage vs passive 10.
