@@ -456,4 +456,14 @@ the tide has been coming in wrong.
   *"The Saltmarrow venture is only the first, Ottavio. **The Vessmouth Eye is located.** Proceed."* There are other Eyes, and the Guild is behind it.
   Tib's pitch: **Vessmouth**, as free agents.
 
+- Sable learned **Suggestion**.
+- **Sable said YES to Tib: next stop, VESSMOUTH.** Pip is coming too, for her lessons. Sable shook on it with Tib, fox drawing and all.
+
 # 🎭 END OF THE FIRST ADVENTURE: "The Drowned Eye of Saltmarrow"
+
+---
+
+# ADVENTURE 2: Vessmouth (not yet begun)
+- Hook: the Lantern Guild's Grand Council letter: *"The Vessmouth Eye is located. Proceed."*
+- Vessmouth: a northern city, home of the Academy where Magister Thale taught.
+- New DM secrets will go in `dm-secrets-vessmouth.md` (don't read it!). `dm-secrets.md` is now safe to read.

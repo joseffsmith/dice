@@ -53,7 +53,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 
 - **Cantrips:** Vicious Mockery, Minor Illusion
 - **1st level (known):** Disguise Self, Charm Person, Healing Word, Sleep, Silent Image
-- **New spell (pending):** one bard spell of 1st or 2nd level
+- **2nd level (known):** **Suggestion** (concentration, up to 8 hours: Wis save DC 15, or the target follows a reasonable-sounding course of action you suggest)
 
 ## Features
 - **Bardic Inspiration (d6):** 5 / 5 per long rest.
