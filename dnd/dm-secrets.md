@@ -344,3 +344,23 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - Day 10: Sable tells Grane about **Vey's letter**. The letter itself went to Crane on day 5, but under martial law Grane sends marines to search the temple.
   In Vey's study they find **Crane's replies** ("Keep your doors shut when the bells ring, Tidewarden, and the headland will be spared"). **Vey is arrested.**
   With the temple in imperial hands, Grane orders it **opened to anyone from the lower city who comes** tonight (not a forced evacuation, but it'll save many).
+
+## THE FINALE: night of day 10 (fixed before play begins)
+- **The Choir in the chapel**: the Cantor (AC 13, 33 HP, Command / Hold Person / Inflict Wounds / Sacred Flame), **Gannet**, and **10 acolytes** (AC 12, 9 HP, spear +3 1d6+1).
+  Fen is chained to the east pillar (padlock DC 12).
+- **Crane's move**: he expects the "false brother" to bring the Eye to the Choir. At about **11:30pm** he comes down the diggers' shaft with **6 grey-coats** to ambush the exchange,
+  and runs into Marta's line in the gallery. That's resolved as a group contest (Marta's line d20+5 with advantage at the chokepoint, vs Crane d20+3).
+  If Crane wins, **2 grey-coats break through** toward the socket. **Crane himself is a coward**: he stays back, and if his men are routed he flees up the shaft (the marines can catch him).
+- **Ossian's Litany**: it takes 10 minutes. When he starts, the crystal **blazes** from the eye socket like a lighthouse, and the Choir looks up.
+  If Ossian takes damage while singing: Con save (DC 10 or half the damage, whichever is higher, +0) or he **falters**. Restarting costs time, and the Eye's brittleness resets.
+  (Sable's Bardic Inspiration can be added to that save.)
+- **The Cantor's reaction**: she recognises the Litany sung *to its end* and shrieks "STOP THEM!". Half the acolytes swim the flooded arch toward the socket and the other half go for the Mouth.
+- **The Eye**: Sable must **open the reliquary** (hand on it, say "vael thessa morun": an action). Opening it this close to the sea makes **the Mouth surge**.
+  Each round after that, creatures within 10 ft of the Mouth make a DC 12 Str or Dex save or are pulled 10 ft toward it. If you go in, you're dragged down (and that's lethal unless pulled out).
+  **The Eye must be placed in the Mouth** (on the stone teeth at the lip; that counts). Then, while the Litany is sung, it's AC 10, and any hit for 1+ damage shatters it.
+  With Ossian holding the crystal, the strike is made with **advantage**. The maul: +1 to hit (Str −1, proficient +2), 1d6−1, minimum 1.
+- **Rappelling 40 ft** on Hettie's line: Acrobatics DC 10. On a fail Sable lands hard for 1d6 but is still at the Mouth. Hettie's rigging: DC 10 (+5 for her).
+- **Tib's entrance**: the disguise holds (DC 24). Tib's Deception (+5) vs the Cantor's Insight (+1) keeps her talking. She'll demand the box, then try to seize him.
+- **When the Eye shatters**: the Sleeper gives one vast, final shudder. The Mouth **collapses inward**, the chapel starts to flood, and the tide is "released". The sea comes back
+  **gently, as a normal tide**: no flood. The Choir's transformation breaks (barnacles flake off, and the acolytes become confused, ordinary people). The Cantor, too far gone, is dragged
+  into the Mouth as it closes (unless someone saves her). Everyone has about 5 rounds to get out (the gallery/shaft, or up through the dome).
