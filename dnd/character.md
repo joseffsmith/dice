@@ -1,13 +1,13 @@
-# Sable: Half-Elf Bard 2 (Charlatan)
+# Sable: Half-Elf Bard 3, College of Whispers (Charlatan)
 _"Sable" is a working name. Nobody in Saltmarrow knows the real one._
 
-**Rules:** D&D 5e (2014) · **Level:** 2 · **XP:** 1,675 / 2,700: **LEVEL 3 reached!** (Bard College choice pending)
+**Rules:** D&D 5e (2014) · **Level:** 3 · **XP:** 1,675 / 2,700
 **Pronouns:** he/him · **Alignment:** Chaotic Neutral (leaning good, though Sable would deny it)
 
 ## Core
 | AC | HP | Hit Dice | Speed | Initiative | Proficiency |
 |---|---|---|---|---|---|
-| 15 (leather) | **12 / 21** | 2d8 (2/2) | 30 ft | +5 (incl. Jack of All Trades) | +2 |
+| 15 (leather) | **30 / 30** | 3d8 (3/3) | 30 ft | +5 (incl. Jack of All Trades) | +2 |
 
 Passive Perception **14** · Darkvision 60 ft
 
@@ -27,9 +27,9 @@ _Rolled 4d6 drop lowest: 9, 18, 17, 11, 13, 18. Half-elf bonuses: +2 CHA, +1 DEX
 | Animal Handling (Wis) | +3 | | Investigation (Int) | +1 |
 | Arcana (Int) | +1 | | Medicine (Wis) | +3 |
 | Athletics (Str) | +0 | | Nature (Int) | +1 |
-| ● Deception (Cha) | +7 | | ● Perception (Wis) | +4 |
+| ●● Deception (Cha) **Expertise** | +9 | | ● Perception (Wis) | +4 |
 | History (Int) | +1 | | Performance (Cha) | +6 |
-| ● Insight (Wis) | +4 | | ● Persuasion (Cha) | +7 |
+| ● Insight (Wis) | +4 | | ●● Persuasion (Cha) **Expertise** | +9 |
 | | | | Religion (Int) | +1 |
 | ● Sleight of Hand (Dex) | +6 | | ● Stealth (Dex) | +6 |
 | | | | Survival (Wis) | +3 |
@@ -49,13 +49,17 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 
 ## Spellcasting (Charisma)
 **Spell save DC 15 · Spell attack +7**
-**1st-level slots:** ☒☒☒ (0/3), recovered on a long rest
+**1st-level slots:** ☐☐☐☐ (4/4) · **2nd-level slots:** ☐☐ (2/2), recovered on a long rest
 
 - **Cantrips:** Vicious Mockery, Minor Illusion
-- **1st level (known):** Disguise Self, Charm Person, Healing Word, Sleep, **Silent Image**
+- **1st level (known):** Disguise Self, Charm Person, Healing Word, Sleep, Silent Image
+- **New spell (pending):** one bard spell of 1st or 2nd level
 
 ## Features
-- **Bardic Inspiration (d6):** 0 / 5 per long rest. As a bonus action, an ally within 60 ft gains a d6 to add to one ability check, attack roll or saving throw.
+- **Bardic Inspiration (d6):** 5 / 5 per long rest.
+- **Expertise:** Deception and Persuasion (double proficiency).
+- **College of Whispers: Psychic Blades.** When you hit with a weapon attack, you can spend one Bardic Inspiration to deal an extra **2d6 psychic** damage (once per turn).
+- **College of Whispers: Words of Terror.** After talking with a creature alone for 1 minute, it makes a Wis save (DC 15) or is **frightened** of you or another creature you choose for 1 hour. Once per short or long rest. As a bonus action, an ally within 60 ft gains a d6 to add to one ability check, attack roll or saving throw.
 - **Jack of All Trades:** Add +1 to any ability check you're not proficient in (including initiative).
 - **Song of Rest (d6):** During a short rest, you and allies who spend Hit Dice regain an extra 1d6 HP.
 - **Fey Ancestry:** Advantage on saves against being charmed; magic can't put you to sleep.
@@ -68,14 +72,16 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - Entertainer's pack: backpack, bedroll, 2 costumes, 5 candles, 5 days' rations, waterskin, disguise kit
 - Forgery kit, set of fine clothes
 - Tools of the con: signet ring of the imaginary **Duke of Vellmoor**
-- ~~The brass reliquary~~ (empty) · **THE EYE OF THE SLEEPER: SHATTERED.**
+- The brass reliquary (empty), a keepsake
 - **2 potions of healing** (2d4+2 each)
 - ~~Fake reliquary~~ given to Tib (disguised as Sable)
 - **Short iron maul** (from the ship's armourer; 1d6 bludgeoning), for striking the Eye
-- **The Lantern's real focusing crystal**: singing the Litany on its own, carrying it to its end
+- **Mother Pell's mustard-yellow scarf**: the Gutterwick's mark of protection
+- **Imperial pardon** (for Sable and Tib)
+- Tib's little fox drawing
 - ~~Ossian's tide charts~~ given to Admiral Grane
 - **Admiral Grane's bosun's whistle** (three blasts off the *Aurelian Dawn*'s stern at night = ladder)
-- **Coin:** 7 gp, 6 sp
+- **Coin:** 247 gp, 6 sp
 
 ## Conditions / notes
 

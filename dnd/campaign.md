@@ -388,10 +388,10 @@ the tide has been coming in wrong.
 - **Magister Orrin Thale**: Crane's ex-wizard. Surrendered; being shipped north by Grane. Knows how to break the Eye.
 - **Inky Mabb**: ancient gnome forger in the Gutterwick. Has forged the Emperor's seal. Saw through Sable's copy.
 - **Old Fen**: barkeep of the Leaky Bucket. Covered their escape. **Taken hostage by the Choir.**
-- **Brother Ossian**: young, nervous tide-priest. Knows the Litany. Ally. **Freed from the temple**, along with his charts. A fugitive now.
+- **Brother Ossian**: **Keeper of the Tides**. Has the focusing crystal. Friend.
 - **High Tidewarden Cassia Vey**: colluded with Crane over the flood. **Arrested** under martial law on day 10.
 - **Brother Tamsin**: older priest, sour, Vey's yes-man.
-- **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
+- **Ilse** (formerly the Cantor): human again. Spared at trial thanks to Sable. Serving the temple under Ossian.
 - **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.
 - **Old Hettie Brask**: dwarf chandler, gruff, hates the Lantern Guild. A firm friend. **Rescued just before the Choir came for her.**
 - **Grey-coats**: Lantern Guild enforcers with brass lantern pins. Two of them were searching the Drowned Lamb.
@@ -438,3 +438,22 @@ the tide has been coming in wrong.
 - 7 gp, 6 sp
 - Brass reliquary (locked)
 - ~~Crane's ledger~~ given to **Admiral Grane**
+
+
+## EPILOGUE: the morning after
+- **Admiral Grane**: Crane, Hesk, Voss and Vey were shipped to the capital in chains. Sable and Tib got an **imperial pardon** (the bounty is void) and **250 gp** in prize money.
+  Grane offered an Admiralty commission as an imperial intelligencer. **Sable DECLINED.** (She said the door stays open.)
+- **Marta**: made **Captain of the Watch**, to rebuild it honestly. Friend for life.
+- **Ossian**: named **Keeper of the Tides**. **Sable gave him the focusing crystal.**
+- **Ilse** (the former Cantor, a fishwife from the north quay): **Sable spoke for her at her trial. DOUBLE NAT 20 (27).** She was spared, and sentenced to serve
+  the Temple of the Tides under Ossian.
+- **Hettie**: back in her shop. Sable paid **10 gp** for her window.
+- **Mother Pell**: gave Sable a **mustard-yellow Gutterwick scarf**: any Gutterwick member will help him.
+- **Old Fen**: free drinks for life at the Leaky Bucket (never the good stuff).
+- **Pip**: favour #1: *"Teach me. The faces, the voices, all of it."* **Sable said yes.** Favour #2 is still held.
+- **Sable reached level 3: College of Whispers.** Expertise in Deception and Persuasion. HP 30.
+- **Tib's idea**: he lifted a letter from Crane's coat during the arrest. It's from the **Lantern Guild's Grand Council in the capital**:
+  *"The Saltmarrow venture is only the first, Ottavio. **The Vessmouth Eye is located.** Proceed."* There are other Eyes, and the Guild is behind it.
+  Tib's pitch: **Vessmouth**, as free agents.
+
+# 🎭 END OF THE FIRST ADVENTURE: "The Drowned Eye of Saltmarrow"

@@ -386,3 +386,9 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - Pip names favour #1: *"Teach me. The faces. The voices. All of it."* Favour #2 is held for later.
 - Pell: knits Sable a mustard-yellow scarf, the Gutterwick's mark of protection. Any Gutterwick member will help him.
 - Tib: *"So. Partner. What's next?"*
+- **Tib's idea** (set before narrating): while Fross was arresting Crane, Tib lifted a letter from Crane's coat. It's from the **Lantern Guild's Grand Council in the capital**:
+  *"The Saltmarrow venture is only the first, Ottavio. The Vessmouth Eye is located. Proceed."* So **there are other Eyes, and other Sleepers**, under other cities,
+  and the Guild is behind it at a higher level than Crane. Tib's pitch: go to **Vessmouth** (Thale's home town) as free agents, not imperial spies,
+  find the next Eye before the Guild does, and maybe get rich doing it.
+- Ilse's trial: Sable's Persuasion (+7, advantage, with Ossian corroborating the Litany lore) vs DC 13. On a success she is spared, and sentenced to serve the Temple of the Tides under Ossian.
+  On a failure, she's still spared the noose, but exiled from Saltmarrow.
