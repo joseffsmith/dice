@@ -283,6 +283,11 @@ the tide has been coming in wrong.
       *"It turns in its sleep. Three more tides. When the false brother comes, take the Eye from him, then **give the barkeep to the Mouth**. It will wake hungry."*
       And: *"Let the lantern-men dig. The Sleeper will drink them too."*
     - **The exchange is a double-cross. Fen dies whatever happens.**
+  - **Kept watching into dusk** (Perception 19, Stealth 20):
+    - **3 acolytes left** up through the dome to hunt. That leaves **the Cantor, Gannet, 2 acolytes, and Fen**.
+    - The gallery connects to the chapel through a **flooded arch** at the base of the wall below the socket: about 30 ft down, a 15-ft swim.
+    - Fen's chain key is still on the **Cantor's belt**. After dusk the Cantor **sleeps** on a stone ledge by the Mouth, and Gannet keeps watch, dozing.
+    - **Old Fen has spotted the eye socket.** He glanced up once and is now carefully pretending he didn't.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 

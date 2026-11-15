@@ -324,3 +324,9 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   *"It turns in its sleep. Three more tides. When the false brother comes, take the Eye from him, then give the barkeep to the Mouth. It will wake hungry."*
   So **Fen dies whatever happens**: the exchange is a double-cross. And: *"Let the lantern-men dig. The Sleeper will drink them too."*
 - Staying hidden for an hour: Stealth with advantage vs passive 10.
+- Watching longer, into dusk (set before rolling):
+  - At dusk **3 acolytes leave** up the kelp ladder through the dome. That leaves **the Cantor, Gannet and 2 acolytes**, and Fen.
+  - Perception DC 13: the underwater link from gallery to chapel is a flooded arch at the base of the wall below the socket (about 30 ft down, a 15 ft swim).
+    Fen's chain key is still on the **Cantor's belt**. The Cantor sleeps for a while on a stone ledge by the Mouth after dusk, with Gannet keeping watch (and dozing).
+  - Perception DC 18: Fen has noticed the eye socket. He saw a glint, and he's pretending not to look.
+  - Staying hidden longer: Stealth with advantage again.
