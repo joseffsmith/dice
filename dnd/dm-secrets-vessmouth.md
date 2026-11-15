@@ -42,3 +42,6 @@ _Written before the adventure begins, so the plot stays fixed._
 - The brig docks in sleet. The harbour clerk Arnquist is questioning arrivals ("Half-elves? Red scarves?"). Seraphine watches from a carriage.
 - **Mirren Thale** is waiting on the dock with her brother's letter, looking for "a half-elf and his friends". She is not subtle.
 - Arnquist's checks: Deception or Disguise vs his Insight +2 / passive Perception 12. Tib's red scarf is a tell (Seraphine's Perception +4 to spot it from the carriage, if visible).
+
+## Results log
+- Day 1: Pip got past the clerk (20 vs 9). Pip's lure of Mirren (18) beat Seraphine's Insight (13, with disadvantage), so **Seraphine doesn't suspect Mirren**, yet. She saw only a scholar hurrying home.

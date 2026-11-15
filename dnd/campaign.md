@@ -386,6 +386,9 @@ the tide has been coming in wrong.
 - **Needle**: one-armed tiefling, a Gutterwick lookout leader. Dry and careful.
 - **Corrie and Sprat**: Gutterwick thieves, rescued from Crane's vaults.
 - **Magister Orrin Thale**: Crane's ex-wizard. Surrendered; being shipped north by Grane. Knows how to break the Eye.
+- **Doctor Mirren Thale**: glaciologist, Orrin's sister. Sharp, blunt, tired, and not subtle. Ally.
+- **Lady Seraphine Ashgrove**: the Lantern Guild's envoy in Vessmouth (not yet met).
+- **Provost Hollis Varne**: head of the Academy. Buried Mirren's reports.
 - **Inky Mabb**: ancient gnome forger in the Gutterwick. Has forged the Emperor's seal. Saw through Sable's copy.
 - **Old Fen**: barkeep of the Leaky Bucket. Covered their escape. **Taken hostage by the Choir.**
 - **Brother Ossian**: **Keeper of the Tides**. Has the focusing crystal. Friend.
@@ -472,3 +475,14 @@ the tide has been coming in wrong.
 ### Day 1
 - Three weeks' sail north on a merchant brig: Sable, Tib, Pip (Moss stayed in Saltmarrow with Mother Pell). It's late autumn, with the first snows.
 - Arrived at **Vessmouth**, a cold port and university town at the head of a fjord, under the vast **Hvitfell Glacier**. Ice floes in the harbour.
+- At the dock: a **Lantern Guild clerk** checking arrivals for "half-elves" and "red scarves"; a fine **black carriage** with someone watching; and a scholar
+  holding a sign: "HALF-ELF + FRIENDS (SALTMARROW)?". She looks a lot like Thale.
+- Tib hid his red scarf. **Pip** slipped down the gangplank past the clerk (20 vs 9), lured the scholar away with a story about her stove being on fire, and brought her
+  round to the brig's stern ladder.
+- **Doctor Mirren Thale**, Orrin Thale's younger sister and a glaciologist at the Academy. Orrin wrote to her: *"A half-elf and his friends saved Saltmarrow. If they come north, trust them."*
+  What she told them:
+  - **The Hvitfell Glacier is moving three times faster** than it should, and getting faster. Her reports to the Academy were buried by **Provost Hollis Varne**.
+  - The **Lantern Guild** has hired the icecutters to dig a cavern deep into the glacier face. They've found "something" frozen inside, and no one is allowed near.
+  - The Guild's envoy is **Lady Seraphine Ashgrove**, who arrived two weeks ago. (That was probably her in the carriage.)
+  - A Guild ice-ship, the ***Gilded Lantern***, is expected in about **8 days**.
+  - The icecutters' grandmothers have an old tale of "**Old Grandmother**" sleeping in the ice.
