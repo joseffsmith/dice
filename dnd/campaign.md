@@ -360,6 +360,14 @@ the tide has been coming in wrong.
 - **Escape:** Sable put his people first. Tib took Pip toward the kelp ladder, and Pip woke the 2 sleepers by the arch on the way. Fen and Ossian woke the 3 in the gallery.
   - R1: Hettie's climb failed (7). Sable tried to haul the drowning Cantor out and failed (8).
   - R2: Hettie helped (advantage), but Sable failed again (11). Tib reached the kelp ladder. **Pip slipped back into the water** (6). The Mouth is nearly shut.
+  - R3: **LAST TRY: Sable hauled the Cantor out of the closing Mouth** (13 exactly, with advantage). **She's alive**, and fully human again. Tib hauled Pip up the ladder (10).
+  - R4: Sable tied the Cantor to his line. Hettie's climb failed (8), and so did Sable's (4).
+  - R5: **Fen and the three freed fishermen came back to the socket and HAULED THE LINE** (18). Sable, Hettie and the Cantor were pulled up as the dome cracked and the chapel flooded.
+- **EVERYONE GOT OUT.** Sable, Hettie, the Cantor, Ossian, Fen and the 3 fishermen went up the diggers' shaft. Tib, Pip and the other freed acolytes went up through the dome
+  onto the Pier Nine mudflats, where the Gutterwick's boats were waiting.
+- **Fross caught Crane** (24 vs 10) in his own wine vaults, trying to flee up into the Spire. **Ottavio Crane was arrested** by imperial marines.
+- **MIDNIGHT, THE TURNING:** the sea came back **gently**, a normal tide, lapping at the piers. **No flood. Saltmarrow is saved.** The Drowned Chapel is gone, sealed under the mud.
+- **XP:** the Cantor overcome (450), Gannet (25), 4 acolytes killed (100), 5 put to sleep and overcome (125), the last guard (25), and destroying the Eye (300) = **+1,025 → 1,675. LEVEL 3!**
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -413,14 +421,14 @@ the tide has been coming in wrong.
 - [x] ~~Retrieve the ledger.~~ Got it... then lost it to Mother Pell.
 - [x] ~~**Rescue Pell's six missing children**~~ Done. Got the original ledger back and learned about the diggers' tunnel.
 - [x] ~~**Raid the Spire vaults**~~ Corrie and Sprat rescued, Thale taken, Lantern secretly sabotaged.
-- [ ] **The real plan:** at the spring tide, get to **the Mouth** with the Eye; Ossian sings the full Litany; strike the Eye while it's brittle. Crane, the Choir, or both will be there.
+- [x] ~~**END THE SLEEPER.**~~ **The Eye is shattered. The Sleeper sleeps for ever.**
 - [x] ~~Get the ledger to Admiral Grane.~~ Done. Voss confined.
 - [ ] Bring **Ossian and his charts** to Grane **by day 6**. ✅ Both now in hand!
 - [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
 - [x] ~~Hesk falls~~ Arrested under martial law on day 9, with Marta there.
-- [ ] Crane's binding at the **Lantern Spire** at the spring tide (**day 10**).
+- [x] ~~Crane's binding~~ Sabotaged. **Crane arrested.**
 - [x] ~~The Choir's threat against Hettie~~ Foiled.
-- [ ] **The Choir holds Old Fen.** They want the Eye at the Mouth at the turning of the spring tide.
+- [x] ~~Rescue Old Fen~~ Saved.
 - [x] ~~Return Hettie's lantern.~~
 - [ ] Sable owes Pip **two favours**.
 - [ ] The Choir knows a "brother" stole the Eye. The Guild has a 50 gp bounty on Sable.

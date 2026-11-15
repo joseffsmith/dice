@@ -1,7 +1,7 @@
 # Sable: Half-Elf Bard 2 (Charlatan)
 _"Sable" is a working name. Nobody in Saltmarrow knows the real one._
 
-**Rules:** D&D 5e (2014) · **Level:** 2 · **XP:** 650 / 900
+**Rules:** D&D 5e (2014) · **Level:** 2 · **XP:** 1,675 / 2,700: **LEVEL 3 reached!** (Bard College choice pending)
 **Pronouns:** he/him · **Alignment:** Chaotic Neutral (leaning good, though Sable would deny it)
 
 ## Core
