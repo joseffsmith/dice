@@ -338,6 +338,10 @@ the tide has been coming in wrong.
     Sable cast **Healing Word on Tib** (+9, last slot) and **Vicious Mockery** on the Cantor, but she rolled a nat 20 on the save. Tib took 5 (**Tib 9/27**) and missed twice.
     **Ossian fell silent, and the Litany broke.**
   - R4: **Fen reached the socket**, so Hettie's hands are free. Pip's rock missed. **The Cantor Commanded "SILENCE!" again**, and Ossian failed (8). **He'll be silent again this round.**
+    Sable sent **Hettie after the Cantor**, gave **Tib Bardic Inspiration**, and Mocked the wounded acolyte (1 HP left). Tib took 3 (**Tib 6/27**) and **killed an acolyte**.
+    Ossian was silent.
+  - R5: Fen took a spear and guarded the gallery. **Hettie rappelled down** but landed hard (6 damage), and her cutlass missed the Cantor. **Pip's rock killed the wounded acolyte.**
+    **The Cantor Commanded "SILENCE!" a THIRD time.** Ossian failed (7) and is silenced again. *(She must be running low on magic.)*
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
