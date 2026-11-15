@@ -371,3 +371,7 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   with it (swim speed 40) to give it back to the Sleeper whole, and that WAKES it. Before then, anyone at the lip can strike the Eye in her hand. It's brittle, since the Litany is being sung and it's in the Mouth.
   **Striking a held object**: an attack vs AC 10 with disadvantage (it's in her grip), cancelled to a straight roll by the crystal's advantage. Any hit shatters it.
   A hit on the Cantor instead does normal damage. Dropping her to 0 makes her let go (the Eye sinks slowly, and is still reachable for 1 round).
+- **THE EYE IS SHATTERED** (Tib, wearing Sable's face, rolled 22). As foreshadowed, **the focusing crystal takes up the song**: it rings on by itself and carries the Litany to its end,
+  so Ossian can stop singing and flee. The Mouth begins to close. The chapel floods over **5 rounds**. The transformation breaks, and the barnacles fall away from every acolyte.
+  **The Cantor** is in the closing throat. She's no longer gilled (the change is breaking), and she's drowning and reaching up. Anyone at the lip can try to pull her out
+  (Athletics DC 13, an action). If nobody does, she's taken down with the Mouth. The **5 sleeping acolytes** will drown in the rising water unless woken (an action each, or one shout from Fen in the gallery for those 3).

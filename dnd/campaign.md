@@ -353,6 +353,10 @@ the tide has been coming in wrong.
     A guard tried to wrest it away and failed (13 vs 19). Another speared Sable for 3 (**Sable 12/21**). **Tib** used his inspiration die to turn a miss into a hit: **guard A killed.**
   - R8: **THE MOUTH SURGED.** **Sable was dragged over the lip**, but Hettie's line held. **The Cantor was dragged in too**, with no tether. Hettie hauled Sable back up (13).
     **The Cantor, in the throat, WRENCHED THE EYE FROM SABLE'S HAND** (11 vs 8). She's just below the lip, about to dive into the deep with it.
+    **Sable struck at the Eye in her hand with the maul: 8, a MISS.** He gave **his last Bardic Inspiration to Tib**...
+    **...and TIB, WEARING SABLE'S FACE, STRUCK THE EYE: 22. THE EYE OF THE SLEEPER IS SHATTERED.**
+- The **focusing crystal took up the song** by itself, carrying the Litany to its end. **The Mouth began to close**, the chapel began to flood, and
+  **the barnacles fell away** from every acolyte. The Cantor is drowning in the closing throat.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 

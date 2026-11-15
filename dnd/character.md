@@ -55,7 +55,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - **1st level (known):** Disguise Self, Charm Person, Healing Word, Sleep, **Silent Image**
 
 ## Features
-- **Bardic Inspiration (d6):** 1 / 5 per long rest. (Hettie and Ossian are each holding one.) As a bonus action, an ally within 60 ft gains a d6 to add to one ability check, attack roll or saving throw.
+- **Bardic Inspiration (d6):** 0 / 5 per long rest. As a bonus action, an ally within 60 ft gains a d6 to add to one ability check, attack roll or saving throw.
 - **Jack of All Trades:** Add +1 to any ability check you're not proficient in (including initiative).
 - **Song of Rest (d6):** During a short rest, you and allies who spend Hit Dice regain an extra 1d6 HP.
 - **Fey Ancestry:** Advantage on saves against being charmed; magic can't put you to sleep.
@@ -68,11 +68,11 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - Entertainer's pack: backpack, bedroll, 2 costumes, 5 candles, 5 days' rations, waterskin, disguise kit
 - Forgery kit, set of fine clothes
 - Tools of the con: signet ring of the imaginary **Duke of Vellmoor**
-- **The brass reliquary**: OPENED. **The Eye** (a black pearl like a living eye) was **seized by the Cantor**!
+- ~~The brass reliquary~~ (empty) · **THE EYE OF THE SLEEPER: SHATTERED.**
 - **2 potions of healing** (2d4+2 each)
 - ~~Fake reliquary~~ given to Tib (disguised as Sable)
 - **Short iron maul** (from the ship's armourer; 1d6 bludgeoning), for striking the Eye
-- **The Lantern's real focusing crystal**: palm-sized and blue-green; glows when the Litany is sung nearby
+- **The Lantern's real focusing crystal**: singing the Litany on its own, carrying it to its end
 - ~~Ossian's tide charts~~ given to Admiral Grane
 - **Admiral Grane's bosun's whistle** (three blasts off the *Aurelian Dawn*'s stern at night = ladder)
 - **Coin:** 7 gp, 6 sp
