@@ -314,6 +314,15 @@ the tide has been coming in wrong.
   **High Tidewarden Vey arrested.** Grane ordered the Temple of the Tides **opened to anyone from the lower city** tonight.
 - Afternoon: Sable disguised **Tib as Sable** (24, so DC 24 to see through it). Tib carries the **fake reliquary**.
 
+### THE FINALE
+- ~10:30pm: the marines (in imperial colours) took the surrender of the 2 grey-coats at the fork. Everyone went down the shaft
+  (Hettie slipped on a nat 1 and took 1 rope burn). **Marta and the marines held the gallery.** Sable, Ossian, Hettie and Pip reached the **eye socket**, and Hettie rigged the line (20).
+- ~11:20pm: the Gutterwick set boats burning on the mudflats outside Pier Nine. **Tib, wearing Sable's face, walked into the Drowned Chapel** with the fake box.
+  **Tib's Deception: NAT 20 vs the Cantor's Insight: NAT 1.** She's utterly convinced. At Tib's demand she **unchained Fen** as "good faith", and Gannet
+  is holding him at the lip of the Mouth for the exchange. (The Choir can feel the real Eye overhead and thinks it's Tib's.)
+- ~11:30pm: **Crane and 6 grey-coats** came down the shaft to ambush the exchange, and **hit Marta's line**. **The line held** (23 vs 13). The grey-coats broke.
+  Crane fled back up the rope ladder with Fross in pursuit, and the chase is undecided (a tie).
+
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
 ## NPCs
