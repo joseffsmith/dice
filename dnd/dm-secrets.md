@@ -364,3 +364,10 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - **When the Eye shatters**: the Sleeper gives one vast, final shudder. The Mouth **collapses inward**, the chapel starts to flood, and the tide is "released". The sea comes back
   **gently, as a normal tide**: no flood. The Choir's transformation breaks (barnacles flake off, and the acolytes become confused, ordinary people). The Cantor, too far gone, is dragged
   into the Mouth as it closes (unless someone saves her). Everyone has about 5 rounds to get out (the gallery/shaft, or up through the dome).
+- (Ruling during the finale, before rolling) Sable keeps his **hand pressing the Eye into the stone teeth**, so it counts as *held*. Taking it needs an Athletics contest
+  against his Athletics or Acrobatics. **Sable and Hettie are both still clipped to Hettie's anchored line**: if the surge drags them over the lip, the rope holds,
+  and they hang in the throat (Athletics DC 10 to climb back, using their movement). The surge saves start at the top of round 8.
+- (Ruling, set before Sable's round-8 turn) **The Cantor has the Eye** in the Mouth's throat, just below the lip, within 5 ft of the lip. On her round-9 turn (13) she will **dive into the deep**
+  with it (swim speed 40) to give it back to the Sleeper whole, and that WAKES it. Before then, anyone at the lip can strike the Eye in her hand. It's brittle, since the Litany is being sung and it's in the Mouth.
+  **Striking a held object**: an attack vs AC 10 with disadvantage (it's in her grip), cancelled to a straight roll by the crystal's advantage. Any hit shatters it.
+  A hit on the Cantor instead does normal damage. Dropping her to 0 makes her let go (the Eye sinks slowly, and is still reachable for 1 round).
