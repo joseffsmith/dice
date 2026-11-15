@@ -327,6 +327,10 @@ the tide has been coming in wrong.
   Sable 10, Acolytes 10, Tib 8, Ossian 3.
   - R1: **Fen bit Gannet and broke free** (8 vs 6), but Gannet grabbed him again (6 vs 4), about 10 ft from the Mouth. Hettie lowered a second, weighted rope.
     Pip dived into the flooded arch. **The Cantor cast Hold Person on Ossian. He SAVED** (12 vs DC 11) and kept singing.
+    **Sable cast Sleep** (25): **2 acolytes asleep** by the arch. Of the rest, 3 dived into the arch toward the socket (**Pip slipped past them on a nat 20**), 3 attacked Tib
+    (one hit for 4, so **Tib 14/27**), and 2 guarded the Mouth. **Tib** disengaged and threw his knife at Gannet with sneak attack for 11. **GANNET DOWN. Fen freed.**
+  - R2: Fen grabbed Hettie's weighted lifeline, and Hettie started hauling him up. Pip surfaced beside him.
+    **The Cantor's second Hold Person on Ossian: SAVED again** (12). The song goes on. The 3 acolytes in the arch will reach the socket on their turn.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
