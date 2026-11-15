@@ -1,0 +1,508 @@
+# Campaign Notes: Saltmarrow
+
+**Setting:** Saltmarrow, a rain-soaked port city at the edge of the crumbling Aurelian Empire.
+The imperial navy rots in the harbour, the merchant guilds really run the city, and lately
+the tide has been coming in wrong.
+
+**Tone:** A mixture: grounded and gritty, with humour and some dread.
+**Rules:** 5e 2014, rules as written · **Format:** Solo + NPC allies
+**Dice:** All rolls via `roll.py`, logged in `rolls.log`.
+
+## Backstory (what Sable knows)
+- Sable and partner **Tobias "Tib" Quill** ran a con on a guild warehouse in the
+  Lantern Quarter: Sable posed as an envoy of the (fictional) Duke of Vellmoor.
+- The job went wrong. Alarm bells rang, and they split up as planned.
+- Sable got out with a small locked **brass reliquary** from a strongroom. It wasn't the
+  target (that was a ledger), but it was there and it looked valuable.
+- Tib was supposed to meet at the **Drowned Lamb** tavern. That was three nights ago. No sign of him.
+
+## Session log
+### Session 1
+- Character created: Sable (he/him), half-elf bard (Charlatan), level 1.
+- Night three at the Drowned Lamb. A halfling kid, **Pip**, delivered a note in (nearly) Tib's hand:
+  "They've got me. Pier Nine. Midnight. Bring the box."
+- Two Lantern Guild grey-coats came in searching faces. Sable paid Pip 1 gp to cause a distraction
+  (an ale-tray "accident"), then slipped out through the kitchen unseen (Stealth 23).
+- Paid Pip her second gold crown. Questioned her in the alley:
+  - The note-giver had wet, crusted "boat-bottom" skin and hummed nonstop. He came up from the
+    old drain grate by the fish market. Street kids call these people **"the Choir"**. Kids have gone missing.
+  - Two nights ago Pip saw grey-coats bundle a man in a **red scarf** (Tib?) into a black carriage heading uphill.
+  - The next morning that carriage was found by the Gull Canal: horses gone, driver drowned *on dry land*,
+    and seaweed everywhere.
+  - Pier Nine: wrecked last winter. Fishermen say you can hear singing under it at low tide.
+- Studied the note (Investigation 14): it's Tib's real handwriting, but shaky and seawater-damp, and
+  **missing the fox doodle**, their sign that a message is genuine. Tib wrote it under duress.
+  The paper feels oddly ridged, but it's too dark to see why.
+- At **Brask's Chandlery**, the second look failed (Investigation 7). Hettie: tides are wrong all week,
+  coming in early and twice as low, "something's pulling at the sea".
+- The grey-coats came out of the Lamb and started looking down the street.
+- Asked Hettie for a back way: **NATURAL 20** Persuasion. She took a liking to Sable, rubbed charcoal over
+  the note and revealed Tib's scratched-out line: **"DON'T COME. UNDER IT—"**. Then she showed Sable
+  her old smuggling tunnel from the cellar, which comes out at the fishing slips near Pier Nine.
+  She lent Sable a **hooded lantern** (must return it!). The grey-coats came into the shop just as the trapdoor shut.
+- Pip joined Sable for "a favour owed, to be named later".
+- In the tunnel: passive Perception noticed **wet bare footprints and drag marks** coming out of a side
+  passage that heads toward the fish market and the drains.
+- Came out under the boathouse at the fishing slips around 11pm. Low tide is early and extreme:
+  the harbour has drained back to the mudflats, and Pier Nine's pilings stand in exposed mud.
+- Seen at Pier Nine: a hooded figure waiting by a lantern at the broken end; a green glow and humming under
+  the pier; drag marks leading to it.
+- Sable (16) and Pip (21) sneaked across the mud under the pier unseen.
+- The green glow comes from the top of a **drowned stone dome** sticking out of the mud. It's an old temple from
+  a city beneath Saltmarrow. A broken window leads down, and a **Choir guard** sits on the rim humming, eyes closed.
+  There's chanting below, and Sable glimpsed a **red scarf**.
+- Sable cast **Disguise Self** (slot 1/2 left) to look like a Choir member. Pip hid behind the pilings.
+  The guard (milky fish-eyes) sensed the box humming and assumed Sable had brought "the Eye" to "the Mouth" below.
+  He mentioned "the thief's partner swore he didn't know where it was" and that "the Sleeper will see".
+- Sable dodged his embrace: "Lead the way, brother" (Deception 11 vs his Insight 1, a nat 1). He led Sable down the kelp ladder.
+- **The Drowned Chapel**: a vast flooded temple. In the centre, **the Mouth**: a stone maw leading down into a black shaft.
+  Above it, a carved face with one black stone eye and **one empty socket**. 8 Choir acolytes in a ring.
+  The **Cantor, Sister Ilse**, has gills, webbed hands and a coral staff. **Tib** is chained to a pillar on the east side, badly beaten.
+  He shook his head at the "stranger": don't hand it over.
+- Sable cast **Charm Person** on the Cantor, hidden in the hum (Performance 19, nobody noticed), but she **saved with a nat 20**.
+  The spell fizzled unnoticed. Last spell slot spent.
+- Deception pitch: "Guild men followed me; let me take the thief up as bait to lead them away" (16 vs her Insight 2, a nat 1).
+  **It worked.** She unlocked Tib with a key from her belt and sent the door guard (**Brother Gannet**) up as escort.
+  Sable kept the box. She blessed them as they left with Old Aurelian words: ***"Vael thessa morun"***.
+  The box shuddered and went hot when she said it.
+- Up top, the tide was roaring back. Sable signalled Pip to ambush Gannet.
+  **Combat round 1**: initiative Pip 14, Tib 13, Sable 5, Gannet 5 (surprised). Pip's rock hit (20) for 6, leaving Gannet at 3/9 HP.
+  Tib scrambled away from the "cultist" Sable toward Pip.
+  Sable's rapier hit (13) for 10. **Gannet dropped.** Combat over. Gannet was left on the dome rim as the tide came in.
+- Raced the tide to the **fishing slips** (Sable 13, Pip 13, Tib 18, with Sable supporting Tib). All made it.
+  The sea swallowed Pier Nine's pilings and the green glow went dark. The hooded watcher on the pier turned its lantern toward the slips.
+- Midnight. Sable dropped the disguise. Reunion with Tib. Tib's story: grey-coats grabbed him on Tallow Street and took him
+  toward the Lantern Quarter; the Choir attacked the carriage at the Gull Canal and dragged him through the drains; they
+  tortured him for the Eye's location and made him write the note. Sable's passive Insight (14) caught Tib **dodging the question
+  of how the grey-coats knew about the Drowned Lamb**.
+- Went to **Pip's hideout**, the beached imperial warship *Indomitable* in the breakers' yard. No trouble on the way, and the night passed undisturbed.
+  **Long rest** (Sable fully restored, Tib back on his feet).
+- Sable dreamed of a drowned cathedral and a vast eye opening in the dark, and heard the words "vael thessa morun".
+- Morning: wanted posters in the breakers' yard showing a half-elf with a signet ring. **"50 gold crowns, by order of the Lantern Guild."**
+  Overnight the tide flooded the lower docks. Old sailors are muttering.
+
+- Tib **confessed**: Crane caught him, threatened his hands with a hammer, and Tib gave up the Drowned Lamb. Sable **forgave him**.
+- Tib revealed: (1) he **stole the ledger** and hid it behind a loose chimney brick at **Old Wendle's rope-walk**, Tallow Street.
+  It shows **Captain Hesk** and his sergeants on Crane's payroll, plus payments to "the diggers" for "excavation under the harbour".
+  (2) He overheard Crane: "The binding will be done at the **Lantern Spire**, at the **spring tide**." That's the full moon, **9 days** away.
+- **Day 1 (morning):** Sable used his disguise kit on himself (DC 18 to see through) and on Tib (DC 17).
+  Sable is now "Master Aldous Penhallow", an elderly ship's purser. Tib is "Gorse", a bald, bearded deckhand with an eyepatch.
+  All three set off for Tallow Street. A grey-coat watching the street didn't see through the disguises.
+- Sable's established Charlatan **False Identity** is now **Aldous Penhallow, insurance assessor** (papers and all).
+  Bluffed the foreman **Mags Corrow** (Deception 26 vs 7), who let him inspect unescorted and complained that
+  grey-coats had been round twice asking about "a bloke in a red scarf".
+- In the boiling house, the attempt to send the tar-man for the foreman failed (Deception 10): he bellowed for Mags instead.
+  **Pip** made a smoky hemp "fire" (13), and he ran out with a bucket. Sable pulled the brick and got **THE LEDGER**.
+  Inside: Captain Hesk's bribes, sergeants' names, and "the diggers". The final entry, 8 days ago, reads **"Final payment. They have broken through."**
+- Penhallow "approved" Mags's flood claim. She was overjoyed. (The Assurance Society doesn't exist...)
+- Back to **Hettie's** (no trouble on the way). Returned her lantern. She hadn't recognised Sable until he spoke.
+  The grey-coats had threatened her last night, and she told them nothing. Hettie's leads:
+  - **Marta Kell**: ex-Watch sergeant, sacked for refusing Hesk's bribes. Drinks at **The Leaky Bucket**.
+  - **Mother Pell** of the **Gutterwick** (thieves): Hettie's dad smuggled for her. She'd buy the ledger or trade favours.
+  - **Brother Ossian**, at the **Temple of the Tides**: might read Old Aurelian.
+- **Temple of the Tides**: High Tidewarden **Cassia Vey** is preaching "it's natural". There's a Lantern Guild plaque for the new roof,
+  and Crane's men dined with her. Met **Brother Ossian** (as Penhallow). His tide charts show:
+  - The tides went wrong **8 days ago** (the same day as the diggers' "broken through" entry).
+  - Every low tide is lower than the last. The water's being pulled **down**, and the pull centres on **Pier Nine**.
+  - At the **spring tide (9 days)** the sea will go out further than ever, then return all at once and **flood the lower city**.
+- Told Ossian the words. **"Vael thessa morun" = "The tide remembers"**, the first line of the *Litany of Saint Aurel*.
+  When Sable said it aloud, the box flared hot and the tidal pool rippled.
+  Legend: Saint Aurel took one of the **Sleeper's** eyes, which blinded it into sleep. "While the Eye is held from the deep, the Sleeper dreams.
+  Return the Eye and it wakes. One who holds the Eye and sings the Litany at the high spring tide shall bend the Sleeper's will."
+  So the **Choir wants to wake it** and **Crane wants to control it**.
+- Sable told Ossian the truth and showed him the box. Ossian is terrified but **wants to help**. He'll sneak the full Litany
+  scroll out of the locked **archive** tonight after vespers (via the lamp cupboard).
+- The Tidewarden came over asking about "the disturbance in the pool". Penhallow claimed he'd tripped and splashed it.
+  Deception 24 vs Vey's Insight 24: **a tie**, so she's neither fooled nor certain. She ordered Ossian to see her **after vespers**.
+- Arranged to meet Ossian at **The Leaky Bucket** (Netmakers' Row) after midnight, once he's raided the archive.
+- **Evening:** went to the Leaky Bucket to find Marta Kell. She didn't see through the disguise.
+- As Penhallow, bought Marta a bottle (4 sp) and got her talking (Persuasion 19). Her story: twenty years in the Watch. Last year she
+  arrested a Lantern Guild clerk for smuggling, and **Hesk** let him go, then offered Marta money to forget it. She refused, and
+  **she was framed for theft and thrown out**. Her old partner, **Sergeant Dunmore**, testified against her.
+- Showed Marta the ledger. **Dunmore is in it**: "Sgt. Dunmore, testimony re: Kell: 30 cr." Marta is **IN**.
+  She didn't see through the disguise, but she guessed that "Penhallow" is connected to the Guild's wanted thief, and she doesn't care.
+  Her plan: take the ledger to **Admiral Thessaly Grane** of the imperial fleet (flagship *Aurelian Dawn*, anchored in the harbour).
+  The Navy is the one power Crane doesn't own, and Grane hates him: he's been buying up her sailors' debts.
+  Her price: **she wants to be there when Hesk falls.**
+- **Shook on it. Marta Kell has joined.**
+- About 12:30am, **Ossian arrived** with the **full Litany scroll** from the archive. He was rattled: the Tidewarden questioned him hard after vespers,
+  and he *thinks* he convinced her. The extra verse:
+  *"What was taken from the deep may be unmade only in the deep. Give it to the Mouth not whole but broken, and sing the Litany
+  to its end, and the Sleeper shall sleep without dreaming, for ever."*
+  So: **break the Eye inside the Mouth while the full Litany is sung, and the Sleeper sleeps for ever.**
+- Sable **told Marta everything** and showed her his real face under Penhallow's whiskers.
+- About 1am: **boots on the steps.** Four Lantern Guild grey-coats came down into the Leaky Bucket. The party heard them a moment early.
+- **Fled through the trapdoor** behind the bar (Ossian didn't fumble: 11). The barkeep, **Old Fen**, dragged a barrel over it.
+  Down in the **storm drains**. Ossian cast **Light** on his scroll-case. They followed the regulars **downstream** toward the Sumps.
+- Stopped by **Gutterwick lookouts** in the drains, led by **Needle** (one-armed tiefling). Sable dropped Hettie's name (Persuasion 11, failed).
+  Needle's terms: pay 5 gp, hand over all weapons and go blindfolded to Mother Pell, OR wait hours under guard while a runner checks with Hettie.
+- **Paid the toll (5 gp)**, surrendered weapons (Sable's rapier and dagger, Marta's longsword, Tib's knife) and went blindfolded.
+- Brought to the **Drowned Chapel of St Ebb** in the Sumps, before **Mother Pell**.
+- Showed Pell the ledger. She wants it to put Hesk and the Watch on a leash. **Marta objected**: she wants Hesk hanged publicly.
+- Sable openly offered a forged copy and let Pell name terms. **Pell's terms:** (1) make the copy here, tonight, and it must fool her forger
+  **Inky Mabb**, or the deal's off and Pell keeps the original; (2) find her **six missing children** (including **Moss**), taken by the Choir;
+  (3) in return: weapons, a safe roof, her network, and the location of the diggers' breakthrough **under the Lantern Spire**. **Accepted.**
+- Forged all night with Tib's help (21), but **Inky Mabb spotted it** (24): the ink was too fresh, and the clerk's split nib left hairline double downstrokes.
+- **The deal's off as written. Pell keeps the original ledger.** But she offered a new deal: **bring back her children and she'll trade the original
+  for Sable's copy, plus the diggers' tunnel.** Weapons returned, and the safe roof granted in good faith. Sable keeps **the forged copy**.
+- **Day 2:** long rest in the Drowned Chapel of St Ebb until the afternoon.
+  Sable dreamed of **children's voices singing in shallow pools of green light**, under the sound of many feet and the smell of fish.
+- **Needle's intel:** the children vanished from drains near the **fish market**. Gutterwick folk now avoid the fish-market drains,
+  where the humming is loudest. The Choir comes and goes through the big grate behind the market.
+- Needle guided the party through the drains to the Gutterwick's "don't pass" mark. **Sable left the box with Tib**, cast **Disguise Self** (1 slot left),
+  and scouted alone.
+- **The Cradle**: a vaulted cistern under the fish market. **Six children** sit waist-deep in glowing green pools, singing, glassy-eyed, with barnacles
+  starting on their arms. **Moss** is among them. **3 Choir acolytes** on guard. In the deepest pool, **something huge and bloated is sleeping**
+  (a drowned woman with a lamprey mouth), and it seems to stir as dusk approaches.
+- Watched a 4th Choir member arrive and learned their new **greeting**: a hummed call answered with a **descending three-note reply**.
+  The newcomer warned that "the false brother" who stole the Eye may come disguised, so they test everyone now. (Gannet survived.)
+- Council of war, then **Tib's plan**: Sable (still disguised; Disguise Self can't be ended early by RAW), sang the password and told the acolytes
+  "the false brother has been felt in the harbour drains with the Eye". Deception 14 vs 7: **all four acolytes left.**
+- The party came in to carry the children out, but the group Stealth failed (Marta rolled a nat 1 and fell with two kids). **The Nurse woke**,
+  sensed the Eye, and went for Sable.
+- **Combat vs the Nurse.** Initiative: Pip 22, Nurse 19, Ossian 19, Marta 18, Tib 17, Sable 14.
+  - R1: Pip grabbed **Moss** and ran for the exit. Marta's opportunity attack missed. The Nurse clawed Sable twice for 9 (**Sable at 3/12**); he saved vs drowning touch.
+    Ossian cast **Sanctuary** on Sable and grabbed a child. Marta missed twice. Tib's thrown knife hit for 6 (**Nurse 30/36**).
+    Sable cast **Healing Word** on himself (+6, **9/12**, last slot) and dashed out through the gap with a child (Hollis). The Nurse's opportunity attack missed.
+  - R2: Pip set Moss down beside Sable. The Nurse charged the gap and got **wedged** squeezing her bulk through (advantage against her, disadvantage on her attacks).
+    Ossian's Sacred Flame hit for 2. Marta hit twice with advantage for 4 + 5. **Nurse 19/36.** Tib gathered the two remaining children behind Marta.
+    Sable gave Marta **Bardic Inspiration** and hit the Nurse with **Vicious Mockery** (4, so 15/36).
+  - R3: Pip's rock hit for 3. The Nurse tore free of the gap, and Marta's opportunity attack hit for 10 (**2 HP left**). Ossian's Sacred Flame was saved.
+    Marta chased her down: rolled 9, plus **Bardic Inspiration 3 = 12, a HIT. The Nurse is dead.**
+- **All six children rescued**, including **Moss**. Away from the green water, they're slowly waking up.
+- **XP:** Nurse 200 → **Sable 300 XP, reaching level 2.**
+- Returned through the drains to the **Drowned Chapel of St Ebb** without trouble. Mother Pell wept over the children. She traded the
+  **original ledger** for Sable's forged copy, as promised, and revealed **the diggers' tunnel**: a fresh breach under the Lantern Quarter. One way
+  leads up to the **wine vaults beneath the Lantern Spire**, the other down into **the drowned temple complex**, near the Mouth.
+  Two of Pell's people who explored it (**Corrie and Sprat**) were taken by Crane's men.
+- **Sable reached level 2**: HP 21 (fixed average), 3 slots, Jack of All Trades, Song of Rest, and learned **Silent Image**.
+- **Long rest** at St Ebb's. Everyone fully restored.
+- Dream: the **Cantor's face** in green water: *"You took our little ones, false brother. We will take yours."*
+
+### Day 3 (morning): 7 days to the spring tide
+- Pell's news: the **Choir hunted the drains** all night, and the Gutterwick collapsed a tunnel to keep them out. **Crane raised the bounty to 200 gp** and added Tib's
+  face. Grey-coats and **Hesk's Watch** are searching houses together. The Watch visited **Hettie's** shop again.
+- **Ossian** has to go back to the temple today, or Vey will report him missing.
+- Marta: to reach **Admiral Grane**, either go to the **Admiralty Steps** shore office (watched by Hesk's men) or row out to the *Aurelian Dawn* at night.
+- Ossian went back to the temple. The party lay low at St Ebb's. Needle lent a muffled **Gutterwick skiff**.
+- **Night:** Sable, Marta and Tib rowed out (**the Eye left with Mother Pell**). No trouble on the way. They hailed the *Aurelian Dawn* openly.
+  Persuasion with Lt **Abel Fross** failed (11): he wouldn't wake the Admiral, and called the officer of the watch instead: **Commander Voss**.
+  Sable recognised the name from copying the ledger: ***"Cmdr. Voss, for harbour soundings: 40 cr."*** **Crane's man on the flagship.**
+- Sable **exposed Voss** in front of the marines, holding up the page by lantern-light (Persuasion 14 vs Voss's Deception 11). The uproar woke
+  **Admiral Thessaly Grane**. She read the page and had **Voss confined to quarters** under guard. The party was brought to her stern cabin.
+- **Grane** (60s, peg leg, iron-grey braid, cannon voice): furious about Voss. She took the **ledger** into her keeping. But the Admiralty has ordered
+  her to stay out of civic affairs, and to declare **martial law** she needs proof of a threat to the city *and* the fleet "from someone who isn't a thief".
+  → **Ossian's tide charts.** If she gets them, she'll declare martial law on the eve of the spring tide, arrest Hesk (with Marta present),
+  and lend **marines** against Crane.
+- Sable told her about **Ossian's charts**. Grane agreed: bring the charts (or the priest himself) **within 3 days (by day 6)**. She gave Sable a
+  **brass bosun's whistle**: three blasts off the stern at night, and a ladder will be lowered.
+- Rowed back to St Ebb's before dawn.
+
+### Day 4: 6 days to the spring tide
+- **Ossian didn't come.** A Gutterwick kid who sells candles at the temple brought a scrawled note: *"Confined to the temple. The Tidewarden took my charts.
+  They're in her study. I'm so sorry. O."*
+- Pell's eyes: **guards at the Lantern Spire doubled overnight**, and Crane's carriage went to the Watch house at dawn. Crane seems to know something.
+- **Night: temple infiltration.** Sable and Tib, disguised as pilgrims (13/12), joined the night vigil, slipped up the east tower (Stealth 20/18),
+  and Tib picked the study door (16).
+- In **Vey's study**: Sable lifted the seal on **Vey's letter to Crane** (17) and resealed it perfectly. It says: Ossian's charts are confiscated;
+  she suspects the "purser" is Crane's thief; "**the Temple will say nothing to the faithful of what is coming**"; and she reminds Crane of his
+  **promise that the headland and temple will be spared when the waters rise**, in exchange for the Guild's gift for a new bell tower.
+  **Vey knows about the flood and is keeping quiet for money.**
+- Tib opened the chest on his second try (20). **Ossian's charts are inside.**
+- A note for Tamsin: Ossian is in the **penitent's cell, west cloister**. Bread and water, no visitors.
+- **Took the charts**, left the resealed letter in place. Sneaked to the west cloister (24/13). Tib got the cell lock on his second try,
+  and **Ossian was freed**. All three walked out through the vigil crowd unseen (17/25/13), with Ossian hooded.
+- Collected Marta at St Ebb's, rowed out, and blew the whistle three times. Fross lowered a ladder. **Ossian presented his charts to Admiral Grane.**
+  **She's convinced.** Plan: **martial law at dusk on day 9** (the eve of the spring tide). Marines take the Watch house and **arrest Hesk** (Marta present).
+  The fleet moves to deeper water.
+- Sable asked for **marines to raid the Spire vaults early** through the diggers' tunnel (Persuasion 25). Grane agreed: **Lt Fross and 6 marines,
+  out of uniform** ("If you're caught, I never heard of you"). She also gave **2 potions of healing**. Grane kept Ossian's charts as evidence.
+
+### Day 5: 5 days to the spring tide
+- Rested at St Ebb's. News: Vey reported Ossian as a **thief**, and Watch posters for him went up by noon.
+- **Night: the vault raid.** Fross and 6 marines came ashore in plain clothes. Team: Sable, Tib, Marta, Ossian, Needle (guide), Fross and 6 marines.
+  Pip stayed at St Ebb's with Pell and the Eye.
+- In the diggers' tunnel: a **fork** halfway up. One branch goes up to the vaults; the other is a steep shaft **down toward the drowned temple**, with faint humming below.
+- The advance team (Sable, Tib, Needle) crept to the **vault door** unseen (23/15/9). There are **four** voices behind it, playing cards. The guard has been doubled.
+- Sable played a panicked digger through the door ("water's coming up the lower shaft!"), keeping his face in shadow: Deception 26. **They opened up.**
+- **Combat in the guardroom!** The grey-coats are **surprised**. Initiative: Needle 21, Marta 18, Sable 17, Tib 15, Grey-coats 12, Fross & marines 11, Ossian 3.
+  - R1: Needle's crossbow rolled a nat 1 and missed. Marta dashed up from the back.
+    **Sable's rapier: NAT 20**, a crit for 15 on Harl. Tib's shortsword plus sneak attack hit for 16 (**Harl 1/32**). The marines and Ossian hurried up the tunnel.
+  - R2: Needle's crossbow hit for 8. **Harl is down.** Marta is still on her way.
+    Sable cast **Sleep** (19 HP): **one grey-coat fell asleep** (the tie-break went the wrong way, so the runner stayed awake). Tib dashed to **block the stairs**
+    and took 3 from the runner. Morrow (multiattack) hit Sable once for 7 (**Sable 14/21**).
+  - R3: Needle missed the runner. Marta arrived: one miss, then a **NAT 20** crit for 12 (**Morrow 20/32**).
+    Sable's rapier hit Morrow for 7 and he gave **Bardic Inspiration to Tib** (Tib hit without needing it and still holds the die). Tib hit the runner for 4.
+    The runner hit Tib for 6. Morrow missed Sable twice. **The marines arrived**: Fross hit Morrow twice, and a marine's crit dropped the runner.
+    Another marine finished Morrow. **The fight ended in 3 rounds, so no alarm upstairs.** The sleeping grey-coat was bound and gagged.
+- **XP:** 2 thugs (200) + 2 bandits (50) = **+250, so 550/900.**
+- Tib picked the cell lock (14). **Corrie and Sprat freed**: weak but alive. They told us:
+  - **Magister Orrin Thale** is Crane's hired wizard, and he's been practising the Litany for weeks. He's the one who'll sing the binding.
+  - The brass **"Lantern"** armature is to be **hauled up to the Spire's crown** before the tide. With the Eye set in it, its light shines down a shaft into the deep.
+  - Crane's backup plan: *"If the thief won't bring the Eye, the Choir will fetch it to the Mouth for us. Let them. We take it there."*
+- Thale was behind the iron-studded door, and he heard the fight. Sable talked him out (Persuasion 24): *"You're a hired man..."* **Thale surrendered.**
+  - He was hired from the northern academies for 2,000 gp. He wants **protection and passage out of the city**, and he's terrified of Crane.
+  - **How to break the Eye:** nothing can harm it *except* in the Mouth while the Litany is sung. Then it's "as brittle as old glass" for as long as the song lasts.
+  - **The Lantern's weak point:** a palm-sized **focusing crystal** at its heart. Swap it for a fake, and the Lantern looks fine but the binding fails at the tide.
+    Smashing it would warn Crane at once.
+  - Crane's backup singer is **Crane himself**, who has been learning the Litany phonetically, badly.
+- **The swap:** Thale ground a dummy crystal from spare lens-glass (12), and Sable seated it in the Lantern's claw without a trace (Sleight of Hand 24).
+  **The Lantern looks perfect. Sable has the real crystal.** (It only glows when the Litany is sung nearby.)
+- Left with **Thale**, **Corrie and Sprat**, and the bound grey-coat (no witnesses), back down the diggers' tunnel to the Gutterwick. **Nobody noticed.**
+- Fross took Thale and the prisoner out to the *Aurelian Dawn*. Grane will ship Thale north. Corrie and Sprat were reunited with Mother Pell.
+- **XP:** +100 (raid objectives: prisoners, Thale, sabotage) → **650/900**.
+
+### Day 6: 4 days to the spring tide
+- Slept until noon at St Ebb's: **long rest** (Tib's unused inspiration die expired, since it only lasts 10 minutes).
+- News: **Crane is raging.** He found the vault raid at dawn and blames the Gutterwick. Grey-coats and the Watch are **massing to raid the Sumps**.
+  Pell is preparing to move her people to the old water-gate warrens. St Ebb's won't be safe for long.
+- Pip is uneasy about **Hettie**, alone at her chandlery with the Watch watching it. **Pell returned the Eye to Sable.**
+- **Went to get Hettie**: through the Gutterwick drains to the fishing slips, then up Hettie's old smuggling tunnel from the boathouse into her cellar,
+  avoiding the Watchman outside her front door. Persuaded her to leave (26). She packed her pipe, her father's cutlass and the shop's takings.
+- Leaving through the tunnel at dusk, they heard **humming in the shop above**, and wet bare feet on the floorboards. **The Choir came for Hettie and found it empty.**
+  The Cantor's threat was real.
+- Night: collected Marta, Tib and Ossian from St Ebb's as the Gutterwick moved out. Pell lent a longboat. Rowed everyone (Sable, Pip, Hettie, Tib, Marta, Ossian)
+  out to the **Aurelian Dawn** with the Eye. Pale shapes were seen in the water far off, keeping their distance. No attack.
+- Admiral Grane gave them a cabin below decks, under marine guard. Thale had already been sent north on a cutter.
+
+### Day 7: 3 days to the spring tide
+- Morning: Needle rowed out with a message for Sable, left on the steps of the abandoned St Ebb's, wrapped in kelp:
+  *"The Eye for the old barkeep. At the Mouth, at the turning of the spring tide. Come alone, false brother."*
+  **The Choir has taken Old Fen**, the barkeep of the Leaky Bucket who covered their escape.
+- **Scouted the diggers' shaft** (Sable, Tib, Pip; the Eye left aboard with Marta). Needle guided them through the drains.
+  - Crane now has **2 grey-coats at the fork**. The party slipped past (24/15/7, 2 of 3). Sable spotted a **bell tripwire** 30 ft below the fork and stepped over it.
+  - Climbed down the 150-ft rope ladder (Pip slipped: 1 rope burn).
+  - At the bottom: a waist-deep **flooded gallery** of ancient carvings, running behind the Drowned Chapel. It ends at a narrow opening **behind the great carved face
+    above the Mouth**. **The face's empty eye socket is a window** looking out over the chapel, **directly above the Mouth**.
+  - Watched unseen (16): the **Cantor** and **6 acolytes** (including a bandaged **Gannet**). **Old Fen** is chained to the east pillar, where Tib was.
+    The gallery seems to connect to the chapel underwater as well.
+  - **Kept watch for an hour** (Perception 16, stayed hidden with 12):
+    - At dusk, **half the acolytes leave** through the dome to hunt the city, and return at dawn. Gannet waters Fen now and then.
+    - The water in the Mouth **rises and falls like breathing**. Every few minutes a deep **pulse** shakes the stone, each one stronger than the last.
+    - The Cantor **dove into the Mouth** and stayed down for minutes. When she came up, she told Gannet:
+      *"It turns in its sleep. Three more tides. When the false brother comes, take the Eye from him, then **give the barkeep to the Mouth**. It will wake hungry."*
+      And: *"Let the lantern-men dig. The Sleeper will drink them too."*
+    - **The exchange is a double-cross. Fen dies whatever happens.**
+  - **Kept watching into dusk** (Perception 19, Stealth 20):
+    - **3 acolytes left** up through the dome to hunt. That leaves **the Cantor, Gannet, 2 acolytes, and Fen**.
+    - The gallery connects to the chapel through a **flooded arch** at the base of the wall below the socket: about 30 ft down, a 15-ft swim.
+    - Fen's chain key is still on the **Cantor's belt**. After dusk the Cantor **sleeps** on a stone ledge by the Mouth, and Gannet keeps watch, dozing.
+    - **Old Fen has spotted the eye socket.** He glanced up once and is now carefully pretending he didn't.
+- Went back to the ship: climbed the ladder, slipped past the fork guards (16/23/15), and Needle rowed them out. No trouble.
+- **Night of day 7: council of war** aboard the *Aurelian Dawn* with the whole team. **Plan A, "The Decoy", chosen:**
+  1. Dusk on day 9 (the eve of the tide): Grane declares martial law.
+  2. Marta, Fross and the marines go down the diggers' shaft and **hold the gallery** against Crane.
+  3. Sable, Ossian, Hettie and Pip take the **eye socket**, and Hettie rigs a rope.
+  4. **Tib, disguised as Sable**, walks in through Pier Nine at low tide with a **fake box**.
+  5. Ossian sings the **Litany** from the socket, holding the crystal.
+  6. Sable drops down the rope with the real Eye and **strikes it** in the Mouth.
+  7. Pip swims the flooded arch and frees **Fen**.
+  8. The Gutterwick makes noise at Pier Nine and harasses the Choir's hunters.
+
+### Days 8-9: preparations
+- **Fake reliquary**: made with the ship's armourer (16). It passes at a distance in green light.
+- **Ossian rehearsed with the focusing crystal**: it **blazed** when he sang, the real Eye answered from across the ship, and the sea around the hull **dropped
+  several inches**. Grane was not amused. Ossian is now sure the crystal makes the song stronger.
+- Tib taught **Pip** the basics of lock-picking with his spare picks.
+- Hettie prepared rope, pitons and a quick-release harness. The ship's armourer gave Sable a **short iron maul**, "for hitting things that need hitting".
+- **Dusk, day 9: MARTIAL LAW.** Grane's marines, in full colours, took the Watch house. **Captain Hesk was dragged out in chains**, and **Sergeant Dunmore** too.
+  **Marta was there.** She looked Hesk in the eye, said nothing at all, and walked away.
+
+### Day 10: THE SPRING TIDE (the turning at midnight)
+- Dawn: the sea is throbbing like a heartbeat and going out hours early.
+- Sable told Grane about **Vey's letter**. Marines searched the temple and found **Crane's replies** in her study.
+  **High Tidewarden Vey arrested.** Grane ordered the Temple of the Tides **opened to anyone from the lower city** tonight.
+- Afternoon: Sable disguised **Tib as Sable** (24, so DC 24 to see through it). Tib carries the **fake reliquary**.
+
+### THE FINALE
+- ~10:30pm: the marines (in imperial colours) took the surrender of the 2 grey-coats at the fork. Everyone went down the shaft
+  (Hettie slipped on a nat 1 and took 1 rope burn). **Marta and the marines held the gallery.** Sable, Ossian, Hettie and Pip reached the **eye socket**, and Hettie rigged the line (20).
+- ~11:20pm: the Gutterwick set boats burning on the mudflats outside Pier Nine. **Tib, wearing Sable's face, walked into the Drowned Chapel** with the fake box.
+  **Tib's Deception: NAT 20 vs the Cantor's Insight: NAT 1.** She's utterly convinced. At Tib's demand she **unchained Fen** as "good faith", and Gannet
+  is holding him at the lip of the Mouth for the exchange. (The Choir can feel the real Eye overhead and thinks it's Tib's.)
+- ~11:30pm: **Crane and 6 grey-coats** came down the shaft to ambush the exchange, and **hit Marta's line**. **The line held** (23 vs 13). The grey-coats broke.
+  Crane fled back up the rope ladder with Fross in pursuit, and the chase is undecided (a tie).
+- 11:41pm: Sable gave **Ossian Bardic Inspiration**.
+- **11:42pm: Ossian began the Litany.** The crystal blazed from the eye socket like a lighthouse. **Initiative:** Fen 20, Hettie 16, Gannet 16, Pip 15, Cantor 13,
+  Sable 10, Acolytes 10, Tib 8, Ossian 3.
+  - R1: **Fen bit Gannet and broke free** (8 vs 6), but Gannet grabbed him again (6 vs 4), about 10 ft from the Mouth. Hettie lowered a second, weighted rope.
+    Pip dived into the flooded arch. **The Cantor cast Hold Person on Ossian. He SAVED** (12 vs DC 11) and kept singing.
+    **Sable cast Sleep** (25): **2 acolytes asleep** by the arch. Of the rest, 3 dived into the arch toward the socket (**Pip slipped past them on a nat 20**), 3 attacked Tib
+    (one hit for 4, so **Tib 14/27**), and 2 guarded the Mouth. **Tib** disengaged and threw his knife at Gannet with sneak attack for 11. **GANNET DOWN. Fen freed.**
+  - R2: Fen grabbed Hettie's weighted lifeline, and Hettie started hauling him up. Pip surfaced beside him.
+    **The Cantor's second Hold Person on Ossian: SAVED again** (12). The song goes on. The 3 acolytes in the arch will reach the socket on their turn.
+    Sable **readied Sleep** for when the acolytes surfaced, and rolled **27: ALL THREE asleep** in the gallery. Tib took 9 from three attacks (**Tib 5/27**), and his two
+    shortsword hits left one acolyte at 3 HP.
+  - R3: Hettie is hauling Fen up (he reaches the socket next round). Pip's rock missed. **The Cantor cast COMMAND ("SILENCE!") on Ossian.** He failed (9, and the inspiration die
+    rolled a 1, so 10 vs DC 11). **On his next turn Ossian must fall silent, and the Litany will break.** It will have to be restarted.
+    Sable cast **Healing Word on Tib** (+9, last slot) and **Vicious Mockery** on the Cantor, but she rolled a nat 20 on the save. Tib took 5 (**Tib 9/27**) and missed twice.
+    **Ossian fell silent, and the Litany broke.**
+  - R4: **Fen reached the socket**, so Hettie's hands are free. Pip's rock missed. **The Cantor Commanded "SILENCE!" again**, and Ossian failed (8). **He'll be silent again this round.**
+    Sable sent **Hettie after the Cantor**, gave **Tib Bardic Inspiration**, and Mocked the wounded acolyte (1 HP left). Tib took 3 (**Tib 6/27**) and **killed an acolyte**.
+    Ossian was silent.
+  - R5: Fen took a spear and guarded the gallery. **Hettie rappelled down** but landed hard (6 damage), and her cutlass missed the Cantor. **Pip's rock killed the wounded acolyte.**
+    **The Cantor Commanded "SILENCE!" a THIRD time.** Ossian failed (7) and is silenced again. *(She must be running low on magic.)*
+    **Sable rappelled onto the lip of the Mouth** (14) and his rapier hit the Cantor for 5. The two guards missed Sable and Hettie. **Tib, on a NAT 20, killed the last acolyte on him.**
+    Ossian was silent.
+  - R6: Hettie's cutlass hit the Cantor for 7 (**Cantor 21/33**). Pip's rock was a nat 1. **The Cantor cast Inflict Wounds on Sable and rolled a NAT 1: a miss.**
+    Sable gave **Hettie Bardic Inspiration**, and his rapier missed the Cantor. A guard speared Sable for 6 (**Sable 15/21**). Tib dashed toward the Mouth.
+    **Ossian RESTARTED the Litany.**
+  - R7: Hettie hit the Cantor for 6 (**Cantor 15/33**). Pip's rock hit a guard (5/9). **The Cantor's LAST spell: Command "SILENCE!" on Ossian. HE SAVED (15)!**
+    **The Litany goes on, and the Cantor is out of magic.**
+    **Sable OPENED THE RELIQUARY** ("vael thessa morun") and pressed the Eye into the Mouth's stone teeth. (His Bardic Inspiration went to **Ossian**, since Tib already had one.)
+    A guard tried to wrest it away and failed (13 vs 19). Another speared Sable for 3 (**Sable 12/21**). **Tib** used his inspiration die to turn a miss into a hit: **guard A killed.**
+  - R8: **THE MOUTH SURGED.** **Sable was dragged over the lip**, but Hettie's line held. **The Cantor was dragged in too**, with no tether. Hettie hauled Sable back up (13).
+    **The Cantor, in the throat, WRENCHED THE EYE FROM SABLE'S HAND** (11 vs 8). She's just below the lip, about to dive into the deep with it.
+    **Sable struck at the Eye in her hand with the maul: 8, a MISS.** He gave **his last Bardic Inspiration to Tib**...
+    **...and TIB, WEARING SABLE'S FACE, STRUCK THE EYE: 22. THE EYE OF THE SLEEPER IS SHATTERED.**
+- The **focusing crystal took up the song** by itself, carrying the Litany to its end. **The Mouth began to close**, the chapel began to flood, and
+  **the barnacles fell away** from every acolyte. The Cantor is drowning in the closing throat.
+- **Escape:** Sable put his people first. Tib took Pip toward the kelp ladder, and Pip woke the 2 sleepers by the arch on the way. Fen and Ossian woke the 3 in the gallery.
+  - R1: Hettie's climb failed (7). Sable tried to haul the drowning Cantor out and failed (8).
+  - R2: Hettie helped (advantage), but Sable failed again (11). Tib reached the kelp ladder. **Pip slipped back into the water** (6). The Mouth is nearly shut.
+  - R3: **LAST TRY: Sable hauled the Cantor out of the closing Mouth** (13 exactly, with advantage). **She's alive**, and fully human again. Tib hauled Pip up the ladder (10).
+  - R4: Sable tied the Cantor to his line. Hettie's climb failed (8), and so did Sable's (4).
+  - R5: **Fen and the three freed fishermen came back to the socket and HAULED THE LINE** (18). Sable, Hettie and the Cantor were pulled up as the dome cracked and the chapel flooded.
+- **EVERYONE GOT OUT.** Sable, Hettie, the Cantor, Ossian, Fen and the 3 fishermen went up the diggers' shaft. Tib, Pip and the other freed acolytes went up through the dome
+  onto the Pier Nine mudflats, where the Gutterwick's boats were waiting.
+- **Fross caught Crane** (24 vs 10) in his own wine vaults, trying to flee up into the Spire. **Ottavio Crane was arrested** by imperial marines.
+- **MIDNIGHT, THE TURNING:** the sea came back **gently**, a normal tide, lapping at the piers. **No flood. Saltmarrow is saved.** The Drowned Chapel is gone, sealed under the mud.
+- **XP:** the Cantor overcome (450), Gannet (25), 4 acolytes killed (100), 5 put to sleep and overcome (125), the last guard (25), and destroying the Eye (300) = **+1,025 → 1,675. LEVEL 3!**
+
+**XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
+
+## NPCs
+- **Tobias "Tib" Quill**: Sable's partner. Human, quick hands, quicker mouth. Rescued. Hiding something about the Drowned Lamb.
+- **Brother Gannet**: the barnacled door guard. Devout, gullible, weepy. Escorting Sable and Tib.
+- **Ottavio Crane**: merchant prince, head of the Lantern Guild. Charming and polite, with a hammer in his desk drawer. His house is full of clocks.
+- **Mags Corrow**: foreman at Old Wendle's rope-walk. Loud, red-faced, overworked. Believes Sable is insurance assessor Penhallow.
+- **Captain Hesk**: ex-Captain of the Watch. **Arrested** under martial law on day 9.
+- **Marta Kell**: ex-Watch sergeant, honest, framed and sacked by Hesk. Bitter and sharp. **Ally** (her price: to be there when Hesk falls).
+- **Sergeant Dunmore**: Marta's old partner. Paid 30 cr. to testify against her (it's in the ledger).
+- **Lt Abel Fross**: young marine officer on the *Aurelian Dawn*. By the book. Leading 6 marines (out of uniform) for Sable's raid.
+- **Commander Voss**: the fleet's purser. **In Crane's ledger.** Exposed and confined to quarters.
+- **Admiral Thessaly Grane**: commands the imperial fleet from the *Aurelian Dawn*. Peg leg, iron will. Holding the ledger. Needs proof of the threat.
+- **Mother Pell**: head of the Gutterwick. Huge, elderly half-orc woman, always knitting, on a pulpit throne. Knows Pip.
+- **Needle**: one-armed tiefling, a Gutterwick lookout leader. Dry and careful.
+- **Corrie and Sprat**: Gutterwick thieves, rescued from Crane's vaults.
+- **Magister Orrin Thale**: Crane's ex-wizard. Surrendered; being shipped north by Grane. Knows how to break the Eye.
+- **Doctor Mirren Thale**: glaciologist, Orrin's sister. Sharp, blunt, tired, and not subtle. Ally.
+- **Lady Seraphine Ashgrove**: the Lantern Guild's envoy in Vessmouth (not yet met).
+- **Provost Hollis Varne**: head of the Academy. Buried Mirren's reports.
+- **Ragna Ironhand**: the icecutters' foreman. Ally (trusts Mirren, and now Sable).
+- **Mor Ylva**: Ragna's grandmother, about 90. Knows the Rime Litany as a lullaby.
+- **Captain Dask**: mercenary running the Guild's ice camp (not yet met).
+- **Inky Mabb**: ancient gnome forger in the Gutterwick. Has forged the Emperor's seal. Saw through Sable's copy.
+- **Old Fen**: barkeep of the Leaky Bucket. Covered their escape. **Taken hostage by the Choir.**
+- **Brother Ossian**: **Keeper of the Tides**. Has the focusing crystal. Friend.
+- **High Tidewarden Cassia Vey**: colluded with Crane over the flood. **Arrested** under martial law on day 10.
+- **Brother Tamsin**: older priest, sour, Vey's yes-man.
+- **Ilse** (formerly the Cantor): human again. Spared at trial thanks to Sable. Serving the temple under Ossian.
+- **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.
+- **Old Hettie Brask**: dwarf chandler, gruff, hates the Lantern Guild. A firm friend. **Rescued just before the Choir came for her.**
+- **Grey-coats**: Lantern Guild enforcers with brass lantern pins. Two of them were searching the Drowned Lamb.
+
+- **The Choir**: street name for the crusted, humming people who come out of the drains.
+
+## Locations
+- **The Drowned Lamb**: a dockside tavern in the Saltreach district. Sable's bolt-hole and the meeting spot.
+- **Fish market drain grate**: where the humming man came up from.
+- **Gull Canal**: where the empty carriage was found.
+- **The *Indomitable***: a beached, rotting imperial warship in the breakers' yard. Pip's secret hideout.
+- **Old Wendle's rope-walk**: Tallow Street. A long rope-making shed; the ledger is hidden in the boiling-house chimney.
+- **The storm drains**: under the city. Downstream leads to the Sumps (Gutterwick); upstream to the fish market (Choir).
+- **The Cold House** (Vessmouth): Mirren's glaciology tower at the top of the Academy. The party's base.
+- **The Hvitfell Glacier**: above Vessmouth. The Guild's ice-cutting camp is on its face.
+- **Drowned Chapel of St Ebb**: in the Sumps. A flooded chapel, and the Gutterwick's headquarters. Mother Pell's pulpit throne.
+- **The Lantern Spire**: where Crane plans the binding.
+- **The Leaky Bucket**: a half-sunk cellar tavern on Netmakers' Row. Drips everywhere. Marta Kell's haunt.
+- **Temple of the Tides**: on the headland. Its floor is a great tidal pool, with tide-bells in the arches.
+- **Brask's Chandlery**: at the end of the Drowned Lamb's alley. Has a cellar smuggling tunnel to the fishing slips.
+- **Pier Nine**: a half-wrecked pier at the far end of the harbour. Midnight meeting.
+- **The drowned dome / Drowned Chapel**: an ancient temple under Pier Nine, the Choir's lair, with the Mouth at its centre.
+- **The flooded gallery**: at the bottom of the diggers' shaft. It ends behind the carved face above the Mouth, and the empty eye socket is a window.
+- **The Lantern Quarter**: the guild district, rich and well-lit. Scene of the botched job.
+
+## Quests / threads
+- [x] ~~Find out what happened to Tib.~~ Rescued from the Drowned Chapel.
+- [x] ~~What is Tib hiding?~~ He gave up the Lamb under threat. Forgiven.
+- [x] ~~Retrieve the ledger.~~ Got it... then lost it to Mother Pell.
+- [x] ~~**Rescue Pell's six missing children**~~ Done. Got the original ledger back and learned about the diggers' tunnel.
+- [x] ~~**Raid the Spire vaults**~~ Corrie and Sprat rescued, Thale taken, Lantern secretly sabotaged.
+- [x] ~~**END THE SLEEPER.**~~ **The Eye is shattered. The Sleeper sleeps for ever.**
+- [x] ~~Get the ledger to Admiral Grane.~~ Done. Voss confined.
+- [ ] Bring **Ossian and his charts** to Grane **by day 6**. ✅ Both now in hand!
+- [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
+- [x] ~~Hesk falls~~ Arrested under martial law on day 9, with Marta there.
+- [x] ~~Crane's binding~~ Sabotaged. **Crane arrested.**
+- [x] ~~The Choir's threat against Hettie~~ Foiled.
+- [x] ~~Rescue Old Fen~~ Saved.
+- [x] ~~Return Hettie's lantern.~~
+- [ ] Sable owes Pip **two favours**.
+- [ ] The Choir knows a "brother" stole the Eye. The Guild has a 50 gp bounty on Sable.
+- [ ] Find out what's in the reliquary, and who wants it.
+
+## Loot & gold
+- 7 gp, 6 sp
+- Brass reliquary (locked)
+- ~~Crane's ledger~~ given to **Admiral Grane**
+
+
+## EPILOGUE: the morning after
+- **Admiral Grane**: Crane, Hesk, Voss and Vey were shipped to the capital in chains. Sable and Tib got an **imperial pardon** (the bounty is void) and **250 gp** in prize money.
+  Grane offered an Admiralty commission as an imperial intelligencer. **Sable DECLINED.** (She said the door stays open.)
+- **Marta**: made **Captain of the Watch**, to rebuild it honestly. Friend for life.
+- **Ossian**: named **Keeper of the Tides**. **Sable gave him the focusing crystal.**
+- **Ilse** (the former Cantor, a fishwife from the north quay): **Sable spoke for her at her trial. DOUBLE NAT 20 (27).** She was spared, and sentenced to serve
+  the Temple of the Tides under Ossian.
+- **Hettie**: back in her shop. Sable paid **10 gp** for her window.
+- **Mother Pell**: gave Sable a **mustard-yellow Gutterwick scarf**: any Gutterwick member will help him.
+- **Old Fen**: free drinks for life at the Leaky Bucket (never the good stuff).
+- **Pip**: favour #1: *"Teach me. The faces, the voices, all of it."* **Sable said yes.** Favour #2 is still held.
+- **Sable reached level 3: College of Whispers.** Expertise in Deception and Persuasion. HP 30.
+- **Tib's idea**: he lifted a letter from Crane's coat during the arrest. It's from the **Lantern Guild's Grand Council in the capital**:
+  *"The Saltmarrow venture is only the first, Ottavio. **The Vessmouth Eye is located.** Proceed."* There are other Eyes, and the Guild is behind it.
+  Tib's pitch: **Vessmouth**, as free agents.
+
+- Sable learned **Suggestion**.
+- **Sable said YES to Tib: next stop, VESSMOUTH.** Pip is coming too, for her lessons. Sable shook on it with Tib, fox drawing and all.
+
+# 🎭 END OF THE FIRST ADVENTURE: "The Drowned Eye of Saltmarrow"
+
+---
+
+# ADVENTURE 2: Vessmouth
+- Hook: the Lantern Guild's Grand Council letter: *"The Vessmouth Eye is located. Proceed."*
+- Vessmouth: a northern city, home of the Academy where Magister Thale taught.
+- New DM secrets will go in `dm-secrets-vessmouth.md` (don't read it!). `dm-secrets.md` is now safe to read.
+
+## Session log: Vessmouth
+### Day 1
+- Three weeks' sail north on a merchant brig: Sable, Tib, Pip (Moss stayed in Saltmarrow with Mother Pell). It's late autumn, with the first snows.
+- Arrived at **Vessmouth**, a cold port and university town at the head of a fjord, under the vast **Hvitfell Glacier**. Ice floes in the harbour.
+- At the dock: a **Lantern Guild clerk** checking arrivals for "half-elves" and "red scarves"; a fine **black carriage** with someone watching; and a scholar
+  holding a sign: "HALF-ELF + FRIENDS (SALTMARROW)?". She looks a lot like Thale.
+- Tib hid his red scarf. **Pip** slipped down the gangplank past the clerk (20 vs 9), lured the scholar away with a story about her stove being on fire, and brought her
+  round to the brig's stern ladder.
+- **Doctor Mirren Thale**, Orrin Thale's younger sister and a glaciologist at the Academy. Orrin wrote to her: *"A half-elf and his friends saved Saltmarrow. If they come north, trust them."*
+  What she told them:
+  - **The Hvitfell Glacier is moving three times faster** than it should, and getting faster. Her reports to the Academy were buried by **Provost Hollis Varne**.
+  - The **Lantern Guild** has hired the icecutters to dig a cavern deep into the glacier face. They've found "something" frozen inside, and no one is allowed near.
+  - The Guild's envoy is **Lady Seraphine Ashgrove**, who arrived two weeks ago. (That was probably her in the carriage.)
+  - A Guild ice-ship, the ***Gilded Lantern***, is expected in about **8 days**.
+  - The icecutters' grandmothers have an old tale of "**Old Grandmother**" sleeping in the ice.
+- Told Mirren everything about Saltmarrow. Her conclusions:
+  - The thing in the ice is **stirring and melting the glacier from within**. There's a **meltwater lake trapped inside the ice**, growing all year.
+  - If it wakes (for example, if the Eye is cut out), the ice dam breaks: a **jökulhlaup** (glacier-burst) that would wipe out Vessmouth.
+  - The Academy's sealed **Northern Codices** hold a "**Rime Litany**", a northern version of Saint Aurel's Litany. They're in **Provost Varne's sealed vault**.
+  - **Sable would have to sing it.**
+- Smuggled off the brig in the noon **herring cart** (22/7/19; Tib sneezed, but nobody cared) up to the Academy. Now staying in **Mirren's glaciology tower**
+  (the "Cold House"), at the top of the Academy, overlooking the glacier.
+- **Evening: the Chilblain**, the icecutters' longhall at the foot of the glacier path. Sable spotted an **off-duty Guild guard (Bram)** drinking in the corner.
+- Met **Ragna Ironhand**, the icecutters' foreman (huge, quiet, missing a finger). With Mirren vouching, Sable told her the truth (Persuasion 23). She opened up:
+  - At the back of the cavern there's a **wall of clear blue ice**, and in it a **huge pale eye, "the size of my head"**, that **moves**. Behind it, in the dark ice, is a shape "bigger than the Academy".
+  - The Guild has them cutting around the Eye, and they're **3 to 4 days from freeing it**. **Captain Dask** runs the camp, and **Lady Seraphine** visits daily.
+  - Two cutters went **ice-mad**. Young **Eirik** walked into the cavern at night and was found frozen solid, staring at the Eye.
+  - She took the Guild's money because the ice trade is dying and her people were hungry. She's ashamed.
+  - **Her grandmother, Mor Ylva** (about 90), sings an old lullaby "to keep Old Grandmother sleeping". **It's the Rime Litany.**
+  - Ragna offered: her crew can **slow the cutting** (buying about 2 days, though the Guild may notice), or she can get Sable into the cavern **disguised as a cutter**.
