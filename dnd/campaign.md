@@ -408,6 +408,8 @@ the tide has been coming in wrong.
 - **The *Indomitable***: a beached, rotting imperial warship in the breakers' yard. Pip's secret hideout.
 - **Old Wendle's rope-walk**: Tallow Street. A long rope-making shed; the ledger is hidden in the boiling-house chimney.
 - **The storm drains**: under the city. Downstream leads to the Sumps (Gutterwick); upstream to the fish market (Choir).
+- **The Cold House** (Vessmouth): Mirren's glaciology tower at the top of the Academy. The party's base.
+- **The Hvitfell Glacier**: above Vessmouth. The Guild's ice-cutting camp is on its face.
 - **Drowned Chapel of St Ebb**: in the Sumps. A flooded chapel, and the Gutterwick's headquarters. Mother Pell's pulpit throne.
 - **The Lantern Spire**: where Crane plans the binding.
 - **The Leaky Bucket**: a half-sunk cellar tavern on Netmakers' Row. Drips everywhere. Marta Kell's haunt.
@@ -486,3 +488,10 @@ the tide has been coming in wrong.
   - The Guild's envoy is **Lady Seraphine Ashgrove**, who arrived two weeks ago. (That was probably her in the carriage.)
   - A Guild ice-ship, the ***Gilded Lantern***, is expected in about **8 days**.
   - The icecutters' grandmothers have an old tale of "**Old Grandmother**" sleeping in the ice.
+- Told Mirren everything about Saltmarrow. Her conclusions:
+  - The thing in the ice is **stirring and melting the glacier from within**. There's a **meltwater lake trapped inside the ice**, growing all year.
+  - If it wakes (for example, if the Eye is cut out), the ice dam breaks: a **jökulhlaup** (glacier-burst) that would wipe out Vessmouth.
+  - The Academy's sealed **Northern Codices** hold a "**Rime Litany**", a northern version of Saint Aurel's Litany. They're in **Provost Varne's sealed vault**.
+  - **Sable would have to sing it.**
+- Smuggled off the brig in the noon **herring cart** (22/7/19; Tib sneezed, but nobody cared) up to the Academy. Now staying in **Mirren's glaciology tower**
+  (the "Cold House"), at the top of the Academy, overlooking the glacier.
