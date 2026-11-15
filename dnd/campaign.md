@@ -288,6 +288,8 @@ the tide has been coming in wrong.
     - The gallery connects to the chapel through a **flooded arch** at the base of the wall below the socket: about 30 ft down, a 15-ft swim.
     - Fen's chain key is still on the **Cantor's belt**. After dusk the Cantor **sleeps** on a stone ledge by the Mouth, and Gannet keeps watch, dozing.
     - **Old Fen has spotted the eye socket.** He glanced up once and is now carefully pretending he didn't.
+- Went back to the ship: climbed the ladder, slipped past the fork guards (16/23/15), and Needle rowed them out. No trouble.
+- **Night of day 7: council of war** aboard the *Aurelian Dawn* with the whole team.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
