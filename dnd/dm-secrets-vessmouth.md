@@ -45,3 +45,16 @@ _Written before the adventure begins, so the plot stays fixed._
 
 ## Results log
 - Day 1: Pip got past the clerk (20 vs 9). Pip's lure of Mirren (18) beat Seraphine's Insight (13, with disadvantage), so **Seraphine doesn't suspect Mirren**, yet. She saw only a scholar hurrying home.
+
+## The icecutters (set before the scene, day 1 evening)
+- They drink at **the Chilblain**, a smoky longhall at the foot of the glacier path. About 30 cutters after the shift. There's one **off-duty Guild guard**, Bram,
+  drinking in the corner (passive Perception 11). Sable's passive 14 notices him (DC 12).
+- **Ragna Ironhand**: a huge woman of about 50, quiet, missing her left little finger (frostbite). She trusts Mirren (Mirren set her son's leg last winter).
+  Persuasion DC 15 to get her to talk frankly; advantage if Mirren vouches.
+- What Ragna knows: in the back of the cavern is a **wall of clear blue ice**, and in it a **huge pale eye** "the size of my head" stares out. It moves. Behind it, in the dark ice, is a shape
+  "bigger than the Academy". The Guild has them cutting around the Eye, **3 to 4 days from freeing it** (day 5 or 6). Captain **Dask** runs the camp, and Lady Seraphine visits daily.
+  Two cutters went **ice-mad** (dreams of cold fire). One, young **Eirik**, walked into the cavern at night and was found frozen solid, staring at the Eye.
+  Ragna took the Guild's money because the ice trade is dying and her people were hungry. She's ashamed.
+- **Her grandmother, Mor Ylva**, about 90, **knows the Rime Litany by heart** (sung to children as a lullaby to "keep Old Grandmother sleeping").
+  She'll only teach it to someone who sings for her first (Performance DC 13 to win her over) and swears to use it to put Old Grandmother to rest, not to wake or bind her.
+- What Ragna can offer: a **slowdown** of the cutting (it buys 2 days if her crew drag their feet, but the Guild may notice), or getting Sable into the cavern **disguised as a cutter**.

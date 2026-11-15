@@ -389,6 +389,9 @@ the tide has been coming in wrong.
 - **Doctor Mirren Thale**: glaciologist, Orrin's sister. Sharp, blunt, tired, and not subtle. Ally.
 - **Lady Seraphine Ashgrove**: the Lantern Guild's envoy in Vessmouth (not yet met).
 - **Provost Hollis Varne**: head of the Academy. Buried Mirren's reports.
+- **Ragna Ironhand**: the icecutters' foreman. Ally (trusts Mirren, and now Sable).
+- **Mor Ylva**: Ragna's grandmother, about 90. Knows the Rime Litany as a lullaby.
+- **Captain Dask**: mercenary running the Guild's ice camp (not yet met).
 - **Inky Mabb**: ancient gnome forger in the Gutterwick. Has forged the Emperor's seal. Saw through Sable's copy.
 - **Old Fen**: barkeep of the Leaky Bucket. Covered their escape. **Taken hostage by the Choir.**
 - **Brother Ossian**: **Keeper of the Tides**. Has the focusing crystal. Friend.
@@ -495,3 +498,11 @@ the tide has been coming in wrong.
   - **Sable would have to sing it.**
 - Smuggled off the brig in the noon **herring cart** (22/7/19; Tib sneezed, but nobody cared) up to the Academy. Now staying in **Mirren's glaciology tower**
   (the "Cold House"), at the top of the Academy, overlooking the glacier.
+- **Evening: the Chilblain**, the icecutters' longhall at the foot of the glacier path. Sable spotted an **off-duty Guild guard (Bram)** drinking in the corner.
+- Met **Ragna Ironhand**, the icecutters' foreman (huge, quiet, missing a finger). With Mirren vouching, Sable told her the truth (Persuasion 23). She opened up:
+  - At the back of the cavern there's a **wall of clear blue ice**, and in it a **huge pale eye, "the size of my head"**, that **moves**. Behind it, in the dark ice, is a shape "bigger than the Academy".
+  - The Guild has them cutting around the Eye, and they're **3 to 4 days from freeing it**. **Captain Dask** runs the camp, and **Lady Seraphine** visits daily.
+  - Two cutters went **ice-mad**. Young **Eirik** walked into the cavern at night and was found frozen solid, staring at the Eye.
+  - She took the Guild's money because the ice trade is dying and her people were hungry. She's ashamed.
+  - **Her grandmother, Mor Ylva** (about 90), sings an old lullaby "to keep Old Grandmother sleeping". **It's the Rime Litany.**
+  - Ragna offered: her crew can **slow the cutting** (buying about 2 days, though the Guild may notice), or she can get Sable into the cavern **disguised as a cutter**.
