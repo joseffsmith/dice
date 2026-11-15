@@ -7,7 +7,7 @@ _"Sable" is a working name. Nobody in Saltmarrow knows the real one._
 ## Core
 | AC | HP | Hit Dice | Speed | Initiative | Proficiency |
 |---|---|---|---|---|---|
-| 15 (leather) | **21 / 21** | 2d8 (2/2) | 30 ft | +5 (incl. Jack of All Trades) | +2 |
+| 15 (leather) | **15 / 21** | 2d8 (2/2) | 30 ft | +5 (incl. Jack of All Trades) | +2 |
 
 Passive Perception **14** · Darkvision 60 ft
 
@@ -55,7 +55,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - **1st level (known):** Disguise Self, Charm Person, Healing Word, Sleep, **Silent Image**
 
 ## Features
-- **Bardic Inspiration (d6):** 3 / 5 per long rest. (Tib is holding one.) As a bonus action, an ally within 60 ft gains a d6 to add to one ability check, attack roll or saving throw.
+- **Bardic Inspiration (d6):** 2 / 5 per long rest. (Tib and Hettie are each holding one.) As a bonus action, an ally within 60 ft gains a d6 to add to one ability check, attack roll or saving throw.
 - **Jack of All Trades:** Add +1 to any ability check you're not proficient in (including initiative).
 - **Song of Rest (d6):** During a short rest, you and allies who spend Hit Dice regain an extra 1d6 HP.
 - **Fey Ancestry:** Advantage on saves against being charmed; magic can't put you to sleep.

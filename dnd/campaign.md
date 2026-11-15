@@ -345,6 +345,10 @@ the tide has been coming in wrong.
     **Sable rappelled onto the lip of the Mouth** (14) and his rapier hit the Cantor for 5. The two guards missed Sable and Hettie. **Tib, on a NAT 20, killed the last acolyte on him.**
     Ossian was silent.
   - R6: Hettie's cutlass hit the Cantor for 7 (**Cantor 21/33**). Pip's rock was a nat 1. **The Cantor cast Inflict Wounds on Sable and rolled a NAT 1: a miss.**
+    Sable gave **Hettie Bardic Inspiration**, and his rapier missed the Cantor. A guard speared Sable for 6 (**Sable 15/21**). Tib dashed toward the Mouth.
+    **Ossian RESTARTED the Litany.**
+  - R7: Hettie hit the Cantor for 6 (**Cantor 15/33**). Pip's rock hit a guard (5/9). **The Cantor's LAST spell: Command "SILENCE!" on Ossian. HE SAVED (15)!**
+    **The Litany goes on, and the Cantor is out of magic.**
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
