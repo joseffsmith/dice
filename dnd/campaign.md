@@ -289,7 +289,24 @@ the tide has been coming in wrong.
     - Fen's chain key is still on the **Cantor's belt**. After dusk the Cantor **sleeps** on a stone ledge by the Mouth, and Gannet keeps watch, dozing.
     - **Old Fen has spotted the eye socket.** He glanced up once and is now carefully pretending he didn't.
 - Went back to the ship: climbed the ladder, slipped past the fork guards (16/23/15), and Needle rowed them out. No trouble.
-- **Night of day 7: council of war** aboard the *Aurelian Dawn* with the whole team.
+- **Night of day 7: council of war** aboard the *Aurelian Dawn* with the whole team. **Plan A, "The Decoy", chosen:**
+  1. Dusk on day 10: Grane declares martial law.
+  2. Marta, Fross and the marines go down the diggers' shaft and **hold the gallery** against Crane.
+  3. Sable, Ossian, Hettie and Pip take the **eye socket**, and Hettie rigs a rope.
+  4. **Tib, disguised as Sable**, walks in through Pier Nine at low tide with a **fake box**.
+  5. Ossian sings the **Litany** from the socket, holding the crystal.
+  6. Sable drops down the rope with the real Eye and **strikes it** in the Mouth.
+  7. Pip swims the flooded arch and frees **Fen**.
+  8. The Gutterwick makes noise at Pier Nine and harasses the Choir's hunters.
+
+### Days 8-9: preparations
+- **Fake reliquary**: made with the ship's armourer (16). It passes at a distance in green light.
+- **Ossian rehearsed with the focusing crystal**: it **blazed** when he sang, the real Eye answered from across the ship, and the sea around the hull **dropped
+  several inches**. Grane was not amused. Ossian is now sure the crystal makes the song stronger.
+- Tib taught **Pip** the basics of lock-picking with his spare picks.
+- Hettie prepared rope, pitons and a quick-release harness. The ship's armourer gave Sable a **short iron maul**, "for hitting things that need hitting".
+- **Dusk, day 9: MARTIAL LAW.** Grane's marines, in full colours, took the Watch house. **Captain Hesk was dragged out in chains**, and **Sergeant Dunmore** too.
+  **Marta was there.** She looked Hesk in the eye, said nothing at all, and walked away.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
@@ -298,7 +315,7 @@ the tide has been coming in wrong.
 - **Brother Gannet**: the barnacled door guard. Devout, gullible, weepy. Escorting Sable and Tib.
 - **Ottavio Crane**: merchant prince, head of the Lantern Guild. Charming and polite, with a hammer in his desk drawer. His house is full of clocks.
 - **Mags Corrow**: foreman at Old Wendle's rope-walk. Loud, red-faced, overworked. Believes Sable is insurance assessor Penhallow.
-- **Captain Hesk**: City Watch captain. On Crane's payroll (according to the ledger).
+- **Captain Hesk**: ex-Captain of the Watch. **Arrested** under martial law on day 9.
 - **Marta Kell**: ex-Watch sergeant, honest, framed and sacked by Hesk. Bitter and sharp. **Ally** (her price: to be there when Hesk falls).
 - **Sergeant Dunmore**: Marta's old partner. Paid 30 cr. to testify against her (it's in the ledger).
 - **Lt Abel Fross**: young marine officer on the *Aurelian Dawn*. By the book. Leading 6 marines (out of uniform) for Sable's raid.
@@ -347,6 +364,7 @@ the tide has been coming in wrong.
 - [x] ~~Get the ledger to Admiral Grane.~~ Done. Voss confined.
 - [ ] Bring **Ossian and his charts** to Grane **by day 6**. ✅ Both now in hand!
 - [ ] A way to destroy the Eye: break it inside the Mouth while the full Litany is sung. How do you break it?
+- [x] ~~Hesk falls~~ Arrested under martial law on day 9, with Marta there.
 - [ ] Crane's binding at the **Lantern Spire** at the spring tide (**day 10**).
 - [x] ~~The Choir's threat against Hettie~~ Foiled.
 - [ ] **The Choir holds Old Fen.** They want the Eye at the Mouth at the turning of the spring tide.

@@ -330,3 +330,14 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
     Fen's chain key is still on the **Cantor's belt**. The Cantor sleeps for a while on a stone ledge by the Mouth after dusk, with Gannet keeping watch (and dozing).
   - Perception DC 18: Fen has noticed the eye socket. He saw a glint, and he's pretending not to look.
   - Staying hidden longer: Stealth with advantage again.
+
+## Downtime, days 8-9: Plan A (set before rolling)
+- **Fake reliquary**: the ship's armourer beats brass, and Sable engraves it. Dex check (+4, plus advantage from the armourer's help) vs DC 12. On a success it passes at a distance in green light.
+  (Up close, Investigation DC 15 sees through it. The Choir's sense of the Eye is the real tell, and that's covered by the real Eye being in the socket within 60 ft.)
+- **Ossian's rehearsal with the crystal**: the crystal blazes when he sings, and **the real Eye answers** (the reliquary hums, the sea around the ship ripples, and the water
+  drops a few inches). Confirmed: **holding the crystal while singing gives advantage on the strike to shatter the Eye**.
+- **Striking the Eye**: while the Litany is being sung and the Eye is in the Mouth (resting on the lip or between the stone teeth), it's AC 10; any hit for 1+ damage shatters it.
+  It must happen before the song ends (10 minutes, about 100 rounds), but the Choir and Crane will interfere.
+- **Pip picking the lock**: Dex +2 with Tib's spare picks, no proficiency. DC 12.
+- **Day 9 dusk, martial law**: Grane's marines take the Watch house. **Hesk** is arrested with Marta present, and **Dunmore** too. **Vey** is only arrested if Sable tells Grane about her letter (it's still undecided; the player hasn't said).
+- Crane's rehearsal check (pre-rolled 3): **Crane does NOT notice** the fake crystal.
