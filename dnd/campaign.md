@@ -342,6 +342,9 @@ the tide has been coming in wrong.
     Ossian was silent.
   - R5: Fen took a spear and guarded the gallery. **Hettie rappelled down** but landed hard (6 damage), and her cutlass missed the Cantor. **Pip's rock killed the wounded acolyte.**
     **The Cantor Commanded "SILENCE!" a THIRD time.** Ossian failed (7) and is silenced again. *(She must be running low on magic.)*
+    **Sable rappelled onto the lip of the Mouth** (14) and his rapier hit the Cantor for 5. The two guards missed Sable and Hettie. **Tib, on a NAT 20, killed the last acolyte on him.**
+    Ossian was silent.
+  - R6: Hettie's cutlass hit the Cantor for 7 (**Cantor 21/33**). Pip's rock was a nat 1. **The Cantor cast Inflict Wounds on Sable and rolled a NAT 1: a miss.**
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
