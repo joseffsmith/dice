@@ -70,7 +70,7 @@ Sources: Charlatan (Deception, Sleight of Hand) · Bard (Stealth, Persuasion, In
 - Tools of the con: signet ring of the imaginary **Duke of Vellmoor**
 - **The brass reliquary** (the Eye): back with Sable. Warm, humming. Opens if he holds it and says *"vael thessa morun"*
 - **2 potions of healing** (2d4+2 each)
-- **Fake reliquary** (brass decoy, for Tib)
+- ~~Fake reliquary~~ given to Tib (disguised as Sable)
 - **Short iron maul** (from the ship's armourer; 1d6 bludgeoning), for striking the Eye
 - **The Lantern's real focusing crystal**: palm-sized and blue-green; glows when the Litany is sung nearby
 - ~~Ossian's tide charts~~ given to Admiral Grane

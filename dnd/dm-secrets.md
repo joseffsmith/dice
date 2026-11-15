@@ -341,3 +341,6 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
 - **Pip picking the lock**: Dex +2 with Tib's spare picks, no proficiency. DC 12.
 - **Day 9 dusk, martial law**: Grane's marines take the Watch house. **Hesk** is arrested with Marta present, and **Dunmore** too. **Vey** is only arrested if Sable tells Grane about her letter (it's still undecided; the player hasn't said).
 - Crane's rehearsal check (pre-rolled 3): **Crane does NOT notice** the fake crystal.
+- Day 10: Sable tells Grane about **Vey's letter**. The letter itself went to Crane on day 5, but under martial law Grane sends marines to search the temple.
+  In Vey's study they find **Crane's replies** ("Keep your doors shut when the bells ring, Tidewarden, and the headland will be spared"). **Vey is arrested.**
+  With the temple in imperial hands, Grane orders it **opened to anyone from the lower city who comes** tonight (not a forced evacuation, but it'll save many).

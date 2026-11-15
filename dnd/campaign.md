@@ -308,6 +308,12 @@ the tide has been coming in wrong.
 - **Dusk, day 9: MARTIAL LAW.** Grane's marines, in full colours, took the Watch house. **Captain Hesk was dragged out in chains**, and **Sergeant Dunmore** too.
   **Marta was there.** She looked Hesk in the eye, said nothing at all, and walked away.
 
+### Day 10: THE SPRING TIDE (the turning at midnight)
+- Dawn: the sea is throbbing like a heartbeat and going out hours early.
+- Sable told Grane about **Vey's letter**. Marines searched the temple and found **Crane's replies** in her study.
+  **High Tidewarden Vey arrested.** Grane ordered the Temple of the Tides **opened to anyone from the lower city** tonight.
+- Afternoon: Sable disguised **Tib as Sable** (24, so DC 24 to see through it). Tib carries the **fake reliquary**.
+
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
 ## NPCs
@@ -328,7 +334,7 @@ the tide has been coming in wrong.
 - **Inky Mabb**: ancient gnome forger in the Gutterwick. Has forged the Emperor's seal. Saw through Sable's copy.
 - **Old Fen**: barkeep of the Leaky Bucket. Covered their escape. **Taken hostage by the Choir.**
 - **Brother Ossian**: young, nervous tide-priest. Knows the Litany. Ally. **Freed from the temple**, along with his charts. A fugitive now.
-- **High Tidewarden Cassia Vey**: head of the Temple of the Tides. **Colluding with Crane**: she knows about the flood, keeps it quiet, and expects the headland to be spared.
+- **High Tidewarden Cassia Vey**: colluded with Crane over the flood. **Arrested** under martial law on day 10.
 - **Brother Tamsin**: older priest, sour, Vey's yes-man.
 - **Sister Ilse, the Cantor**: leader of the Choir. Gills, coral staff. Wants the Eye put back in the Mouth's empty socket.
 - **Pip** (Pipistrelle): a halfling street kid (she/her). Sharp and mercenary. Paid 2 gp so far. Now travelling with Sable; **Sable owes her a favour**. Non-combatant.
