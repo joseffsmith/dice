@@ -463,7 +463,12 @@ the tide has been coming in wrong.
 
 ---
 
-# ADVENTURE 2: Vessmouth (not yet begun)
+# ADVENTURE 2: Vessmouth
 - Hook: the Lantern Guild's Grand Council letter: *"The Vessmouth Eye is located. Proceed."*
 - Vessmouth: a northern city, home of the Academy where Magister Thale taught.
 - New DM secrets will go in `dm-secrets-vessmouth.md` (don't read it!). `dm-secrets.md` is now safe to read.
+
+## Session log: Vessmouth
+### Day 1
+- Three weeks' sail north on a merchant brig: Sable, Tib, Pip (Moss stayed in Saltmarrow with Mother Pell). It's late autumn, with the first snows.
+- Arrived at **Vessmouth**, a cold port and university town at the head of a fjord, under the vast **Hvitfell Glacier**. Ice floes in the harbour.
