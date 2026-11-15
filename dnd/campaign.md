@@ -290,7 +290,7 @@ the tide has been coming in wrong.
     - **Old Fen has spotted the eye socket.** He glanced up once and is now carefully pretending he didn't.
 - Went back to the ship: climbed the ladder, slipped past the fork guards (16/23/15), and Needle rowed them out. No trouble.
 - **Night of day 7: council of war** aboard the *Aurelian Dawn* with the whole team. **Plan A, "The Decoy", chosen:**
-  1. Dusk on day 10: Grane declares martial law.
+  1. Dusk on day 9 (the eve of the tide): Grane declares martial law.
   2. Marta, Fross and the marines go down the diggers' shaft and **hold the gallery** against Crane.
   3. Sable, Ossian, Hettie and Pip take the **eye socket**, and Hettie rigs a rope.
   4. **Tib, disguised as Sable**, walks in through Pier Nine at low tide with a **fake box**.
