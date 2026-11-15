@@ -322,6 +322,11 @@ the tide has been coming in wrong.
   is holding him at the lip of the Mouth for the exchange. (The Choir can feel the real Eye overhead and thinks it's Tib's.)
 - ~11:30pm: **Crane and 6 grey-coats** came down the shaft to ambush the exchange, and **hit Marta's line**. **The line held** (23 vs 13). The grey-coats broke.
   Crane fled back up the rope ladder with Fross in pursuit, and the chase is undecided (a tie).
+- 11:41pm: Sable gave **Ossian Bardic Inspiration**.
+- **11:42pm: Ossian began the Litany.** The crystal blazed from the eye socket like a lighthouse. **Initiative:** Fen 20, Hettie 16, Gannet 16, Pip 15, Cantor 13,
+  Sable 10, Acolytes 10, Tib 8, Ossian 3.
+  - R1: **Fen bit Gannet and broke free** (8 vs 6), but Gannet grabbed him again (6 vs 4), about 10 ft from the Mouth. Hettie lowered a second, weighted rope.
+    Pip dived into the flooded arch. **The Cantor cast Hold Person on Ossian. He SAVED** (12 vs DC 11) and kept singing.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
