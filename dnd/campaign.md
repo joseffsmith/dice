@@ -331,6 +331,10 @@ the tide has been coming in wrong.
     (one hit for 4, so **Tib 14/27**), and 2 guarded the Mouth. **Tib** disengaged and threw his knife at Gannet with sneak attack for 11. **GANNET DOWN. Fen freed.**
   - R2: Fen grabbed Hettie's weighted lifeline, and Hettie started hauling him up. Pip surfaced beside him.
     **The Cantor's second Hold Person on Ossian: SAVED again** (12). The song goes on. The 3 acolytes in the arch will reach the socket on their turn.
+    Sable **readied Sleep** for when the acolytes surfaced, and rolled **27: ALL THREE asleep** in the gallery. Tib took 9 from three attacks (**Tib 5/27**), and his two
+    shortsword hits left one acolyte at 3 HP.
+  - R3: Hettie is hauling Fen up (he reaches the socket next round). Pip's rock missed. **The Cantor cast COMMAND ("SILENCE!") on Ossian.** He failed (9, and the inspiration die
+    rolled a 1, so 10 vs DC 11). **On his next turn Ossian must fall silent, and the Litany will break.** It will have to be restarted.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
