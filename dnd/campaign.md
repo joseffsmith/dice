@@ -357,6 +357,9 @@ the tide has been coming in wrong.
     **...and TIB, WEARING SABLE'S FACE, STRUCK THE EYE: 22. THE EYE OF THE SLEEPER IS SHATTERED.**
 - The **focusing crystal took up the song** by itself, carrying the Litany to its end. **The Mouth began to close**, the chapel began to flood, and
   **the barnacles fell away** from every acolyte. The Cantor is drowning in the closing throat.
+- **Escape:** Sable put his people first. Tib took Pip toward the kelp ladder, and Pip woke the 2 sleepers by the arch on the way. Fen and Ossian woke the 3 in the gallery.
+  - R1: Hettie's climb failed (7). Sable tried to haul the drowning Cantor out and failed (8).
+  - R2: Hettie helped (advantage), but Sable failed again (11). Tib reached the kelp ladder. **Pip slipped back into the water** (6). The Mouth is nearly shut.
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
