@@ -335,6 +335,9 @@ the tide has been coming in wrong.
     shortsword hits left one acolyte at 3 HP.
   - R3: Hettie is hauling Fen up (he reaches the socket next round). Pip's rock missed. **The Cantor cast COMMAND ("SILENCE!") on Ossian.** He failed (9, and the inspiration die
     rolled a 1, so 10 vs DC 11). **On his next turn Ossian must fall silent, and the Litany will break.** It will have to be restarted.
+    Sable cast **Healing Word on Tib** (+9, last slot) and **Vicious Mockery** on the Cantor, but she rolled a nat 20 on the save. Tib took 5 (**Tib 9/27**) and missed twice.
+    **Ossian fell silent, and the Litany broke.**
+  - R4: **Fen reached the socket**, so Hettie's hands are free. Pip's rock missed. **The Cantor Commanded "SILENCE!" again**, and Ossian failed (8). **He'll be silent again this round.**
 
 **XP awarded, session 1:** 25 (Gannet) + 75 (rescuing Tib from the Drowned Chapel) = **100 XP**.
 
