@@ -375,3 +375,14 @@ _Written down so the plot stays consistent and I can't change it to suit myself.
   so Ossian can stop singing and flee. The Mouth begins to close. The chapel floods over **5 rounds**. The transformation breaks, and the barnacles fall away from every acolyte.
   **The Cantor** is in the closing throat. She's no longer gilled (the change is breaking), and she's drowning and reaching up. Anyone at the lip can try to pull her out
   (Athletics DC 13, an action). If nobody does, she's taken down with the Mouth. The **5 sleeping acolytes** will drown in the rising water unless woken (an action each, or one shout from Fen in the gallery for those 3).
+
+## Epilogue (set before narrating)
+- Grane: an **imperial pardon** for Sable and Tib (the bounty is void), a reward of **250 gp** from the Admiralty's prize fund for Crane's capture,
+  and an **offer**: an Admiralty commission as an imperial *intelligencer*, a spy who can be anyone. That's the hook for future adventures. (The player decides.)
+- Marta: offered **Captain of the Watch** to rebuild it honestly. She accepts, if Sable doesn't need her.
+- Ossian: the temple elders, shamed, ask him to be **Keeper of the Tides** (acting head until a new Tidewarden is chosen). He'd want the crystal, but it's Sable's to give.
+- Ilse the fishwife: Grane will try her with the Choir's ringleaders. Sable's testimony could save her: "she was not herself".
+- Crane, Hesk, Voss, Vey: shipped to the capital in chains for imperial trial.
+- Pip names favour #1: *"Teach me. The faces. The voices. All of it."* Favour #2 is held for later.
+- Pell: knits Sable a mustard-yellow scarf, the Gutterwick's mark of protection. Any Gutterwick member will help him.
+- Tib: *"So. Partner. What's next?"*
